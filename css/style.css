@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Blitz';
+  src: url('/fonts/Blitz.ttf');
+}
+.site-header {
+  padding: 30px 0;
+}
+.site-logo {
+  color: #E8280B;
+  font-family: 'Blitz', serif;
+}
+.site-tagline {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.home-section-1 {
+  background-image: url(/img/);
+}
