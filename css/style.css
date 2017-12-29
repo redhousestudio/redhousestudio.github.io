@@ -244,3 +244,40 @@ ul.breadcrumb-nav {
     width: 100%;
   }
 }
+
+.discography-section-hero {
+  background-image: url(/img/bg-discography-section-1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 614px;
+  padding: 30px 0;
+}
+.discography-section-hero a {
+  color: #4a4343;
+}
+.discography-section-hero iframe {
+  display: block;
+  margin: auto;
+}
+.discography-projects-container {
+  padding: 30px 0;
+  background-image: url(/img/bg-discography-section-1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.project-box {
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+  width: 190px;
+  height: 280px;
+  border-radius: 5px;
+  margin: auto;
+}
+.project-box a {
+  display: block;
+  color: #4a4343;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="discography-section-hero">
+  <div class="container">
+
+    {% include nav.html %}
+
+    <div class="row">
+      <div class="col-sm-6">
+
+        <h3 class="section-heading">discography</h3>
+
+        {{ content }}
+
+      </div>
+      <div class="col-sm-6">
+        {{ page.main_spotify_embed }}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="discography-projects-container">
+  <div class="container">
+    <div class="row">
+      {% for project in site.projects reversed %}
+      <div class="col-sm-3 col-xs-6">
+        <div class="project-box">
+          <a href="{{ project.url }}">
+            <img src="/img/{{ project.project_thumb_large }}">
+          </a>
+          <a href="#">{{project.title}}</a>
+          <p>{{project.role}}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
