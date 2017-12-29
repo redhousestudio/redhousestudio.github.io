@@ -31,8 +31,8 @@ layout: default
           <a href="{{ project.url }}">
             <img src="/img/{{ project.project_thumb_large }}">
           </a>
-          <a href="#">{{project.title}}</a>
-          <p>{{project.role}}</p>
+          <a href="{{ project.url }}">{{project.title}}</a>
+          <p class="project-categories">{{project.role}}</p>
         </div>
       </div>
       {% endfor %}
