@@ -272,6 +272,7 @@ ul.breadcrumb-nav {
   height: 280px;
   border-radius: 5px;
   margin: auto;
+  position: relative;
 }
 .project-box a {
   display: block;
@@ -282,4 +283,12 @@ ul.breadcrumb-nav {
 }
 .project-categories {
   color: #E8280B;
+}
+.project-show-all {
+  width: fit-content;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
