@@ -15,6 +15,10 @@ a:hover {
 }
 .site-header {
   padding: 30px 0;
+  display: flex;
+}
+.site-header h1 {
+  margin-bottom: 20px;
 }
 .site-logo {
   color: #E8280B !important;
@@ -25,13 +29,27 @@ a:hover {
   font-weight: bold;
   font-size: 16px;
 }
+.nav-wrapper {
+  margin: auto;
+}
+ul.breadcrumb-nav {
+  list-style-type: none;
+  text-align: right;
+}
+.breadcrumb-nav li {
+  display: inline-block;
+  margin: 1px;
+}
+.breadcrumb-nav li a {
+  color: #4a4343;
+}
+
 .section-heading {
   color: #E8280B;
   font-family: 'Russo One', sans-serif;
   margin-bottom: 20px;
   text-transform: uppercase;
 }
-
 .home-section-hero {
   background-image: url(/img/bg-home-section-1.png);
   background-repeat: no-repeat;
@@ -91,6 +109,69 @@ a:hover {
 }
 .site-social-media a {
   margin: 10px;
+}
+
+.project-section-main {
+  background-size: cover;
+}
+.project-content p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.project-content img {
+  width: 100%;
+  max-width: 100%;
+}
+.project-content iframe {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.project-title {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.artist-website {
+  color: #4a4343;
+  display: block;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.artist-social {
+  font-size: 40px;
+  margin: 10px;
+  color: #4a4343;
+}
+.project-section-nav {
+  height: 160px;
+  background-image: url(/img/bg-project-quick-links.png);
+  display: flex;
+}
+.project-section-nav .container{
+  margin: auto;
+}
+.project-nav {
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+  width: fit-content;
+  text-align: center;
+  border-radius: 5px;
+}
+.project-nav img {
+  display: block;
+  margin: auto;
+}
+.project-nav a {
+  display: block;
+  margin: auto;
+  color: #4a4343;
+  text-decoration: none;
+}
+.project-nav.all {
+  margin: auto;
+}
+.project-nav.next {
+  margin-left: auto;
 }
 
 /* Studio Modal */

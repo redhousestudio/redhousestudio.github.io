@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<style>
+  .project-section-main {
+    background-image: url( /img/{{ page.project_background_image }} );
+  }
+</style>
+
+<div class="project-section-main">
+  <div class="container">
+    {% include nav.html %}
+
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="project-title"> {{ page.title }} </h3>
+      </div>
+      <div class="col-sm-6 project-content">
+
+        {{ content }}
+        {% if page.artist_website %}
+        <a href="{{ page.artist_website }}" class="artist-website"> {{ page.artist_name }} Website </a>
+        {% endif %}
+        {% if page.artist_itunes %}
+        <a href="{{ page.artist_itunes }}" class="artist-social"> <i class="fa fa-apple" aria-hidden="true"></i></a>
+        {% endif %}
+        {% if page.artist_spotify %}
+        <a href="{{ page.artist_spotify }}" class="artist-social"> <i class="fa fa-spotify" aria-hidden="true"></i></a>
+        {% endif %}
+
+      </div>
+
+      {% include modal.html %}
+
+    </div>
+
+  </div>
+</div>
+
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+{% if page.collection %}
+  {% assign  document = site[the_collection]  %}
+{% endif %}
+{% for links in document  %}
+  {% if links.title == page.title %}
+    {% unless forloop.first %}
+    {% assign prev_url = prev.url %}
+    {% assign prev_thumb = prev.project_thumb_small %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = document[forloop.index] %}
+      {% assign next_url = next.url %}
+      {% assign next_thumb = next.project_thumb_small %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = links %}
+{% endfor %}
+
+<div class="project-section-nav">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        {% if prev_url %}
+        <div class="project-nav prev">
+          <a href="{{ prev_url }}"><img src="/img/{{ prev_thumb }}" alt="">previous</a>
+        </div>
+        {% endif %}
+
+      </div>
+      <div class="col-sm-4">
+        <div class="project-nav all">
+          <a href="/discography/"><img src="/img/see-all-3-dots.png" alt="">see all</a>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        {% if next_url %}
+        <div class="project-nav next">
+          <a href="{{ next_url }}"><img src="/img/{{ next_thumb }}" alt="">next</a>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
