@@ -1,5 +1,24 @@
 ---
 layout: default
+studio_items:
+  - img: project001-image01-thumb.png
+    name: Project 1
+  - img: project001-image02-thumb.png
+    name: Project 2
+  - img: project001-image03-thumb.png
+    name: Project 3
+  - img: project001-image01-thumb.png
+    name: Project 1
+  - img: project001-image02-thumb.png
+    name: Project 2
+  - img: project001-image03-thumb.png
+    name: Project 3
+  - img: project001-image01-thumb.png
+    name: Project 1
+  - img: project001-image02-thumb.png
+    name: Project 2
+  - img: project001-image03-thumb.png
+    name: Project 3
 ---
 
 <div class="home-section-hero">
@@ -38,8 +57,36 @@ layout: default
 <div class="home-section-studio">
   <div class="container">
     <div class="row">
-      <h3 class="section-heading">studio</h3>
+      <div class="col-sm-6">
+        <h3 class="section-heading">studio</h3>
+        <p>
+          RedHouse is a 'perfomance studio'. An intimate studio where musical ideas can be captured without interrupting the flow of a musician. One room where everybody is togather working on the same thing. Mixing or recording, composing or jammin'. Lotsa instrument and amps available to play.<br />
+          And yes, I have Phase-Liner-Monitoring, and yes a fancy Millennia pre-amp too, and I could go on dropping names. But that is not the essence of a studio in my view.<br />
+        </p>
+        <p>
+          Today 1 computer can do all the recording, editng, programming, you just need a place that sounds good and where you feel comfortable.... and a guy that knows how to work that sh*t...)<br />
+          blabla
+        </p>
+      </div>
 
+      <div class="col-sm-6">
+        <div class="studio-items-wrapper">
+          <div class="row">
+            {% for item in page.studio_items %}
+            <div class="col-sm-4 col-xs-6 studio-item">
+              <img src="/img/{{ item.img }}" alt="{{ item.name }}">
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
     </div>
   </div>
+</div>
+
+<!-- Studio Item Modal -->
+<div id="studio-modal" class="modal" tabindex="-1">
+  <span class="close" data-dismiss="modal">&times;</span>
+  <img class="modal-content" id="studio-item-img" src="">
+  <div id="studio-item-caption"></div>
 </div>
