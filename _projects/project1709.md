@@ -2,13 +2,24 @@
 layout: project
 show_on_frontpage: true
 permalink: "/projects/evelien-van-den-broek-false-memories.html"
+
 title:  "Evelien van den Broek - False Memories"
+project_name: "False Memories"
 role: "Mixed"
 category: mixed
+
+artist_name: "Evelien van den Broek"
+artist_website: "http://www.evelienvandenbroek.com"
+artist_spotify: "https://open.spotify.com/artist/3EeAAzTYWZUEXidKA5BCJf"
+
+project_thumb_small: project1709-thumb-small.png
+project_thumb_large: project1709-thumb-large.png
 project_background_image: 
-project_thumb_small: project104-thumb-small.png
-project_thumb_large: project104-thumb-large.png
-project_images: [project104-image01.png, project104-image02.png, project104-image03.png, project104-image04.png]
+project_thumbnails:
+  - img: project1709-image01-thumb.png
+  - img: project1709-image02-thumb.png
+  - img: project1709-image03-thumb.png
+  - img: project1709-image04-thumb.png
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.

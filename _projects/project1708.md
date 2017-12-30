@@ -2,13 +2,23 @@
 layout: project
 show_on_frontpage: true
 permalink: "/projects/niklas-pashburg-spark.html"
+
 title:  "Niklas Pashburg - Spark"
-role: "co-Produced, Mixed"
-category: produced mixed
+project_name: "Spark"
+role: "co-Produced, Programming, Mixed"
+category: produced programming mixed
+
+artist_name: "Niklas Pashburg"
+artist_spotify: "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+
+project_thumb_small: project1708-thumb-small.png
+project_thumb_large: project1708-thumb-large.png
 project_background_image: 
-project_thumb_small: project105-thumb-small.png
-project_thumb_large: project105-thumb-large.png
-project_images: [project105-image01.png, project105-image02.png, project105-image03.png, project105-image04.png]
+project_thumbnails:
+  - img: project1708-image01-thumb.png
+  - img: project1708-image02-thumb.png
+  - img: project1708-image03-thumb.png
+  - img: project1708-image04-thumb.png
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
