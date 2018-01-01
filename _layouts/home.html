@@ -25,29 +25,33 @@ layout: default
       <div class="col-sm-12">
         <h3 class="section-heading">discography</h3>
       </div>
+
       {% for project in site.projects reversed %}
       {% if project.show_on_frontpage == true %}
-      <div class="col-sm-3 col-xs-6">
-        <div class="project-box">
-          <a href="{{ project.url }}">
-            <img src="/img/{{ project.project_thumb_large }}">
-          </a>
-          <a href="{{ project.url }}">{{project.title}}</a>
-          <p class="project-categories">{{project.role}}</p>
-        </div>
+      <div class="col-sm-3 col-xs-6 home-section-discography-project ">
+          <a href="{{ project.url }}" target="_blank" class="project-button">
+          <div class="project-box">
+
+              <img src="/img/{{ project.project_thumb_large }}">
+
+          <div >
+            {{project.title}}
+          </div>
+            <p class="project-categories">{{project.role}}</p>
+          </div>
+        </a>
       </div>
       {% endif %}
       {% endfor %}
-
       <div class="col-sm-3 col-xs-6">
-        <div class="project-box">
-          <div class="project-show-all">
-            <a href="/discography/">
-              <img src="/img/see-all-3-dots.png">
-              <br> see all
-            </a>
+        <a href="/discography/"  target="_blank" class="project-button">
+          <div class="project-box">
+            <div class="project-show-all">
+                <img src="/img/see-all-3-dots.png">
+                <br> see all
+            </div>
           </div>
-        </div>
+        </a>
       </div>
     </div>
   </div>

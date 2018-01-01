@@ -2,6 +2,9 @@
   font-family: 'Blitz';
   src: url('/fonts/Blitz.ttf');
 }
+body{
+  font-size: 14px;
+}
 a {
   color: #E8280B;
   text-decoration: underline;
@@ -66,6 +69,7 @@ ul.breadcrumb-nav {
 }
 .home-section-hero {
   background-image: url(/img/bg-home-section-1.png);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 614px;
@@ -73,13 +77,18 @@ ul.breadcrumb-nav {
 }
 .home-section-discography {
   background-image: url(/img/bg-home-section-discograpy.png);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 750px;
   padding: 30px 0;
 }
+.home-section-discography-project{
+  float: left;
+}
 .home-section-studio {
   background-image: url(/img/bg-home-section-studio.png);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 450px;
@@ -127,6 +136,7 @@ ul.breadcrumb-nav {
 
 .project-section-main {
   background-size: cover;
+  background-position: center;
 }
 .project-content p {
   margin-top: 20px;
@@ -140,9 +150,16 @@ ul.breadcrumb-nav {
   margin-top: 40px;
   margin-bottom: 30px;
 }
+.project-section-font{
+  font-family: Roboto Mono;
+}
 .project-title {
   margin-top: 30px;
   margin-bottom: 30px;
+}
+
+.social-icon{
+  padding-bottom: 20px;
 }
 .artist-website {
   color: #4a4343;
@@ -158,7 +175,8 @@ ul.breadcrumb-nav {
 }
 .project-section-nav {
   min-height: 160px;
-  background-image: url(/img/bg-project-quick-links.png);
+  background-image: url(/img/bg-project-quick-links.png) ;
+  background-position: center;
   display: flex;
 }
 .project-section-nav .container{
@@ -269,9 +287,9 @@ ul.breadcrumb-nav {
 
 .discography-section-hero {
   background-image: url(/img/bg-discography-section-1.png);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 614px;
   padding: 30px 0;
 }
 .discography-section-hero a {
@@ -284,6 +302,7 @@ ul.breadcrumb-nav {
 .discography-projects-container {
   padding: 30px 0;
   background-image: url(/img/bg-discography-section-1.png);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -297,18 +316,26 @@ ul.breadcrumb-nav {
   margin: 20px auto;
   position: relative;
 }
-.project-box a {
+.project-box:hover{
+  border: 1px solid #E8280B;
+  text-decoration: none;
+}
+
+a.project-button {
   display: block;
   color: #4a4343;
   text-decoration: none;
   font-weight: bold;
-  margin-top: 10px;
+}
+.project-show-all{
+  text-decoration: none;
 }
 .project-box img {
   max-width: 100%;
 }
 .project-categories {
   color: #E8280B;
+  font-size: 12px;
 }
 .project-show-all {
   width: fit-content;
@@ -317,4 +344,10 @@ ul.breadcrumb-nav {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+}
+@media (min-width: 1200px)
+{
+.container {
+     width: 970px;
+}
 }
