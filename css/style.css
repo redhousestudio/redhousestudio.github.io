@@ -80,7 +80,7 @@ ul.breadcrumb-nav {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 750px;
+  min-height: 614px;
   padding: 30px 0;
 }
 .home-section-discography-project{
@@ -95,7 +95,7 @@ ul.breadcrumb-nav {
   padding: 30px 0;
 }
 .studio-items-wrapper {
-  text-align: center;
+  text-align: right;
   max-width: 380px;
   margin-left: auto;
   margin-right: auto;
@@ -158,9 +158,10 @@ ul.breadcrumb-nav {
   padding-bottom: 50px;
 }
 .artist-website {
+  font-weight: bold;
   color: #4a4343;
   display: block;
-  font-size: 16px;
+  font-size: 15px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
