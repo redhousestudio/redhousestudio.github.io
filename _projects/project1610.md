@@ -26,7 +26,7 @@ project_thumbnails:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
-My work on the front page of the Deatsche Grammofon website. That was cool to se after all the hard work.
+My work on the front page of the Deutsche Grammophon website. That was cool to se after all the hard work.
 ![DG frontpage](../../img/project1610-promoimage.png)
 
 Joep thanked me on his facebook page with these kind words:
