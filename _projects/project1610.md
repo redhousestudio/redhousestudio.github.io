@@ -32,6 +32,10 @@ My work on the front page of the Deatsche Grammofon website. That was cool to se
 Joep thanked me on his facebook page with these kind words:
 ![DG frontpage](../../img/project1610-facebookquote.png)
 
+And we even made it to [the Guardian](https://www.theguardian.com/music/2017/may/13/joep-beving-dutch-pianist-spotify-star-solipsism):
+
+>From kitchen composer to Spotify star - Dutch pianist hits big time...But the way it’s recorded, engineered and mixed, it sounds so big.
+
 
 <iframe src="https://open.spotify.com/embed/album/4IrmlNwO8aXQlFghPYl01q" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
 
