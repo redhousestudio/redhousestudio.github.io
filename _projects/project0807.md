@@ -12,8 +12,8 @@ artist_name: "Knalpot"
 artist_website: "http://www.knalpot.eu/news.php"
 artist_itunes: 
 artist_spotify: "https://open.spotify.com/artist/1nHZtsiBdGoQPrBoPIjcFi"
-artist_soundcloud:
-artist_facebook:
+artist_soundcloud: 
+artist_facebook: "https://www.facebook.com/knalpot.2000/"
 
 project_thumb_small: project0807-thumb-small.png
 project_thumb_large: project0807-thumb-large.png
@@ -42,4 +42,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, 
 
 Nam ut tincidunt urna, ut dictum nunc. Suspendisse ac ultrices arcu, in lobortis sem. In elementum metus id justo molestie mattis. Integer consequat dolor vitae sodales hendrerit. Sed dignissim lacus est, eget vulputate sem finibus sed. Nulla dictum fermentum efficitur. Praesent vitae nulla nisl. Morbi augue nisl, pulvinar at pellentesque ut, ullamcorper sed dolor.
 
-[knalpot website](http://www.knalpot.eu/news.php)

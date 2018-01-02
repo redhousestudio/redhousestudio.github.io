@@ -13,7 +13,7 @@ artist_website: "http://joepbeving.com"
 artist_itunes: 
 artist_spotify: "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
 artist_soundcloud:
-artist_facebook:
+artist_facebook: "https://www.facebook.com/joepbevingmusic/"
 
 project_thumb_small: project1503-thumb-small.png
 project_thumb_large: project1503-thumb-large.png
@@ -27,4 +27,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, 
 
 <iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
-[Joep Beving website](http://joepbeving.com)

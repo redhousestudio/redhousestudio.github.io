@@ -13,7 +13,7 @@ artist_website: "http://joepbeving.com"
 artist_itunes: 
 artist_spotify: "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
 artist_soundcloud:
-artist_facebook:
+artist_facebook: "https://www.facebook.com/joepbevingmusic/"
 
 project_thumb_small: project1610-thumb-small.png
 project_thumb_large: project1610-thumb-large.png
@@ -34,5 +34,3 @@ Maecenas id nibh ipsum. Vivamus diam ante, placerat blandit gravida non, element
 
 <iframe src="https://open.spotify.com/embed/album/4IrmlNwO8aXQlFghPYl01q" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
-
-[Artist website](http://joepbeving.com)
