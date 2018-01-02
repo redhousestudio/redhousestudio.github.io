@@ -20,6 +20,17 @@ project_thumbnails:
   - img: project0807-image01-thumb.png
   - img: project0807-image02-thumb.png
   - img: project0807-image03-thumb.png
+songs:
+  - name: Amjad
+    url: \songs\01 Swag Se Swagat - Tiger Zinda Hai.mp3
+    cover_art_url: img\bg-discography-section-1.png
+    album: Knalpot - Serious Outtakes
+    artist: Knalpot
+  - name:
+    url:
+    cover_art_url:
+    album:
+    artist:
 ---
 
 ###yttyt

@@ -29,7 +29,7 @@ layout: default
       {% for project in site.projects reversed %}
       {% if project.show_on_frontpage == true %}
       <div class="col-sm-3 col-xs-6 home-section-discography-project ">
-          <a href="{{ project.url }}" target="_blank" class="project-button">
+          <a href="{{ project.url }}" class="project-button">
           <div class="project-box">
 
               <img src="/img/{{ project.project_thumb_large }}">
@@ -44,7 +44,7 @@ layout: default
       {% endif %}
       {% endfor %}
       <div class="col-sm-3 col-xs-6">
-        <a href="/discography/"  target="_blank" class="project-button">
+        <a href="/discography/" class="project-button">
           <div class="project-box">
             <div class="project-show-all">
                 <img src="/img/see-all-3-dots.png">

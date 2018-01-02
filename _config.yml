@@ -24,7 +24,7 @@ defualts:
       layout: project
 
 
-plugins:
+plugins_dir:
   - jekyll-seo-tag
 
 # If you want to link only specific pages in your header, uncomment

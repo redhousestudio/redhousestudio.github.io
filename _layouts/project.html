@@ -22,6 +22,8 @@ layout: default
       <div class="col-sm-6 project-content social-icon">
 
         {{ content }}
+        {% include custom_audio_player.html %}
+
         {% if page.artist_website %}
         <a href="{{ page.artist_website }}" class="artist-website" target="_blank"> {{ page.artist_name }} Website </a>
         {% endif %}
@@ -33,15 +35,17 @@ layout: default
         {% endif %}
 
         {% if page.artist_soundcloud %}
-        <a href="{{ page.artist_spotify }}" class="artist-social" target="_blank"> <i class="fa fa-soundcloud" aria-hidden="true"></i></a>
+        <a href="{{ page.artist_soundcloud }}" class="artist-social" target="_blank"> <i class="fa fa-soundcloud" aria-hidden="true"></i></a>
         {% endif %}
 
         {% if page.artist_facebook %}
-        <a href="{{ page.artist_spotify }}" class="artist-social" target="_blank"> <i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+        <a href="{{ page.artist_facebook }}" class="artist-social" target="_blank"> <i class="fa fa-facebook-official" aria-hidden="true"></i></a>
         {% endif %}
 
-      </div>
 
+
+
+      </div>
       {% include modal.html %}
 
     </div>
@@ -74,20 +78,20 @@ layout: default
       <div class="col-xs-4">
         {% if prev_url %}
         <div class="project-nav prev">
-          <a href="{{ prev_url }}"><img src="/img/{{ prev_thumb }}" alt="" target="_blank">previous</a>
+          <a href="{{ prev_url }}"><img src="/img/{{ prev_thumb }}" alt="" >previous</a>
         </div>
         {% endif %}
 
       </div>
       <div class="col-xs-4">
         <div class="project-nav all">
-          <a href="/discography/"><img src="/img/see-all-3-dots.png" alt="" target="_blank">see all</a>
+          <a href="/discography/"><img src="/img/see-all-3-dots.png" alt="" >see all</a>
         </div>
       </div>
       <div class="col-xs-4">
         {% if next_url %}
         <div class="project-nav next">
-          <a href="{{ next_url }}"><img src="/img/{{ next_thumb }}" alt="" target="_blank">next</a>
+          <a href="{{ next_url }}"><img src="/img/{{ next_thumb }}" alt="">next</a>
         </div>
         {% endif %}
       </div>
