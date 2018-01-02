@@ -9,13 +9,15 @@ role: "co-Produced, Programming, Mixed"
 category: produced programming mixed
 
 artist_name: "Niklas Pashburg"
+artist_website:
+artist_itunes: 
 artist_spotify: "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-artist_soundcloud: 
+artist_soundcloud:
 artist_facebook:
-artist_itunes:
+
 project_thumb_small: project1708-thumb-small.png
 project_thumb_large: project1708-thumb-large.png
-project_background_image:
+project_background_image: bg-project-default.png
 project_thumbnails:
   - img: project1708-image01-thumb.png
   - img: project1708-image02-thumb.png

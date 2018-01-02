@@ -9,13 +9,15 @@ role: "co-Produced, Programming, Mixed"
 category: produced programming mixed
 
 artist_name: "Tom Trago"
+artist_website:
+artist_itunes: 
 artist_spotify: "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
 artist_soundcloud:
 artist_facebook:
-artist_itunes:
+
 project_thumb_small: project0808-thumb-small.png
 project_thumb_large: project0808-thumb-large.png
-project_background_image:
+project_background_image: bg-project-default.png
 project_thumbnails:
   - img: project0808-image01-thumb.png
   - img: project0808-image02-thumb.png

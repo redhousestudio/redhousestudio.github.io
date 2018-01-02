@@ -10,13 +10,14 @@ category: mixed
 
 artist_name: "Evelien van den Broek"
 artist_website: "http://www.evelienvandenbroek.com"
+artist_itunes:
 artist_spotify: "https://open.spotify.com/artist/3EeAAzTYWZUEXidKA5BCJf"
 artist_soundcloud: 
 artist_facebook:
-artist_itunes:
+
 project_thumb_small: project1709-thumb-small.png
 project_thumb_large: project1709-thumb-large.png
-project_background_image:
+project_background_image: bg-project-default.png
 project_thumbnails:
   - img: project1709-image01-thumb.png
   - img: project1709-image02-thumb.png
