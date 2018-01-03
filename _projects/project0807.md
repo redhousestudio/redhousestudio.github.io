@@ -11,7 +11,7 @@ category: produced recorded mixed
 artist_name: "Knalpot"
 artist_website: "http://www.knalpot.eu/news.php"
 artist_itunes: 
-artist_spotify: "https://open.spotify.com/artist/1nHZtsiBdGoQPrBoPIjcFi"
+artist_spotify:
 artist_soundcloud: 
 artist_facebook: "https://www.facebook.com/knalpot.2000/"
 
