@@ -13,7 +13,7 @@ artist_website:
 artist_itunes: 
 artist_spotify: "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
 artist_soundcloud: "https://soundcloud.com/niklas-paschburg/"
-artist_facebook:
+artist_facebook: "https://www.facebook.com/niklas.paschburg/"
 
 project_thumb_small: project1708-thumb-small.png
 project_thumb_large: project1708-thumb-large.png

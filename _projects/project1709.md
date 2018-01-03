@@ -13,7 +13,7 @@ artist_website: "http://www.evelienvandenbroek.com"
 artist_itunes:
 artist_spotify: "https://open.spotify.com/artist/3EeAAzTYWZUEXidKA5BCJf"
 artist_soundcloud: 
-artist_facebook:
+artist_facebook: "https://www.facebook.com/evelienvandenbroek"
 
 project_thumb_small: project1709-thumb-small.png
 project_thumb_large: project1709-thumb-large.png
