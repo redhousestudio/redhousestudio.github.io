@@ -18,7 +18,6 @@ artist_facebook: "https://www.facebook.com/evelienvandenbroek"
 project_thumb_small: project1709-thumb-small.png
 project_thumb_large: project1709-thumb-large.png
 project_background_image: bg-project-default.png
->>>>>>> 217aabdc8930484a3b17bf57561b6f0261161c07
 project_thumbnails:
   - img: "project1709-image01-thumb.png"
   - img: "project1709-image03-thumb.png"
