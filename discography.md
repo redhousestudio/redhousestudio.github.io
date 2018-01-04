@@ -2,6 +2,7 @@
 layout: discography
 permalink: /discography/
 main_spotify_embed: >
+  <p class="artist-website">RedHouse Productions Playlist</p>
   <iframe src="https://open.spotify.com/embed/user/foxinsocks/playlist/2WOVrNg2dGuE1iJwoq5hrt" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis turpis eget volutpat hendrerit. Praesent sed libero diam. Praesent maximus aliquam bibendum. Sed pulvinar congue feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
