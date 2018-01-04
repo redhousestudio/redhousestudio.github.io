@@ -4,7 +4,7 @@ show_on_frontpage: false
 permalink: "/projects/opera-spanga-samson-and-delilah.html"
 
 title:  "Samson and Delilah (FILM)"
-project_name: "Opera Spanga - Samson and Delilah (FILM)"
+project_name: "Samson and Delilah"
 role: "Recorded"
 category: recorded
 
@@ -29,4 +29,4 @@ project_thumbnails:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NJvI3n6PHU8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/NJvI3n6PHU8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

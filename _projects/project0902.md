@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, 
 
 Here I want to play a few onter mp3's form my server
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_ZT6KJ-3zw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/r_ZT6KJ-3zw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 All tracks produced, arranged, recorded and mixed by Gijs van Klooster in the RedHouse.
 

@@ -25,6 +25,6 @@ project_thumbnails:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
-<iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
 
 Or listen in your favourite player [here](https://dg.lnk.to/solipsism).
