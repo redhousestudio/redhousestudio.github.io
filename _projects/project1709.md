@@ -6,22 +6,24 @@ permalink: "/projects/evelien-van-den-broek-false-memories.html"
 title:  "Evelien van den Broek - False Memories"
 project_name: "False Memories"
 role: "Mixed"
-category: mixed
+category: "mixed"
 
 artist_name: "Evelien van den Broek"
 artist_website: "http://www.evelienvandenbroek.com"
 artist_spotify: "https://open.spotify.com/artist/3EeAAzTYWZUEXidKA5BCJf"
-artist_soundcloud: 
+artist_soundcloud:
 artist_facebook:
 artist_itunes:
-project_thumb_small: project1709-thumb-small.png
-project_thumb_large: project1709-thumb-large.png
+project_thumb_small: "project1709-thumb-small.png"
+project_thumb_large: "project1709-thumb-large.png"
 project_background_image:
 project_thumbnails:
-  - img: project1709-image01-thumb.png
-  - img: project1709-image02-thumb.png
-  - img: project1709-image03-thumb.png
-  - img: project1709-image04-thumb.png
+  - img: "project1709-image01-thumb.png"
+  - img: "project1709-image03-thumb.png"
+  - img: "project1709-image02-thumb.png"
+  - img: "project1709-image04-thumb.png"
+songs_url: "https://mp3.djmazadownload.xyz/music/Singles/Beparwah%20-%20DJMaza.Info%20-%20320Kbps.mp3"
+video_url: "http://videodl.djmaza.click/storage/0417/Raabta%20Title%20Song%20Raabta%20DJMaza.Life.mp4"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.

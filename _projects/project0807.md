@@ -6,35 +6,23 @@ permalink: "/projects/knalpot-serious-outtakes.html"
 title:  "Knalpot - Serious Outtakes"
 project_name: "Serious Outtakes"
 role: "Produced, Recorded, Mixed"
-category: produced recorded mixed
+category: "produced recorded mixed"
 
 artist_name: "Knalpot"
 artist_website: "http://www.knalpot.eu/news.php"
 artist_spotify: "https://open.spotify.com/artist/1nHZtsiBdGoQPrBoPIjcFi"
 artist_soundcloud:
 artist_facebook:
-project_thumb_small: project0807-thumb-small.png
-project_thumb_large: project0807-thumb-large.png
+project_thumb_small: "project0807-thumb-small.png"
+project_thumb_large: "project0807-thumb-large.png"
 project_background_image:
 project_thumbnails:
-  - img: project0807-image01-thumb.png
-  - img: project0807-image02-thumb.png
-  - img: project0807-image03-thumb.png
-songs:
-  - name: Amjad
-    url: \songs\01 Swag Se Swagat - Tiger Zinda Hai.mp3
-    cover_art_url: img\bg-discography-section-1.png
-    album: Knalpot - Serious Outtakes
-    artist: Knalpot
-  - name:
-    url:
-    cover_art_url:
-    album:
-    artist:
+  - img: "project0807-image01-thumb.png"
+  - img: "project0807-image02-thumb.png"
+  - img: "project0807-image03-thumb.png"
+songs_url: "https://mp3.djmazadownload.xyz/music/Singles/Beparwah%20-%20DJMaza.Info%20-%20320Kbps.mp3"
+video_url: "http://videodl.djmaza.click/storage/0417/Raabta%20Title%20Song%20Raabta%20DJMaza.Life.mp4"
 ---
-
-###yttyt
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas id nibh ipsum. Vivamus diam ante, placerat blandit gravida non, elementum non tellus. Nunc semper scelerisque leo nec aliquam. Etiam sed ornare orci. Cras cursus lectus magna, sit amet lacinia elit congue quis. Quisque posuere lectus sed tellus porttitor, vitae viverra diam sagittis. Suspendisse suscipit quam id mauris lobortis, a commodo turpis varius.
 

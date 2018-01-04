@@ -137,6 +137,7 @@ ul.breadcrumb-nav {
 .project-section-main {
   background-size: cover;
   background-position: center;
+  padding-top: 30px;
 }
 .project-content p {
   margin-top: 20px;
@@ -312,6 +313,7 @@ ul.breadcrumb-nav {
   margin: 20px auto;
   position: relative;
   font-family: Roboto-Mono;
+  border: solid 1px transparent;
 }
 .project-box:hover{
   border: 1px solid #E8280B;
@@ -874,6 +876,10 @@ div#flat-black-player-container div#player-bottom div#volume-container input[typ
 }
 div#flat-black-player-container div#player-bottom div#volume-container input[type="range"].amplitude-volume-slider::-ms-tooltip {
   display: none;
+}
+div#flat-black-player-container{
+  margin: none;
+  margin-left: 15px;
 }
 div#flat-black-player-container div#player-bottom div#volume-container:after {
   content: "";
