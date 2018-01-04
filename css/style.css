@@ -80,7 +80,7 @@ ul.breadcrumb-nav {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 750px;
+  min-height: 614px;
   padding: 30px 0;
 }
 .home-section-discography-project{
@@ -156,12 +156,14 @@ ul.breadcrumb-nav {
   margin-bottom: 30px;
 }
 .social-icon{
-  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 50px;
 }
 .artist-website {
+  font-weight: bold;
   color: #4a4343;
   display: block;
-  font-size: 16px;
+  font-size: 15px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -181,7 +183,7 @@ ul.breadcrumb-nav {
 }
 .project-nav {
   padding: 10px;
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: rgba(36, 32, 31, 0.35);
   width: fit-content;
   text-align: center;
   border-radius: 5px;
@@ -288,6 +290,7 @@ ul.breadcrumb-nav {
   background-repeat: no-repeat;
   background-size: cover;
   padding: 30px 0;
+  min-height: 614px;
 }
 .discography-section-hero a {
   color: #4a4343;
@@ -298,17 +301,17 @@ ul.breadcrumb-nav {
 }
 .discography-projects-container {
   padding: 30px 0;
-  background-image: url(/img/bg-discography-section-1.png);
+  background-image: url(/img/bg-discography-section-2.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .project-box {
   padding: 10px;
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: rgba(36, 32, 31, 0.35);
   width: 190px;
   max-width: 100%;
-  height: 280px;
+  height: 270px;
   border-radius: 5px;
   margin: 20px auto;
   position: relative;
