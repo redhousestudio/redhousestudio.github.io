@@ -32,4 +32,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, 
 
 Maecenas id nibh ipsum. Vivamus diam ante, placerat blandit gravida non, elementum non tellus. Nunc semper scelerisque leo nec aliquam. Etiam sed ornare orci. Cras cursus lectus magna, sit amet lacinia elit congue quis. Quisque posuere lectus sed tellus porttitor, vitae viverra diam sagittis. Suspendisse suscipit quam id mauris lobortis, a commodo turpis varius.
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/6p_YD68O5ho" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/6p_YD68O5ho?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

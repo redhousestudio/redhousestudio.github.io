@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, 
 Maecenas id nibh ipsum. Vivamus diam ante, placerat blandit gravida non, elementum non tellus. Nunc semper scelerisque leo nec aliquam. Etiam sed ornare orci. Cras cursus lectus magna, sit amet lacinia elit congue quis. Quisque posuere lectus sed tellus porttitor, vitae viverra diam sagittis. Suspendisse suscipit quam id mauris lobortis, a commodo turpis varius.
 
 Album teaser:
-<iframe width="400" height="225" src="https://www.youtube.com/embed/fZX1TvUH9nk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/fZX1TvUH9nk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 On Spotify:
 <iframe src="https://open.spotify.com/embed/album/0rxoFQA54Fxuwbf6lMBfKd" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
