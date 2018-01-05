@@ -323,7 +323,7 @@ ul.breadcrumb-nav {
 }
 .project-box:hover{
   background-color: rgba(228, 227, 227, 0.85);
-  border: 2px solid #E8280B;
+  border: 1px solid #E8280B;
   text-decoration: none;
 }
 
