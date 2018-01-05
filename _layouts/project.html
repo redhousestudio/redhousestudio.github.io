@@ -76,8 +76,8 @@ layout: default
     <div class="row">
       <div class="col-xs-4">
         {% if next_url %}
-        <div class="project-nav next">
-          <a href="{{ next_url }}"><img src="/img/{{ next_thumb }}" alt="">p</a>
+        <div class="project-nav prev">
+          <a href="{{ next_url }}"><img src="/img/{{ next_thumb }}" alt="">next</a>
         </div>
         {% endif %}
       </div>
@@ -90,8 +90,8 @@ layout: default
 
       <div class="col-xs-4">
         {% if prev_url %}
-        <div class="project-nav prev">
-          <a href="{{ prev_url }}"><img src="/img/{{ prev_thumb }}" alt="" >n</a>
+        <div class="project-nav next">
+          <a href="{{ prev_url }}"><img src="/img/{{ prev_thumb }}" alt="" >previous</a>
         </div>
         {% endif %}
       </div>
