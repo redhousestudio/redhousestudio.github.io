@@ -322,7 +322,7 @@ ul.breadcrumb-nav {
   max-width: 100%;
 }
 .project-box:hover{
-  background-color: rgba(06, 02, 01, 0.35);
+  background-color: rgba(228, 227, 227, 0.85);
   border: 2px solid #E8280B;
   text-decoration: none;
 }
