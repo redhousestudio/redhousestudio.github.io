@@ -182,7 +182,7 @@ ul.breadcrumb-nav {
 }
 .project-nav {
   padding: 10px;
-  background-color: rgba(36, 32, 31, 0.35);
+  background-color: rgba(36, 32, 31, 0.15);
   width: fit-content;
   text-align: center;
   border-radius: 5px;
@@ -307,7 +307,7 @@ ul.breadcrumb-nav {
 }
 .project-box {
   padding: 10px;
-  background-color: rgba(36, 32, 31, 0.35);
+  background-color: rgba(36, 32, 31, 0.15);
   width: 100%;
   max-width: 230px;
   height: 300px;
@@ -322,7 +322,7 @@ ul.breadcrumb-nav {
   max-width: 100%;
 }
 .project-box:hover{
-  border: 1px solid #E8280B;
+  border: 3px solid #E8280B;
   text-decoration: none;
 }
 
