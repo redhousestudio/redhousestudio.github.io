@@ -333,9 +333,6 @@ a.project-button {
   text-decoration: none;
   font-weight: bold;
 }
-.project-show-all{
-  text-decoration: none;
-}
 .project-box img {
   max-width: 100%;
 }
@@ -345,11 +342,15 @@ a.project-button {
 }
 .project-show-all {
   width: fit-content;
+  text-decoration: none;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+}
+.project-show-all img {
+  width: 28px !important;
 }
 @media (min-width: 1200px)
 {
