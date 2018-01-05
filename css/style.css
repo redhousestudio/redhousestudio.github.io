@@ -310,7 +310,7 @@ ul.breadcrumb-nav {
   padding: 10px;
   background-color: rgba(36, 32, 31, 0.35);
   width: 100%;
-  max-width: 100%;
+  max-width: 230px;
   height: 300px;
   border-radius: 5px;
   margin: 20px auto;
