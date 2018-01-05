@@ -75,22 +75,22 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-xs-4">
-        {% if prev_url %}
-        <div class="project-nav prev">
-          <a href="{{ prev_url }}"><img src="/img/{{ prev_thumb }}" alt="" >previous</a>
+        {% if next_url %}
+        <div class="project-nav next">
+          <a href="{{ next_url }}"><img src="/img/{{ next_thumb }}" alt="">Next</a>
         </div>
         {% endif %}
 
       </div>
-      <div class="col-xs-4">
-        <div class="project-nav all">
-          <a href="/discography/"><img src="/img/see-all-3-dots.png" alt="" >see all</a>
+        <div class="col-xs-4">
+          <div class="project-nav all">
+            <a href="/discography/"><img src="/img/see-all-3-dots.png" alt="" >SEE ALL</a>
+          </div>
         </div>
-      </div>
       <div class="col-xs-4">
-        {% if next_url %}
-        <div class="project-nav next">
-          <a href="{{ next_url }}"><img src="/img/{{ next_thumb }}" alt="">next</a>
+                {% if prev_url %}
+        <div class="project-nav prev">
+          <a href="{{ prev_url }}"><img src="/img/{{ prev_thumb }}" alt="" >Previous</a>
         </div>
         {% endif %}
       </div>
