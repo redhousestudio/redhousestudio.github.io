@@ -3,7 +3,7 @@
   src: url('/fonts/Blitz.ttf');
 }
 body{
-  font-size: 14px;
+  font-size: 15px;
 }
 a {
   color: #E8280B;
@@ -167,7 +167,7 @@ ul.breadcrumb-nav {
   margin-bottom: 10px;
 }
 .artist-social {
-  font-size: 40px;
+  font-size: 30px;
   margin: 10px;
   color: #4a4343;
 }
@@ -314,7 +314,8 @@ ul.breadcrumb-nav {
   border-radius: 5px;
   margin: 20px auto;
   position: relative;
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Gudea', sans-serif;
+  font-size: 14px;
   border: solid 1px transparent;
 }
 .project-box img {
