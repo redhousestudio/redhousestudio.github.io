@@ -315,7 +315,7 @@ ul.breadcrumb-nav {
   border-radius: 5px;
   margin: 20px auto;
   position: relative;
-  font-family: Roboto-Mono;
+  font-family: 'Roboto Mono', monospace;
   border: solid 1px transparent;
 }
 .project-box img {
