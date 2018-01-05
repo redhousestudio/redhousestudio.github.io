@@ -2,6 +2,7 @@
 layout: discography
 permalink: /discography/
 main_spotify_embed: >
+  <p>&nbsp;</p>
   <p align="center" class="artist-website">RedHouse Productions Playlist</p>
   <iframe src="https://open.spotify.com/embed/user/foxinsocks/playlist/2WOVrNg2dGuE1iJwoq5hrt" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
 ---
