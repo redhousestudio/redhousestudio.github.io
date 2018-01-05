@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/billy-queen-very-cool-ep.html"
+permalink: "/projects/billy-queen-very-cool-ep/"
 
 title:  "Billy Queen - Very Cool EP"
 project_name: "Billy Queen"

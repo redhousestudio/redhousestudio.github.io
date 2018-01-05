@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/projects/avi-adir-woods-awakening.html"
+permalink: "/projects/avi-adir-woods-awakening/"
 
 title:  "Avi Adir - Woods Awakening"
 project_name: "Woods Awakening"

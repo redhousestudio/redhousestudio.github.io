@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/projects/niklas-pashburg-spark.html"
+permalink: "/projects/niklas-pashburg-spark/"
 
 title:  "Niklas Pashburg - Spark"
 project_name: "Spark"

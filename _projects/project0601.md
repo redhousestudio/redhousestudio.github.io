@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/opera-spanga-samson-and-delilah.html"
+permalink: "/projects/opera-spanga-samson-and-delilah/"
 
 title:  "Samson and Delilah (FILM)"
 project_name: "Samson and Delilah"

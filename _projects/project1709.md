@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/projects/evelien-van-den-broek-false-memories.html"
+permalink: "/projects/evelien-van-den-broek-false-memories/"
 
 title:  "Evelien van den Broek - False Memories"
 project_name: "False Memories"
