@@ -1,19 +1,19 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/bobs-green/"
+permalink: "/projects/bobs-green-kleine-fabriek/"
 
-title:  "Bob's Green"
-project_name: "Bob's Green"
-role: "Whatever"
-category:
+title:  "Bob's Green - Kleine Fabriek"
+project_name: "Kleine Fabriek"
+role: "Produced, Arranged, Performed, Recorded, Mixed"
+category: produced arranged performed recorded mixed
 
 artist_name: "Bob's Green"
 artist_website: "http://www.bobsgreen.nl"
 artist_itunes: 
 artist_spotify:
 artist_soundcloud: "https://soundcloud.com/bobsgreen"
-artist_facebook:
+artist_facebook: "https://www.facebook.com/bobsgreenband/"
 
 project_thumb_small: project0501-thumb-small.png
 project_thumb_large: project0501-thumb-large.png
@@ -25,8 +25,12 @@ project_thumbnails:
   - img: project0501-image04-thumb.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+Bob's Green is my band. I play with them forever and they are my best friends. I play bass and synthesizers and record and produce sometimes with them. But it's my hobby project, we jam funky jazzy improvised wierd rhythms in all signatures you can dream of. Merijn Bolink playes keyboards and Phillip ten Bosch plays the drums. We kick shit everytime we play together!
+
+This is a track we were asked to create for a short movie.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/184232504&amp;color=%23e8280b&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+Pretty neat, compared to what we noramlly sound like ;)
 
 -
