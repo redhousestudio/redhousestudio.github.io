@@ -360,6 +360,12 @@ a.project-button {
      width: 970px;
 }
 }
+
+.footer-copyright {
+  font-size: 10px;
+  font-weight: normal;
+}
+
 /* ------------------------------- Audio player ---------------------*/
 
 div#flat-black-player-container {
