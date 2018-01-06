@@ -25,7 +25,7 @@ project_thumbnails:
   - img: project0501-image04-thumb.png
 ---
 
-Bob's Green is my band. I play with them forever and they are my best friends. I play bass and synthesizers and record and produce sometimes with them. But it's my hobby project, we jam funky jazzy improvised wierd rhythms in all signatures you can dream of. Merijn Bolink playes keyboards and Phillip ten Bosch plays the drums. We kick shit everytime we play together!
+Bob's Green is my band. I've played with them forever and they are my best friends. I play bass and synthesizers and record and produce sometimes with them. But it's my hobby project, we jam funky jazzy improvised wierd rhythms in all signatures you can dream of. Merijn Bolink playes keyboards and Phillip ten Bosch plays the drums. We kick shit everytime we play together.
 
 This is a track we were asked to create for a short movie.
 
