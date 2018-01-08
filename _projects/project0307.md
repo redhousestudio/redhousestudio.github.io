@@ -29,11 +29,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, 
 
 
 <video class="plyr " >
-  <source src="{{ page.video_url }}" type="video/mp4">
+  <source src="http://videodl.djmaza.click/storage/0417/Raabta%20Title%20Song%20Raabta%20DJMaza.Life.mp4" type="video/mp4">
 </video>
 
 Enter Some text
 
 <audio  class="plyr my-player">
-  <source src="{{ page.songs_url }}" type="audio/mp3">
+  <source src="https://mp3.djmazadownload.xyz/music/Singles/Beparwah%20-%20DJMaza.Info%20-%20320Kbps.mp3" type="audio/mp3">
 </audio>
