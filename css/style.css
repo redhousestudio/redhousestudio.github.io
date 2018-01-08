@@ -138,6 +138,9 @@ ul.breadcrumb-nav {
   background-position: center;
   padding-top: 30px;
 }
+.project-thumbs-wrapper {
+  padding-top: 30px;
+}
 .project-content p {
   margin-top: 20px;
   margin-bottom: 20px;
