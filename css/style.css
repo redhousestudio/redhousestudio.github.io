@@ -155,7 +155,6 @@ ul.breadcrumb-nav {
 }
 .project-title {
   margin-top: 30px;
-  margin-bottom: 30px;
 }
 .social-icon{
   padding-top: 20px;
@@ -341,6 +340,11 @@ a.project-button {
 .project-categories {
   color: #E8280B;
   font-size: 14px;
+}
+.project-role {
+  color: #E8280B;
+  font-size: 14px;
+  margin-top: 0;
 }
 .project-show-all {
   width: fit-content;
