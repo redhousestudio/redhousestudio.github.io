@@ -23,8 +23,6 @@ project_thumbnails:
   - img: "project1708-image02-thumb.png"
   - img: "project1708-image03-thumb.png"
   - img: "project1708-image04-thumb.png"
-songs_url: "https://mp3.djmazadownload.xyz/music/Singles/Beparwah%20-%20DJMaza.Info%20-%20320Kbps.mp3"
-video_url: "http://videodl.djmaza.click/storage/0417/Raabta%20Title%20Song%20Raabta%20DJMaza.Life.mp4"
 
 ---
 
