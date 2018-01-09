@@ -25,14 +25,15 @@ project_thumbnails:
   - img: "project1709-image04-thumb.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+False Memories is a project of Evelien van den Broek. Touring the theaters with an electronic ensemble of amazing musicians.
+Songs about memories of events that have never actually occurred. All lyrics are drawn from anonymous public submissions to A.R. Hopwood’s False Memory Archive. With vocals, trombone, synths, beats and electronics.
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3086864903/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://evelienvandenbroek.bandcamp.com/album/false-memories">False Memories by Evelien van den Broek</a></iframe>
-
-Maecenas id nibh ipsum. Vivamus diam ante, placerat blandit gravida non, elementum non tellus. Nunc semper scelerisque leo nec aliquam. Etiam sed ornare orci. Cras cursus lectus magna, sit amet lacinia elit congue quis. Quisque posuere lectus sed tellus porttitor, vitae viverra diam sagittis. Suspendisse suscipit quam id mauris lobortis, a commodo turpis varius.
-
-Album teaser:
 <iframe width="400" height="225" src="https://www.youtube.com/embed/fZX1TvUH9nk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-On Spotify:
-<iframe src="https://open.spotify.com/embed/album/0rxoFQA54Fxuwbf6lMBfKd" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/0zBOSrNp7k4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3086864903/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://evelienvandenbroek.bandcamp.com/album/false-memories">False Memories by Evelien van den Broek</a></iframe>
+
+All songs composed, arranged, and produced by Evelien van den Broek
+Musicians: Evelien van den Broek – vocals, electronics, programming, Koen Kaptijn – trombone, Tony Roe – Moog and OB-6 synths, clavinet, Wurlitzer
+Mixed by Gijs van Klooster at Redhouse, Mastered by Jarno Volman at Gold Soundz Mastering

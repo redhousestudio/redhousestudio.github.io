@@ -10,7 +10,7 @@ category: "produced programming mixed"
 
 artist_name: "Niklas Pashburg"
 artist_website:
-artist_itunes: 
+artist_itunes: "https://itunes.apple.com/nl/album/spark-single/1293281162?l=en"
 artist_spotify: "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
 artist_soundcloud: "https://soundcloud.com/niklas-paschburg/"
 artist_facebook: "https://www.facebook.com/niklas.paschburg/"
@@ -25,11 +25,11 @@ project_thumbnails:
   - img: "project1708-image04-thumb.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+I heard Niklas' music for the first time in the car with Horst. And was immediately attracted to his music. We later met in the studio of Niklas and we started working on the material Niklas had recorded. We had a great time, and did what needed to be done: 
+together we shaped the story of all the tracks into this dreamy memory of the sea. Few tracks were recorded again and then I mixed everything in the RedHouse.
 
-
-<iframe src="https://open.spotify.com/embed/album/11j6ULOzrs1KIJSNX6ezxt" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
-
-Maecenas id nibh ipsum. Vivamus diam ante, placerat blandit gravida non, elementum non tellus. Nunc semper scelerisque leo nec aliquam. Etiam sed ornare orci. Cras cursus lectus magna, sit amet lacinia elit congue quis. Quisque posuere lectus sed tellus porttitor, vitae viverra diam sagittis. Suspendisse suscipit quam id mauris lobortis, a commodo turpis varius.
+This is the first single out now:
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/6p_YD68O5ho?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+Commissioned by [7k!](http://7klassik.com).
