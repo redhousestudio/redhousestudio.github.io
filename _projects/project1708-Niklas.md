@@ -25,11 +25,11 @@ project_thumbnails:
   - img: "project1708-image04-thumb.png"
 ---
 
-I heard Niklas' music for the first time in the car with Horst. And was immediately attracted to his music. We later met in the studio of Niklas and we started working on the material Niklas had recorded. We had a great time, and did what needed to be done: 
+I heard Niklas' music for the first time in the car with Horst and was immediately attracted to his music. We later met in the studio of Niklas and we started working on the material Niklas had recorded. We had a great time, and did what needed to be done: 
 together we shaped the story of all the tracks into this dreamy memory of the sea. Few tracks were recorded again and then I mixed everything in the RedHouse.
 
 This is the first single out now:
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/6p_YD68O5ho?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-Commissioned by [7k!](http://7klassik.com).
+Commissioned by (and will be released on) [7k!](http://7klassik.com).
