@@ -23,7 +23,8 @@ project_thumbnails:
   - img: "project1610-image02-thumb.png"
 ---
 
-After we made the breakthrough album Solipsism, Joep and I decided we start working on a new one immediately. We tuned the piano down a bit to 432 Hz (normally 440 Hz) for reasons that can only be experienced. And we began a journey of closely working on all the pieces, too make sure we would deliver the best piano album ever. Making sure all the pieces would together, shaping the album to completion.
+After we created the breakthrough album Solipsism together, Joep and I decided to start working on a new album immediately. And we began a journey of closely working on all the pieces, too make sure we would deliver the best piano album ever. Making sure all the pieces would together, shaping the album to completion.  
+We tuned the piano down a bit to 432 Hz (normally 440 Hz) for reasons that can only be experienced. I suggested it to Joep after reading [this](http://www.independent.co.uk/news/people/prince-held-a-facebook-qa-and-this-is-the-only-question-he-answered-9767679.html) and more information can be read [here](http://www.viewzone.com/432hertz222.html). We have done extensive testing and listening and we decided the music feels slightly better when tuned to 432.
 
 After the recordings Joep signed with the most famous record company in classical music [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?).
 
@@ -34,7 +35,6 @@ And we even made it to [the Guardian](https://www.theguardian.com/music/2017/may
 
 >"From kitchen composer to Spotify star - Dutch pianist hits big time... the way it’s recorded, engineered and mixed, it sounds so big"
 
-Listen here
 <iframe src="https://open.spotify.com/embed/album/4IrmlNwO8aXQlFghPYl01q" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
 
 Or listen in your favourite player [here](https://dg.lnk.to/beving-prehension).
