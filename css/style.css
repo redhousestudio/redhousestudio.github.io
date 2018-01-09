@@ -41,6 +41,7 @@ iframe {
 ul.breadcrumb-nav {
   list-style-type: none;
   text-align: right;
+  font-size: 10px;
 }
 .breadcrumb-nav li {
   display: inline-block;
