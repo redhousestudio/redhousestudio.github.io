@@ -27,4 +27,5 @@ project_thumbnails:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=1604714139/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://aviadir.bandcamp.com/album/boomerang-dream">Boomerang Dream by Avi Adir</a></iframe>
+
 ---

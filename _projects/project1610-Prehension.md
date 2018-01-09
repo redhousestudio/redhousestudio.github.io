@@ -45,4 +45,5 @@ A short movie was made to introduce the album:
 "A stunning album." [OC](https://ourculturemag.com/2017/04/09/204-2/)
 
 Currently I am working with Joep on the sequel of this. Stay tuned...
+
 ---
