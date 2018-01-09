@@ -28,7 +28,11 @@ project_thumbnails:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
-Here I want to play a few onter mp3's form my server
+<audio  class="plyr my-player">
+  <source src="https://mp3.djmazadownload.xyz/music/Singles/Beparwah%20-%20DJMaza.Info%20-%20320Kbps.mp3" type="audio/mp3">
+</audio>
+
+And for one of the songs a fancy video clip was made:
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/r_ZT6KJ-3zw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
