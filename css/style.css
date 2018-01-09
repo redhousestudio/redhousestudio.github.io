@@ -125,7 +125,7 @@ ul.breadcrumb-nav {
   display: flex;
 }
 .site-social-media {
-  font-size: 40px;
+  font-size: 30px;
   margin: auto;
   text-align: right;
 }
@@ -138,8 +138,10 @@ ul.breadcrumb-nav {
   background-position: center;
   padding-top: 30px;
 }
+.project-thumbs-wrapper {
+  padding-top: 30px;
+}
 .project-content p {
-  margin-top: 20px;
   margin-bottom: 20px;
 }
 .project-content img {
@@ -152,7 +154,6 @@ ul.breadcrumb-nav {
 }
 .project-title {
   margin-top: 30px;
-  margin-bottom: 30px;
 }
 .social-icon{
   padding-top: 20px;
@@ -292,9 +293,6 @@ ul.breadcrumb-nav {
   padding: 30px 0;
   min-height: 614px;
 }
-.discography-section-hero a {
-  color: #4a4343;
-}
 .discography-section-hero iframe {
   display: block;
   margin: auto;
@@ -311,7 +309,7 @@ ul.breadcrumb-nav {
   background-color: rgba(36, 32, 31, 0.15);
   width: 100%;
   max-width: 230px;
-  height: 300px;
+  height: 290px;
   border-radius: 5px;
   margin: 20px auto;
   position: relative;
@@ -342,6 +340,11 @@ a.project-button {
   color: #E8280B;
   font-size: 14px;
 }
+.project-role {
+  color: #E8280B;
+  font-size: 14px;
+  margin-top: 0;
+}
 .project-show-all {
   width: fit-content;
   text-decoration: none;
@@ -356,12 +359,18 @@ a.project-button {
 }
 @media (min-width: 1200px)
 {
-.container {
-     width: 970px;
-}
+	.container {
+	     width: 970px;
+	}
 }
 .next_link a
 {
 	text-decoration: none;
+
+}
+
+.footer-copyright {
+  font-size: 10px;
+  font-weight: normal;
 }
 /* ------------------------------- Audio player ---------------------*/
