@@ -25,8 +25,7 @@ project_thumbnails:
   - img: "project1708-image04-thumb.png"
 ---
 
-I heard Niklas' music for the first time in the car with Horst and was immediately attracted to his music. We later met in the studio of Niklas and we started working on the material Niklas had recorded. We had a great time, and did what needed to be done: 
-together we shaped the story of all the tracks into this dreamy memory of the sea. Few tracks were recorded again and then I mixed everything in the RedHouse.
+I heard Niklas' music for the first time in the car with Horst and was immediately attracted to his music. We later met in the studio of Niklas and we started working on the material Niklas had recorded. We had a great time and together we shaped the story of all tracks into a dreamy memory of the sea. Some tracks were recorded again and I mixed everything in the RedHouse.
 
 This is the first single out now:
 
