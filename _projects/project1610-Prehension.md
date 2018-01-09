@@ -23,6 +23,7 @@ project_thumbnails:
   - img: "project1610-image02-thumb.png"
 ---
 
+---
 After we created the breakthrough album Solipsism together, Joep and I decided to start working on a new album immediately. And we began a journey of closely working on all the pieces, too make sure we would deliver the best piano album ever. Making sure all the pieces would fit together, shaping the album to completion.  
 We tuned the piano down a bit to 432 Hz (normally 440 Hz) for reasons that can only be experienced. I suggested it to Joep after reading [this](http://www.independent.co.uk/news/people/prince-held-a-facebook-qa-and-this-is-the-only-question-he-answered-9767679.html) and more information can be read [here](http://www.viewzone.com/432hertz222.html). We have done extensive testing and listening and we concluded the music feels slightly better when tuned to 432.
 
@@ -46,3 +47,5 @@ A short movie was made to introduce the album:
 "A stunning album." [OC](https://ourculturemag.com/2017/04/09/204-2/)
 
 Currently I am working with Joep on the sequel of this. Stay tuned...
+
+---
