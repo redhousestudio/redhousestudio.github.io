@@ -41,7 +41,7 @@ iframe {
 ul.breadcrumb-nav {
   list-style-type: none;
   text-align: right;
-  font-size: 10px;
+  font-size: 11px;
 }
 .breadcrumb-nav li {
   display: inline-block;
@@ -193,6 +193,12 @@ ul.breadcrumb-nav {
   width: 70px;
   height: 90px;
   font-size: 13px;
+  border: solid 1px transparent;
+}
+.project-nav:hover{
+  background-color: rgba(228, 227, 227, 0.85);
+  border: 1px solid #E8280B;
+  text-decoration: none;
 }
 .project-nav img {
   display: block;
