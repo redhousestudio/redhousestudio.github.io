@@ -18,7 +18,7 @@ layout: default
     <div class="row">
       <div class="col-sm-12">
         <h3 class="project-title"> {{ page.title }} </h3>
-        <h3 class="project-role"> {{ page.role }} </h3>
+        <h3 class="project-categories"> {{ page.role }} </h3>
       </div>
       <div class="col-sm-6 project-content social-icon">
 
@@ -79,21 +79,32 @@ layout: default
       <div class="col-xs-4">
         {% if next_url %}
         <div class="project-nav prev">
-          <a href="{{ next_url }}"><img src="/img/{{ next_thumb }}" alt="">&larr;</a>
+          <a href="{{ next_url }}">
+            <div class="paginate">
+              <img src="/img/{{ next_thumb }}" alt="">&larr;
+            </div>
+          </a>
         </div>
         {% endif %}
       </div>
-
       <div class="col-xs-4">
         <div class="project-nav all">
-          <a href="/discography/"><img src="/img/see-all-3-dots.png" alt="" >SEE ALL</a>
+          <a href="/discography/">
+            <div class="paginate">
+              <img src="/img/see-all-3-dots.png" alt="" >SEE ALL
+            </div>
+          </a>
         </div>
       </div>
 
       <div class="col-xs-4">
         {% if prev_url %}
         <div class="project-nav next">
-          <a href="{{ prev_url }}"><img src="/img/{{ prev_thumb }}" alt="" >&rarr;</a>
+          <a href="{{ prev_url }}">
+            <div class="paginate">
+              <img src="/img/{{ prev_thumb }}" alt="" >&rarr;
+            </div>
+          </a>
         </div>
         {% endif %}
       </div>
