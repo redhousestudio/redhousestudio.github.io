@@ -18,7 +18,7 @@ layout: default
     <div class="row">
       <div class="col-sm-12">
         <h3 class="project-title"> {{ page.title }} </h3>
-        <h3 class="project-role"> {{ page.role }} </h3>
+        <h3 class="project-categories"> {{ page.role }} </h3>
       </div>
       <div class="col-sm-6 project-content social-icon">
 
@@ -75,32 +75,37 @@ layout: default
 </div>
 <div class="project-section-nav">
   <div class="container">
-    <div class="row next_link">
-      <div class="col-xs-4 ">
+    <div class="row">
+      <div class="col-xs-4">
         {% if next_url %}
-        <a href="{{ next_url }}">
-          <div class="project-nav prev">
-            <img src="/img/{{ next_thumb }}" alt="">&larr;
-          </div>
-        </a>
+        <div class="project-nav prev">
+          <a href="{{ next_url }}">
+            <div class="paginate">
+              <img src="/img/{{ next_thumb }}" alt="">&larr;
+            </div>
+          </a>
+        </div>
         {% endif %}
       </div>
-
       <div class="col-xs-4">
-        <a href="/discography/">
-          <div class="project-nav all">
-            <img src="/img/see-all-3-dots.png" alt="" >SEE ALL
-          </div>
-        </a>
+        <div class="project-nav all">
+          <a href="/discography/">
+            <div class="paginate">
+              <img src="/img/see-all-3-dots.png" alt="" >SEE ALL
+            </div>
+          </a>
+        </div>
       </div>
 
       <div class="col-xs-4">
         {% if prev_url %}
-        <a href="{{ prev_url }}">
-          <div class="project-nav next">
-            <img src="/img/{{ prev_thumb }}" alt="" >&rarr;
-          </div>
-        </a>
+        <div class="project-nav next">
+          <a href="{{ prev_url }}">
+            <div class="paginate">
+              <img src="/img/{{ prev_thumb }}" alt="" >&rarr;
+            </div>
+          </a>
+        </div>
         {% endif %}
       </div>
     </div>

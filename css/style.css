@@ -208,7 +208,7 @@ ul.breadcrumb-nav {
   margin-right: auto;
 }
 .project-nav.all img {
-  margin-top: 25px;
+  padding-top: 35px;
 }
 .project-nav.next {
   margin-left: auto;
@@ -353,6 +353,16 @@ a.project-button {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+}
+.paginate{
+  width: 70px;
+  height: 90px;
+  margin-left: -10px;
+  margin-top: -10px;
+}
+.paginate img{
+  padding-top: 10px;
+
 }
 .project-show-all img {
   width: 28px !important;
