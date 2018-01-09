@@ -369,7 +369,6 @@ a.project-button {
 }
 .paginate img{
   padding-top: 10px;
-
 }
 .project-show-all img {
   width: 28px !important;
@@ -380,14 +379,12 @@ a.project-button {
 	     width: 970px;
 	}
 }
-.next_link a
-{
+.next_link a {
 	text-decoration: none;
-
 }
 
 .footer-copyright {
-  font-size: 10px;
+  font-size: 8px;
   font-weight: normal;
 }
 /* ------------------------------- Audio player ---------------------*/
