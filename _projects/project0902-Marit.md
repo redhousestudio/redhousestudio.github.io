@@ -26,21 +26,24 @@ project_thumbnails:
   - img: project0902-image05-thumb.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+One day Billy Queen walked into my studio and wanted to record some tracks she wrote. With barely 3 fingers on the piano she played the songs to me and I really liked them! We both loved the old soul sound so much so we aimed for an old scool soul vibe for her songs. 
 
+1. As Time Goes By 
+<audio  class="plyr my-player">
+  <source src="https://mp3.djmazadownload.xyz/music/Singles/Beparwah%20-%20DJMaza.Info%20-%20320Kbps.mp3" type="audio/mp3">
+</audio>
+
+2. Melancholic 
 <audio  class="plyr my-player">
   <source src="https://mp3.djmazadownload.xyz/music/Singles/Beparwah%20-%20DJMaza.Info%20-%20320Kbps.mp3" type="audio/mp3">
 </audio>
 
 And for one of the songs a fancy video clip was made:
 
+3. Christmas Baby 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/r_ZT6KJ-3zw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-All tracks produced, arranged, recorded and mixed by Gijs van Klooster in the RedHouse.
-
 Track 1, 3, 4 composed by Billie Queen. Track 2 composed by Billie Queen and Gijs van Klooster. Track 5 composed by Allen Toussaint. Track 6 composed by James Brown.
-
-Mastered by Darius van Helfteren in Amsterdam Mastering.
 
 Drums on track 1, 2, 4, 5 by Stefan Kruger. 
 Bariton sax and solo on track 2 by Christan Grotenbrecht. 
@@ -50,3 +53,4 @@ Organ on track 5 by Stefan Schmidt.
 Piano and strings on track 1, horns on track 2 arranged by Henk Pool. 
 All other instruments by Gijs van Klooster.
 
+---
