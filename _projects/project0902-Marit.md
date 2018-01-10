@@ -26,7 +26,7 @@ project_thumbnails:
   - img: project0902-image05-thumb.png
 ---
 
-One day Billy Quenn walked into my studio and wanted to record some tracks she wrote. With barely 3 fingers on the piano she played the songs to me and I really liked them! We both loved the old soul sound so much so we aimed for an old scool soul vibe for her songs. 
+One day Billy Queen walked into my studio and wanted to record some tracks she wrote. With barely 3 fingers on the piano she played the songs to me and I really liked them! We both loved the old soul sound so much so we aimed for an old scool soul vibe for her songs. 
 
 1. As Time Goes By 
 <audio  class="plyr my-player">

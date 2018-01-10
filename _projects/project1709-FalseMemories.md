@@ -35,7 +35,7 @@ Songs about memories of events that have never actually occurred. All lyrics are
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3086864903/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://evelienvandenbroek.bandcamp.com/album/false-memories">False Memories by Evelien van den Broek</a></iframe>
 
 All songs composed, arranged, and produced by Evelien van den Broek
-Musicians: Evelien van den Broek – vocals, electronics, programming, Koen Kaptijn – trombone, Tony Roe – Moog and OB-6 synths, clavinet, Wurlitzer
+Musicians: Evelien van den Broek – vocals, electronics, programming, Koen Kaptijn – trombone, Tony Roe – Moog and OB-6 synths, clavinet, Wurlitzer.  
 Mixed by Gijs van Klooster at Redhouse, Mastered by Jarno Volman at Gold Soundz Mastering.
 
 ---
