@@ -7,7 +7,3 @@ main_spotify_embed: >
   <iframe src="https://open.spotify.com/embed/user/foxinsocks/playlist/2WOVrNg2dGuE1iJwoq5hrt" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
 ---
 Scroll down to see project details. You can download a complete overview [here](assets/cv/GijsvanKloosterCVM.pdf), or visit my [Discogs page](https://www.discogs.com/artist/413565-Gijs-Van-Klooster?sort=year%2Cdesc&limit=50&filter_anv=0&type=Credits&layout=med).
-
-On the right a Spotify playlist with music I produced/mixed.
-
-[Get in touch](mailto:gijs@redhouse.nl) and I will help you with your next project.
