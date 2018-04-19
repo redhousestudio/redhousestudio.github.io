@@ -23,7 +23,7 @@ project_thumbnails:
   - img: "project0808-image02-thumb.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+I worked with Tom Trago on this track for a few days, mixing, additional programming and structering this crazy cool beat. Play it loud!
 
 <iframe src="https://open.spotify.com/embed/track/0POq8kwZ2kFlHILreRzvEp" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
 

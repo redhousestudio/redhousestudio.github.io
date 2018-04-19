@@ -22,7 +22,7 @@ project_thumbnails:
   - img: project0307-image01-thumb.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae sem lobortis, dignissim ipsum a, consectetur ante. Quisque in lacus viverra, suscipit purus non, dictum nunc. Suspendisse in est sapien. Nunc sed risus non mauris feugiat luctus. Nulla risus risus, ornare non nibh ut, convallis accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+Janne and Arrien came in my studio before the first album was made, and I worked with them on this song:
 
 <iframe src="https://open.spotify.com/embed/track/2oczWeolYFcsnhq7YpZn6j" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
 

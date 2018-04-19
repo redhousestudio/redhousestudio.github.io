@@ -27,19 +27,18 @@ We tuned the piano down a bit to 432 Hz (normally 440 Hz) for reasons that can o
 
 After the recordings Joep signed with the most famous record company in classical music [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?).
 
-Joep thanked me on his Facebook page with these kind words:
-![DG frontpage](../../img/project1610-facebookquote.png)
-
-<iframe src="https://open.spotify.com/embed/album/4IrmlNwO8aXQlFghPYl01q" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
-
-Or listen in your favourite player [here](https://dg.lnk.to/beving-prehension).
-
 A short movie was made to introduce the album:
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/Tuh4_h93DZk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
+Listen to the album in your favourite player [here](https://dg.lnk.to/beving-prehension).
+
+Joep thanked me on his Facebook page with these kind words:
+![DG frontpage](../../img/project1610-facebookquote.png)
+
+
 And we even made it to [the Guardian](https://www.theguardian.com/music/2017/may/13/joep-beving-dutch-pianist-spotify-star-solipsism):
->"From kitchen composer to Spotify star - Dutch pianist hits big time... the way it’s recorded, engineered and mixed, it sounds so big"
+>"...the way it’s recorded, engineered and mixed, it sounds so big"
 
 [OC](https://ourculturemag.com/2017/04/09/204-2/):
 >"A stunning album." 

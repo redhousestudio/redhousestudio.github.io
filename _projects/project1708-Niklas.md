@@ -27,10 +27,10 @@ project_thumbnails:
 
 I heard Hand en  Niklas' music for the first time in the car with Horst and was immediately attracted to his music. We later met in the studio of Niklas and we started working on the material Niklas had recorded. We had a great time and together we shaped the story of all tracks into a dreamy memory of the sea. Some tracks were recorded again and I mixed everything in the RedHouse.
 
-This is the first single out now:
+This is the first single:
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/6p_YD68O5ho?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-Commissioned by (and will be released on) [7k!](http://7klassik.com).
+Commissioned by [7k!](http://7klassik.com).
 
 ---

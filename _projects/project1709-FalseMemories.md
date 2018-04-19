@@ -24,7 +24,6 @@ project_thumbnails:
   - img: "project1709-image02-thumb.png"
   - img: "project1709-image04-thumb.png"
 ---
-
 False Memories is a project of Evelien van den Broek. Touring the theaters with an electronic ensemble of amazing musicians.
 Songs about memories of events that have never actually occurred. All lyrics are drawn from anonymous public submissions to A.R. Hopwood’s False Memory Archive. With vocals, trombone, synths, beats and electronics.
 
@@ -37,5 +36,4 @@ Songs about memories of events that have never actually occurred. All lyrics are
 All songs composed, arranged, and produced by Evelien van den Broek
 Musicians: Evelien van den Broek – vocals, electronics, programming, Koen Kaptijn – trombone, Tony Roe – Moog and OB-6 synths, clavinet, Wurlitzer.  
 Mixed by Gijs van Klooster at Redhouse, Mastered by Jarno Volman at Gold Soundz Mastering.
-
 ---
