@@ -26,7 +26,7 @@ project_thumbnails:
   - img: "project0807-image05-thumb.png"
   - img: "project0807-image06-thumb.png"
 ---
-Gerri Jaeger and Raphael Vanoli are among the most talented and hard working musicians in the Dutch impro music scene. I Produced recorded and mixed their first album for Knalpot. We kicked ass, pom pom, had lots of fun and sounds like this:
+Gerri Jaeger and Raphael Vanoli are among the most talented and hardest working musicians in the Dutch impro music scene. I produced, recorded and mixed their first album for Knalpot in the RedHouse. We kicked ass, "pom pom", had lots of fun and sounds like this:
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3252295011/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://knalpot.bandcamp.com/album/serious-outtakes" >Serious Outtakes by Knalpot</a></iframe>
 

@@ -24,5 +24,9 @@ project_thumbnails:
   - img: project0801-image03-thumb.png
 ---
 
+Avi adir is an amzing multi intrumentalist, plays concerts all over the world, and makes an impression and friends everywhere he performs.
+Together we set out a journey to create this album. Recorded and mixed in the RedHouse.
+
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=1604714139/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://aviadir.bandcamp.com/album/boomerang-dream">Boomerang Dream by Avi Adir</a></iframe>
+
 ---
