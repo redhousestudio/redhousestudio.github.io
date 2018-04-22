@@ -4,7 +4,7 @@ permalink: /discography/
 
 ---
 
-It started with a kiss... on my new bass guitar... 13 years old.. My first compositions were recorded in 1990 on an analogue 4-track recorder and this stimulated my enthusiasm for music studio technology. I have played with bands and friends, bass, guitars and synths, recorders, (drum)computers eversince.
+It started with a kiss... on my new bass guitar... 13 years old.. My first compositions were recorded in 1990 on an analogue 4-track recorder. I have played with bands and friends, bass, guitars and synths, recorders, (drum)computers eversince.
 
 1999 - 2003 # Utrecht School of the Arts, Audio Design, Graduated with Honours.
 
