@@ -1,10 +1,7 @@
 ---
 layout: discography
 permalink: /discography/
-main_spotify_embed: >
-  <p>&nbsp;</p>
-  <p align="center" class="artist-website">RedHouse Productions Playlist</p>
-  <iframe src="https://open.spotify.com/embed/user/foxinsocks/playlist/2WOVrNg2dGuE1iJwoq5hrt" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
+
 ---
 
 It started with a kiss... on my new bass guitar... 13 years old.. My first compositions were recorded in 1990 on an analogue 4-track recorder and this stimulated my enthusiasm for music studio technology. I have played with bands and friends, bass, guitars and synths, recorders, (drum)computers eversince.
