@@ -37,7 +37,7 @@ Joep thanked me on his Facebook page with these kind words:
 ![DG frontpage](../../img/project1610-facebookquote.png)
 
 
-And we even made it to [the Guardian](https://www.theguardian.com/music/2017/may/13/joep-beving-dutch-pianist-spotify-star-solipsism):
+[the Guardian](https://www.theguardian.com/music/2017/may/13/joep-beving-dutch-pianist-spotify-star-solipsism) wrote:
 >"...the way it’s recorded, engineered and mixed, it sounds so big"
 
 [OC](https://ourculturemag.com/2017/04/09/204-2/):
