@@ -22,7 +22,7 @@ project_thumbnails:
   - img: project0307-image01-thumb.png
 ---
 
-Janne and Arrien came in my studio before this first album was made. I composed the melody for the vocals and helped construct this song:
+Janne and Arrien came in my studio before the first album of Room Eleven was made. I composed the melody for the vocals and helped construct this song:
 
 <iframe src="https://open.spotify.com/embed/track/2oczWeolYFcsnhq7YpZn6j" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
 
