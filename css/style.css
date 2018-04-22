@@ -16,7 +16,7 @@ iframe {
   max-width: 100%;
 }
 .wrapper {
-  color: #4a4343;
+  color: #2F2D2D;
   font-family: 'Gudea', sans-serif;
 }
 .site-header {
@@ -48,7 +48,7 @@ ul.breadcrumb-nav {
   margin: 1px;
 }
 .breadcrumb-nav li a {
-  color: #4a4343;
+  color: #2F2D2D;
 }
 blockquote{
     font-size: 15px;
@@ -167,7 +167,7 @@ blockquote{
 }
 .artist-website {
   font-weight: bold;
-  color: #4a4343;
+  color: #2F2D2D;
   display: block;
   font-size: 15px;
   margin-top: 10px;
@@ -176,7 +176,7 @@ blockquote{
 .artist-social {
   font-size: 30px;
   margin: 10px;
-  color: #4a4343;
+  color: #2F2D2D;
 }
 .project-section-nav {
   min-height: 160px;
@@ -212,7 +212,7 @@ blockquote{
 .project-nav a {
   display: block;
   margin: auto;
-  color: #4a4343;
+  color: #2F2D2D;
   text-decoration: none;
 }
 .project-nav.all {
@@ -318,7 +318,8 @@ blockquote{
 }
 .project-box {
   padding: 10px;
-  background-color: rgba(36, 32, 31, 0.15);
+  padding-top: 10px;
+  background-color: rgba(228, 227, 227, 0.25);
   width: 100%;
   max-width: 230px;
   height: 290px;
@@ -328,6 +329,7 @@ blockquote{
   font-family: 'Gudea', sans-serif;
   font-size: 14px;
   border: solid 1px transparent;
+  text-align: center;
 }
 .project-box img {
   width: 100%;
@@ -337,11 +339,12 @@ blockquote{
   background-color: rgba(228, 227, 227, 0.85);
   border: 1px solid #E8280B;
   text-decoration: none;
+  color: #2F2D2D
 }
 
 a.project-button {
   display: block;
-  color: #4a4343;
+  color: #2F2D2D;
   text-decoration: none;
 }
 
@@ -350,7 +353,7 @@ a.project-button {
 }
 .project-categories {
   color: #E8280B;
-  font-size: 14px;
+  font-size: 15px;
 }
 .project-role {
   color: #E8280B;
