@@ -22,6 +22,7 @@ project_thumbnails:
   - img: "project1610-image01-thumb.png"
   - img: "project1610-image02-thumb.png"
 ---
+
 After we created the breakthrough album Solipsism together, Joep and I decided to start working on a new album immediately. And we began a journey of closely working on all the pieces, too make sure we would deliver the best piano album ever. Making sure all the pieces would fit together, shaping the album to completion. I asked him to tune the piano down a bit to 432 Hz (normally 440 Hz) for reasons that can only be experienced.
 
 After the recordings Joep signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?).
