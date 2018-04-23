@@ -1,14 +1,14 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/projects/niklas-pashburg-spark/"
+permalink: "/projects/niklas-paschburg-spark/"
 
-title:  "Niklas Pashburg - Spark"
+title:  "Niklas Paschburg - Spark"
 project_name: "Spark"
 role: "co-Produced, Programming, Mixed"
 category: "produced programming mixed"
 
-artist_name: "Niklas Pashburg"
+artist_name: "Niklas Paschburg"
 artist_website:
 artist_itunes: "https://itunes.apple.com/nl/album/spark-single/1293281162?l=en"
 artist_spotify: "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
