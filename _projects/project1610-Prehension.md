@@ -30,11 +30,13 @@ After the recordings Joep signed with the legendary [Deutsche Grammophon](http:/
 A short movie was made to introduce the album:
 <iframe width="400" height="225" src="https://www.youtube.com/embed/Tuh4_h93DZk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-Listen to the album in your favourite player [here](https://dg.lnk.to/beving-prehension).
+<iframe src="https://open.spotify.com/embed/album/4IrmlNwO8aXQlFghPYl01q" width="400" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Or listen to the album in your favourite player [here](https://dg.lnk.to/beving-prehension).
 
 Joep thanked me on his Facebook page with these kind words:
 
-![DG frontpage](../../img/project1610-facebookquote.png)
+![Joep Facebook Quote](../../img/project1610-facebookquote.png)
 
 
 [the Guardian](https://www.theguardian.com/music/2017/may/13/joep-beving-dutch-pianist-spotify-star-solipsism) wrote:
@@ -44,5 +46,7 @@ Joep thanked me on his Facebook page with these kind words:
 >"A stunning album." 
 
 Currently I am working with Joep on the sequel of this. Stay tuned...
+
+![Joep Facebook Quote](../../img/project1610-facebookquote2.png)
 
 ---

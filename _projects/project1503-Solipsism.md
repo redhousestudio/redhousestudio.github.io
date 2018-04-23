@@ -27,7 +27,7 @@ Joep Beving was in my studio for a long time since he moved his equipment to the
 
 And so I did and little did we know what was about to happen next. Joep's album went all the way to the stars and back, touching millions of lives with his gentle piano stories. We have been closely working together eversince. I help him with all music and sound related matters.
 
-<iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="400" height="300" frameborder="0" allowtransparency="true"></iframe>
 
 Or listen in your favourite player [here](https://dg.lnk.to/solipsism).
 

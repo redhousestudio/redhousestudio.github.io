@@ -30,6 +30,7 @@ iframe {
   color: #E8280B !important;
   text-decoration: none !important;
   font-family: 'Blitz', serif;
+  font-size: 55px;
 }
 .site-tagline {
   font-weight: bold;
@@ -52,7 +53,7 @@ ul.breadcrumb-nav {
 }
 blockquote{
     font-size: 15px;
-    color: #505050;
+    color: #2F2D2D;
     font-style: italic;
 }
 @media only screen and (max-width: 767px){
@@ -71,6 +72,7 @@ blockquote{
   color: #E8280B;
   font-family: 'Russo One', sans-serif;
   margin-bottom: 20px;
+  font-size: 35px;
 }
 .home-section-hero {
   background-image: url(/img/bg-home-section-1.png);
