@@ -37,6 +37,6 @@ A beautiful video was made for this song:
 
 We have been closely working together eversince. I work with Joep on all music and sound related matters; produce, mix, coach, sound design, programming, studio engineering, ... whatever.
 
-In 2017 the album was re-released on the legendary [Deutsche Grammophon](https://www.deutschegrammophon.com/en/cat/4797469?)
+In 2017 the album was re-released on the legendary [Deutsche Grammophon](https://www.deutschegrammophon.com/en/cat/4797469?).
 
 ---
