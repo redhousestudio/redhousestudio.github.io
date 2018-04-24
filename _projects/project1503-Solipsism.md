@@ -31,6 +31,12 @@ Little did we know what was about to happen next. Joep's album went all the way 
 
 Or listen in your favourite player [here](https://dg.lnk.to/solipsism).
 
+A beautiful video was made for this song:
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/-chZu7V3NTM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 We have been closely working together eversince. I work with Joep on all music and sound related matters; produce, mix, coach, sound design, programming, studio engineering, ... whatever.
+
+In 2017 the album was re-released on the legendary [Deutsche Grammophon](https://www.deutschegrammophon.com/en/cat/4797469?)
 
 ---
