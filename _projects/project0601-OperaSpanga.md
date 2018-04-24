@@ -27,7 +27,7 @@ project_thumbnails:
   - img: project0601-image06-thumb.png
 ---
 
-Producer Attie Bauw asked me to join him on a journey to Poland where we would record an opera for "Samson et Dalila, the movie" produced by Opera Spanga. We created a 5.1 surround recording of a classical orchestra with choir and lead singers.
+Producer Attie Bauw asked me to join him on a journey to Poland where we would record an opera for "Samson et Dalila, the movie" produced by Opera Spanga. We created a 5.1 surround recording of a 120 piece orchestra and choir and lead singers in a booth.
 
 Produced by Opera Spanga (Corina van Eijk en Maartje de Wit) and conducted by David Levi. Recorded in Katowice, Poland.
 
