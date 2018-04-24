@@ -36,7 +36,7 @@ The first single:
 Listen to the album in your favourite player [here](https://7k.lnk.to/Oceanic).
 
 [the Guardian](https://www.theguardian.com/music/2018/mar/01/brad-mehldau-after-bach-contemporary-album-review) wrote:
->"The muted minimalism will appeal to Nils Frahm fans, although Paschburg integrates electronics into his work rather more effectively.""
+>"The muted minimalism will appeal to Nils Frahm fans, although Paschburg integrates electronics into his work rather more effectively."
 
 [NPR](https://www.npr.org/2018/02/01/581018624/first-listen-niklas-paschburg-oceanic) wrote:
 >"Niklas Paschburg's debut album, Oceanic, will likely be one of the most beautiful records of 2018."
