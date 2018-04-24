@@ -23,9 +23,9 @@ project_thumbnails:
   - img: project1503-image02-thumb.png
 ---
 
-Joep Beving was in my studio for a long time since he moved his equipment to the RedHouse. So one day he asked me to help him with some recordings he made at home on his piano, the only instrument left in his house ;)
+Joep Beving moved his studio equipment to the RedHouse long time ago. At that time we shared space and time in my studio. One day he asked me to help him release some recordings he made at home on his piano, the only instrument left in his house.
 
-Little did we know what was about to happen next. Joep's album went all the way to the stars and back, touching millions of lives with his gentle piano stories. 
+Little did we know what was about to happen next. Joep's album went all the way to the stars and back, touching millions of lives with his gentle piano stories. He became a worldwide one-man-recording-Spotify-phenomenon with this album.
 
 <iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="400" height="300" frameborder="0" allowtransparency="true"></iframe>
 
