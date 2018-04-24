@@ -23,7 +23,7 @@ project_thumbnails:
   - img: "project1610-image02-thumb.png"
 ---
 
-After we created the breakthrough album Solipsism, Joep and I decided to start working on a new album immediately. And we began a journey of closely working on new material, too make sure we would deliver the best sounding piano album ever. Making sure all the pieces would fit together, molding the compositiopns to completion. I asked Joep to tune the piano down to 432 Hz (normally 440 Hz) for reasons that can only be experienced.
+After we created the breakthrough album Solipsism, Joep and I decided to start working on a new album immediately. And we began a journey too make sure we would deliver the best sounding piano album ever. Making sure all the pieces would fit together, molding the compositions to completion. I asked Joep to tune the piano down to 432 Hz (normally 440 Hz) for reasons that can only be experienced.
 
 After the recordings Joep signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?) where he is currently the best selling artist.
 
@@ -32,7 +32,7 @@ A short movie was made to introduce the album:
 
 <iframe src="https://open.spotify.com/embed/album/4IrmlNwO8aXQlFghPYl01q" width="400" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Or listen to the album in your favourite player [here](https://dg.lnk.to/beving-prehension).
+Listen to the album in your favourite player [here](https://dg.lnk.to/beving-prehension).
 
 Joep thanked me on his Facebook page with these kind words:
 

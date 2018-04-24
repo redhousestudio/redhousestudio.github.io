@@ -29,7 +29,7 @@ Little did we know what was about to happen next. Joep's album went all the way 
 
 <iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="400" height="300" frameborder="0" allowtransparency="true"></iframe>
 
-Or listen in your favourite player [here](https://dg.lnk.to/solipsism).
+Listen to the album in your favourite player [here](https://dg.lnk.to/solipsism).
 
 A beautiful video was made for this song:
 
