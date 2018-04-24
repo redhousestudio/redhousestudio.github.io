@@ -24,7 +24,7 @@ project_thumbnails:
   - img: project0801-image03-thumb.png
 ---
 
-Avi adir is an amzing multi intrumentalist, plays concerts all over the world, and makes an impression and friends everywhere he performs.
+Avi Adir is an amazing multi instrumentalist, plays concerts all over the world, and makes an impression and friends everywhere he performs.
 
 Together we set out a journey to create this album. Recorded and mixed in the RedHouse.
 

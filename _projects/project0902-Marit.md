@@ -5,7 +5,7 @@ permalink: "/projects/billy-queen-very-cool-ep/"
 
 title:  "Billy Queen - Very Cool EP"
 project_name: "Billy Queen"
-role: "Produced, Arranged, Performed, Recorded, Mixed"
+role: "Produced, Recorded, Mixed"
 category: produced arranged performed recorded mixed
 
 artist_name: "Billy Queen"
@@ -46,6 +46,7 @@ Melancholic
 </audio>
 -
 
-Drums by Stefan Kruger. Bariton sax and solo on track 2 by Christan Grotenbrecht. Guitar on track Melancholic by Paul Willemsen. All other instruments by Gijs van Klooster.
+Drums by Stefan Kruger. Bariton sax and solo on Christmas Baby by Christan Grotenbrecht. Guitar on track Melancholic by Paul Willemsen.<br />
+All other instruments by Gijs van Klooster.
 
 ---

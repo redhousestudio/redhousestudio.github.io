@@ -5,7 +5,7 @@ permalink: "/projects/soen/"
 
 title:  "Soen"
 project_name: "Soen"
-role: "Produced, Arranged, Programming, Mixed"
+role: "Produced, Composed, Mixed"
 category: produced arranged programming mixed
 
 artist_name: "Soen"
