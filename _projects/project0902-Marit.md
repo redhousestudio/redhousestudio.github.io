@@ -33,20 +33,6 @@ A beautiful clip was made for the first single Christmas Baby, composed by Billi
 <iframe width="400" height="225" src="https://www.youtube.com/embed/r_ZT6KJ-3zw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
-As Time Goes By 
-<audio  class="plyr my-player">
-  <source src="../../songs/Billie Queen - As Time Goes By.mp3">
-</audio>
--
-
-
-Melancholic 
-<audio  class="plyr my-player">
-  <source src="../../songs/Billie Queen - Melanchoholic.mp3" type="audio/mp3">
-</audio>
--
-
-Drums by Stefan Kruger. Bariton sax and solo on Christmas Baby by Christan Grotenbrecht. Guitar on track Melancholic by Paul Willemsen.<br />
-All other instruments by Gijs van Klooster.
+Drums by Stefan Kruger. Bariton sax and solo on Christmas Baby by Christan Grotenbrecht. All other instruments by Gijs van Klooster.
 
 ---
