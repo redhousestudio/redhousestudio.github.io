@@ -4,14 +4,10 @@ layout: default
 
 <div class="home-section-hero">
   <div class="container">
-
     {% include nav.html %}
     <div class="row">
       <div class="col-sm-6">
-
-
         {{ page.about_text }}
-
       </div>
     </div>
   </div>
@@ -33,7 +29,7 @@ layout: default
               <img src="/img/{{ project.project_thumb_large }}">
             <p>&nbsp;<br />
             {{project.title}}</p>
-            <p class="project-categories">{{project.role}}</p>
+            <p class="project-role-box">{{project.role}}</p>
           </div>
         </a>
       </div>

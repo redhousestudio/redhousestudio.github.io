@@ -6,7 +6,7 @@ body{
   font-size: 15px;
 }
 a {
-  color: #E8280B;
+  color: #2F2D2D;
   text-decoration: underline;
 }
 a:hover {
@@ -14,6 +14,10 @@ a:hover {
 }
 iframe {
   max-width: 100%;
+}
+.red-link {
+  color: #E8280B;
+  text-decoration: underline;
 }
 .wrapper {
   color: #2F2D2D;
@@ -352,14 +356,13 @@ a.project-button {
 .project-box img {
   max-width: 100%;
 }
-.project-categories {
-  color: #E8280B;
-  font-size: 15px;
-}
 .project-role {
-  color: #E8280B;
-  font-size: 14px;
-  margin-top: 0;
+  color: #D42005;
+  font-size: 17px;
+}
+.project-role-box {
+  color: #D42005;
+  font-size: 15px;
 }
 .project-show-all {
   width: fit-content;
