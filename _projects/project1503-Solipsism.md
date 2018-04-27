@@ -21,6 +21,7 @@ project_background_image: bg-project-default.png
 project_thumbnails:
   - img: project1503-image01-thumb.png
   - img: project1503-image02-thumb.png
+  - img: project1503-image03-thumb.png
 ---
 
 Joep Beving moved his studio equipment to the RedHouse long time ago. At that time we shared space and time in my studio. One day he asked me to help him release some recordings he made at home on his piano, the only instrument left in his house.
@@ -30,6 +31,8 @@ Little did we know what was about to happen next. Joep's album went all the way 
 <iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="400" height="300" frameborder="0" allowtransparency="true"></iframe>
 
 Listen to the album in your favourite player [here](https://dg.lnk.to/solipsism).
+
+Joep liner note: "Gijs van Klooster, thank you for your fantastic spirit, and for all the help and skills you have provided me with."
 
 A beautiful video was made for this song:
 

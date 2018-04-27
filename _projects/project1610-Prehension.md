@@ -21,9 +21,11 @@ project_background_image: bg-project-default.png
 project_thumbnails:
   - img: "project1610-image01-thumb.png"
   - img: "project1610-image02-thumb.png"
+  - img: "project1610-image03-thumb.png"
+  - img: "project1610-image04-thumb.png"
 ---
 
-After we created the breakthrough album Solipsism, Joep and I decided to start working on a new album immediately. And we began a journey too make sure we would deliver the best sounding piano album ever. Making sure all the pieces would fit together, molding the compositions to completion. I asked Joep to tune the piano down to 432 Hz (normally 440 Hz) for reasons that can only be experienced.
+After we created the breakthrough album [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/), Joep and I decided to start working on a new album immediately. And we began a journey too make sure we would deliver the best sounding piano album ever. Making sure all the pieces would fit together, molding the compositions to completion. I asked Joep to tune the piano down to 432 Hz (normally 440 Hz) for reasons that can only be experienced.
 
 After the recordings Joep signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?) where he is currently the best selling artist.
 

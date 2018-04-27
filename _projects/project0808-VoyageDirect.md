@@ -21,6 +21,7 @@ project_background_image: bg-project-default.png
 project_thumbnails:
   - img: "project0808-image01-thumb.png"  
   - img: "project0808-image02-thumb.png"
+  - img: "project0808-image03-thumb.png"
 ---
 
 I worked with Tom Trago on this track for a few days, mixing, additional programming and structering this crazy cool techno beat. Play it loud!
