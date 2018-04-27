@@ -14,5 +14,4 @@ It started with a kiss... on my new bass guitar... 13 years old. My first compos
 
 ■ 2003 - now : Independent Music Producer Composer Mixer.
 
-Scroll down to see some highlighted projects.<br />
-More listed <a href="../../../assets/cv/GijsvanKloosterCVM.pdf" target="_top" class="red-link">here</a> and on <a href="https://www.discogs.com/artist/413565-Gijs-Van-Klooster?sort=year%2Cdesc&limit=50&filter_anv=0&type=Credits&layout=med" target="_top" class="red-link">Discogs</a>.
+Scroll down to see some highlighted projects. More listed <a href="../../../assets/cv/GijsvanKloosterCVM.pdf" target="_top" class="red-link">here</a> and on <a href="https://www.discogs.com/artist/413565-Gijs-Van-Klooster?sort=year%2Cdesc&limit=50&filter_anv=0&type=Credits&layout=med" target="_top" class="red-link">Discogs</a>. Stay up to date on my <a href="https://www.facebook.com/gijsvankloostermusic" target="_top" class="red-link">Facebook</a> page.
