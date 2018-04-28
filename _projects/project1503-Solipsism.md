@@ -11,7 +11,7 @@ category: mixed mastered
 artist_name: "Joep Beving"
 artist_website: "http://joepbeving.com"
 artist_itunes: "https://itunes.apple.com/nl/album/solipsism/1184669417?l=en"
-artist_spotify: "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+artist_spotify: "https://open.spotify.com/album/5TcA1sF3FI2GLUt0gggxVC?si=_GudxEtCTvC4D4WRkvSpcA"
 artist_soundcloud: "https://soundcloud.com/joep-beving"
 artist_facebook: "https://www.facebook.com/joepbevingmusic/"
 

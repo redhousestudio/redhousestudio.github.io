@@ -11,7 +11,7 @@ category: "produced recorded mixed"
 artist_name: "Joep Beving"
 artist_website: "http://joepbeving.com"
 artist_itunes: "https://itunes.apple.com/nl/album/prehension/1196499794?l=en"
-artist_spotify: "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+artist_spotify: "https://open.spotify.com/album/4IrmlNwO8aXQlFghPYl01q?si=o4Sfu781RqCYj8HcXVJvXQ"
 artist_soundcloud: "https://soundcloud.com/joep-beving"
 artist_facebook: "https://www.facebook.com/joepbevingmusic/"
 
@@ -26,7 +26,7 @@ project_thumbnails:
   - img: "project1610-image05-thumb.png"
 ---
 
-After we created the breakthrough album [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/), Joep and I decided to start working on a new album immediately. And we began a journey too make sure we would deliver the best sounding piano album ever. Making sure all the pieces would fit together, molding the compositions to completion. I asked Joep to tune the piano down to 432 Hz (normally 440 Hz) for reasons that can only be experienced.
+After we created the breakthrough album [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/), Joep and I decided to start working on a new album immediately. Making a sure we would deliver the best sounding piano album ever. I asked Joep to tune the piano down to 432 Hz (normally 440 Hz) for reasons that can only be experienced. We worked on new idea's, Joep has so many of, so all the pieces would fit together as a whole, molding the compositions to completion.
 
 After the recordings Joep signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?) where he is currently the best selling artist.
 
