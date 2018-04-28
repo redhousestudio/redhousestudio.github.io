@@ -11,7 +11,7 @@ category: "produced programming mixed"
 artist_name: "Niklas Paschburg"
 artist_website:
 artist_itunes: "https://itunes.apple.com/nl/album/spark-single/1293281162?l=en"
-artist_spotify: "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+artist_spotify: "https://open.spotify.com/album/4wF8vOTtUdUzSDuRVf0B5V?si=_MRRB35hQdSlRzK3ryg1hQ"
 artist_soundcloud: "https://soundcloud.com/niklas-paschburg/"
 artist_facebook: "https://www.facebook.com/niklas.paschburg/"
 

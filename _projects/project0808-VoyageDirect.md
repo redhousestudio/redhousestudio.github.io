@@ -11,7 +11,7 @@ category: "produced programming mixed"
 artist_name: "Tom Trago"
 artist_website: "http://tomtrago.com"
 artist_itunes: "https://itunes.apple.com/nl/album/voyage-direct/308713734?i=308713754&l=en"
-artist_spotify: "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+artist_spotify: "https://open.spotify.com/track/0POq8kwZ2kFlHILreRzvEp?si=Ae6BW4gOQburySy-820aNw"
 artist_soundcloud:
 artist_facebook: "https://www.facebook.com/tom.trago/"
 

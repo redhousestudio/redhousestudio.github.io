@@ -11,7 +11,7 @@ category: "mixed"
 artist_name: "Evelien van den Broek"
 artist_website: "http://www.evelienvandenbroek.com"
 artist_itunes: "https://itunes.apple.com/nl/album/false-memories/1299193608?l=en"
-artist_spotify: "https://open.spotify.com/artist/3EeAAzTYWZUEXidKA5BCJf"
+artist_spotify: "https://open.spotify.com/album/0rxoFQA54Fxuwbf6lMBfKd?si=26UZ9aAGQVmQvn5GPRAdBQ"
 artist_soundcloud: 
 artist_facebook: "https://www.facebook.com/evelienvandenbroek"
 
