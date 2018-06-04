@@ -26,7 +26,7 @@ project_thumbnails:
   - img: "project1708-image05-thumb.png"
 ---
 
-Somebody played me some demo's of Niklas' music for the first time in the car and I was immediately attracted to his music. We met in the studio of Niklas and started working on the material Niklas had recorded. We shaped the story of all tracks into a dreamy memory of the sea. I contributed basslines, melodies and sound programming. Few tracks were recorded again and I mixed everything in the RedHouse.
+When I heard Niklas' music for the first time in the car with Horst I was immediately attracted to his sound. We met in the studio of Niklas and started working on the material Niklas had recorded. We shaped the story of all tracks into a dreamy memory of the sea. I contributed basslines, melodies and sound programming. Few tracks were recorded again and I mixed everything in the RedHouse.
 
 The album entered the Billboard Classical chart Februari 2018.
 
