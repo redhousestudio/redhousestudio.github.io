@@ -33,6 +33,6 @@ A beautiful clip was made for the first single Christmas Baby, composed by Billi
 <iframe width="400" height="225" src="https://www.youtube.com/embed/r_ZT6KJ-3zw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
-Drums by Stefan Kruger. Bariton sax and solo on Christmas Baby by Christan Grotenbrecht. All other instruments by Gijs van Klooster.
+Drums by Stefan Kruger. Bariton sax and solo on Christmas Baby by Christan Grotenbrecht. All other instruments by yours truly.
 
 ---
