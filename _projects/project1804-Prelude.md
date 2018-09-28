@@ -23,9 +23,8 @@ project_thumbnails:
   - img: "project1804-image02-thumb.png"
 ---
 
-Beautiful single that was released on the Reworks album Contatus.
+After having invited others to reinterpret some of Joep's earlier compositions for this album, Joep decided to do a rework himself of a song that is yet to be released. The song title alludes to what is coming.
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/azdPjnLhW1k?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
 
 ---
