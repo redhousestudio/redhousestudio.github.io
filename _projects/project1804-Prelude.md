@@ -21,6 +21,7 @@ project_background_image: bg-project-default.png
 project_thumbnails:
   - img: "project1804-image01-thumb.png"
   - img: "project1804-image02-thumb.png"
+  - img: "project1804-image03-thumb.png"
 ---
 
 After having invited others to reinterpret some of Joep's earlier compositions for the Conatus album, Joep decided to do a rework himself of a song that is yet to be released. The song title alludes to what is coming.
