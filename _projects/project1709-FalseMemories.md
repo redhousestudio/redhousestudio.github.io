@@ -31,10 +31,6 @@ She toured the theaters with an electronic ensemble playing avant-popsongs about
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/fZX1TvUH9nk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-The live show used interactive visuals by Marcel Wierckx and was used for the teaser:
-
-<iframe width="400" height="225" src="https://www.youtube.com/embed/0zBOSrNp7k4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
 Listen / Buy the album here:
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3086864903/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://evelienvandenbroek.bandcamp.com/album/false-memories">False Memories by Evelien van den Broek</a></iframe>
