@@ -1,6 +1,6 @@
 ---
 layout: project
-show_on_frontpage: true
+show_on_frontpage: false
 permalink: "/projects/avi-adir-woods-awakening/"
 
 title:  "Avi Adir - Woods Awakening"

@@ -34,12 +34,6 @@ The first single:
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/6p_YD68O5ho?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-
-and another beautiful video made for the album:
-
-<iframe width="400" height="225" src="https://www.youtube.com/embed/HAbX-lDWyMI?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-
 Listen to the album in your favourite player [here](https://7k.lnk.to/Oceanic).
 
 [the Guardian](https://www.theguardian.com/music/2018/mar/01/brad-mehldau-after-bach-contemporary-album-review) wrote:
