@@ -60,7 +60,9 @@ blockquote{
     font-size: 15px;
     color: #2F2D2D;
     font-style: italic;
+    border-left: 5px solid rgba(50, 50, 50, 0.3);
 }
+
 @media only screen and (max-width: 767px){
   .site-header {
     display: block;
