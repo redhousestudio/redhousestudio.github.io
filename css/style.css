@@ -79,14 +79,14 @@ blockquote{
   color: #E8280B;
   font-family: 'Russo One', sans-serif;
   margin-bottom: 20px;
-  font-size: 32px;
+  font-size: 28px;
 }
 .home-section-hero {
   background-image: url(/img/bg-home-section-1.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 614px;
+  min-height: 500;
   padding: 30px 0;
 }
 .home-section-discography {
@@ -365,7 +365,7 @@ a.project-button {
 }
 .project-role-box {
   color: #D42005;
-  font-size: 15px;
+  font-size: 14px;
 }
 .project-show-all {
   width: fit-content;
