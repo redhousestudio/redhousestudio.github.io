@@ -16,7 +16,7 @@ iframe {
   max-width: 100%;
 }
 .red-link {
-  color: #E8280B;
+  color: #D42005;
   text-decoration: underline;
 }
 .wrapper {
@@ -31,7 +31,7 @@ iframe {
   margin-bottom: 20px;
 }
 .site-logo {
-  color: #E8280B !important;
+  color: #D42005 !important;
   text-decoration: none !important;
   font-family: 'Blitz', serif;
   font-size: 55px;
@@ -76,7 +76,7 @@ blockquote{
 }
 
 .section-heading {
-  color: #E8280B;
+  color: #D42005;
   font-family: 'Russo One', sans-serif;
   margin-bottom: 20px;
   font-size: 28px;
@@ -211,7 +211,7 @@ blockquote{
 }
 .project-nav:hover{
   background-color: rgba(228, 227, 227, 0.85);
-  border: 1px solid #E8280B;
+  border: 1px solid #D42005;
   text-decoration: none;
 }
 .project-nav img {
@@ -287,7 +287,7 @@ blockquote{
   position: absolute;
   top: 15px;
   right: 35px;
-  color: #E8280B;
+  color: #D42005;
   font-size: 40px;
   font-weight: bold;
   transition: 0.3s;
@@ -345,7 +345,7 @@ blockquote{
 }
 .project-box:hover{
   background-color: rgba(228, 227, 227, 0.85);
-  border: 1px solid #E8280B;
+  border: 1px solid #D42005;
   text-decoration: none;
   color: #2F2D2D
 }
