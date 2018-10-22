@@ -26,6 +26,6 @@ project_thumbnails:
 
 I worked with Tom Trago on this track for a few days, mixing, additional programming and structering this crazy cool techno beat. Play it loud!
 
-<iframe src="https://open.spotify.com/embed/track/0POq8kwZ2kFlHILreRzvEp" width="400" height="300" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0POq8kwZ2kFlHILreRzvEp" width="400" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---

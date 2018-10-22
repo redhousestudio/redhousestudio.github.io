@@ -24,6 +24,6 @@ project_thumbnails:
 
 Janne and Arrien came to my studio to work on some songs just before the first album of Room Eleven was recorded. I composed the vocal melody and helped construct this song that was included on the album:
 
-<iframe src="https://open.spotify.com/embed/track/2oczWeolYFcsnhq7YpZn6j" width="400" height="300" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2oczWeolYFcsnhq7YpZn6j" width="400" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
