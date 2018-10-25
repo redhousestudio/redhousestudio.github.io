@@ -17,7 +17,7 @@ artist_facebook:
 
 project_thumb_small: project0601-thumb-small.png
 project_thumb_large: project0601-thumb-large.png
-project_background_image: bg-project-default.png
+project_background_image: project0601-bg.png
 project_thumbnails:
   - img: project0601-image01-thumb.png
   - img: project0601-image02-thumb.png

@@ -17,7 +17,7 @@ artist_facebook: "https://www.facebook.com/tom.trago/"
 
 project_thumb_small: project0808-thumb-small.png
 project_thumb_large: project0808-thumb-large.png
-project_background_image: bg-project-default.png
+project_background_image: project0808-bg.png
 project_thumbnails:
   - img: "project0808-image01-thumb.png"  
   - img: "project0808-image02-thumb.png"
