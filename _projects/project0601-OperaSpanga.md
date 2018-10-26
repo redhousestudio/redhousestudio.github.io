@@ -13,7 +13,7 @@ artist_website: "https://www.operaspanga.nl/producties/samson-and-delilah-film/o
 artist_itunes:
 artist_spotify:
 artist_soundcloud:
-artist_facebook:
+artist_facebook: "https://www.facebook.com/operaspanga/"
 
 project_thumb_small: project0601-thumb-small.png
 project_thumb_large: project0601-thumb-large.png
