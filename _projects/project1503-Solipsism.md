@@ -30,13 +30,13 @@ Little did we know what was about to happen... Joep's album went all the way to 
 
 <iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="400" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Listen to the album in your favourite player [here](https://dg.lnk.to/solipsism).
+Listen to the album in your favorite player [here](https://dg.lnk.to/solipsism).
 
 A beautiful video was made for this song:
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/-chZu7V3NTM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-We have been closely working together eversince. I work with Joep on all music and sound related matters; produce, mix, coach, sound design, programming, sound-design, studio/tape engineering, ... whatever.
+We have been closely working together ever since. I work with Joep on all music and sound related matters; produce, mix, coach, sound design, programming, sound-design, studio/tape engineering, ... whatever.
 
 In 2017 the album was re-released on the legendary [Deutsche Grammophon](https://www.deutschegrammophon.com/en/cat/4797469?).
 

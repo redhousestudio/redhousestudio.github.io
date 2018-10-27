@@ -24,7 +24,7 @@ project_thumbnails:
   - img: "project0808-image03-thumb.png"
 ---
 
-I worked with Tom Trago on this track for a few days, mixing, additional sound-design and structering this crazy cool techno beat. Play it loud!
+I worked with Tom Trago on this track for a few days, mixing, additional sound-design and structuring this crazy cool techno beat. Play it loud!
 
 <iframe src="https://open.spotify.com/embed/track/0POq8kwZ2kFlHILreRzvEp" width="400" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
