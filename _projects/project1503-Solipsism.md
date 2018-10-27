@@ -24,7 +24,7 @@ project_thumbnails:
   - img: project1503-image03-thumb.png
 ---
 
-Joep Beving moved all his studio equipment to the RedHouse long time ago. At that time we just shared space and time in my studio. One day he asked me to help him release some recordings he made at home on his piano, the only instrument left in his house. I loved it and wanted to help my friend. I mixed and mastered for weeks his home recordings and developed the tape infused thick piano sound with him that would become his signature sound.
+Joep Beving moved all his studio equipment to the RedHouse long time ago. At that time we just shared space and time in my studio. One day he asked me to help him release some recordings he made at home on his piano, the only instrument left in his house. I loved it and wanted to help my friend. For weeks I mixed and mastered his home recordings (1 track recorded on his iPhone!) and developed the thick tape-infused piano sound that would become his signature sound.
 
 Little did we know what was about to happen... Joep's album went all the way to the stars and back, touching millions of lives with his gentle piano stories. He became a instant-worldwide-Spotify-phenomenon with this album.
 

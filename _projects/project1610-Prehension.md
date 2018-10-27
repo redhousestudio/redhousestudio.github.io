@@ -26,7 +26,9 @@ project_thumbnails:
   - img: "project1610-image05-thumb.png"
 ---
 
-After we created the breakthrough album [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/), Joep and I decided to start working on a new album immediately and making a sure we would deliver the best sounding piano album ever. It was a amazing journey and we worked on the many new songs Joep composed. Molding every detail to completion and make them all fit together as a whole. Before we started recording I asked Joep to tune the piano down to 432 Hz (normally 440 Hz) for reasons that can only be experienced and it became the default for all Joep's music.
+After we created the breakthrough album [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/) Joep and I decided to start working on the many new songs and idea's. Molding every detail of every moment in every track to perfection and make them all fit together as a whole. The feel, the intention, the tempi. The loudness and softness. And most importantly: the beautiful piano stories that Joep created.<br />
+Before we started recording I asked Joep to tune the piano down to 432 Hz (normally 440 Hz) for reasons that can only be experienced and it became the default for all Joep's music.<br />
+It was a typical RedHouse production approach where I coach the pre-production, guide the recording of all performances and mix in my studio. And I was there in the mastering studio to make sure our vision was translated for the large audience that Joep's music had found. 
 
 After the recordings Joep signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?). Bam.
 
