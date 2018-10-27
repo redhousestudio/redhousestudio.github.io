@@ -5,8 +5,8 @@ permalink: "/projects/tom-trago-voyage-direct/"
 
 title:  "Tom Trago - Voyage Direct"
 project_name: "Voyage Direct"
-role: "co-Produced, Programming, Mixed"
-category: "produced programming mixed"
+role: "co-Produced, Sound-design, Mixed"
+category: "produced sound-design mixed"
 
 artist_name: "Tom Trago"
 artist_website: "http://tomtrago.com"
@@ -24,7 +24,7 @@ project_thumbnails:
   - img: "project0808-image03-thumb.png"
 ---
 
-I worked with Tom Trago on this track for a few days, mixing, additional programming and structering this crazy cool techno beat. Play it loud!
+I worked with Tom Trago on this track for a few days, mixing, additional sound-design and structering this crazy cool techno beat. Play it loud!
 
 <iframe src="https://open.spotify.com/embed/track/0POq8kwZ2kFlHILreRzvEp" width="400" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
