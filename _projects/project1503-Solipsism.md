@@ -24,7 +24,8 @@ project_thumbnails:
   - img: project1503-image03-thumb.png
 ---
 
-Joep moved all his studio equipment to the RedHouse long time ago. At that time we just shared space and time in my studio. One day he asked me to help him release some recordings he made at home on his piano, the only instrument left in his house. I loved it and wanted to help my friend. Many hours I mixed and mastered his home recordings (1 track recorded on his iPhone!) and togehter we developed the thick phat piano sound that would become Joep's signature sound.
+Joep and I go way back. Both busy in the music industry, following our individual paths. Our paths crossed each other some years ago when we started sharing space and time in my studio. He had moved all his music gear and studio equipment to the RedHouse.<br />
+One day he asked me to help him release some recordings he made at home on his piano, the only instrument left in his house. I loved what I heard and wanted to help him. I spent many hours mixing and mastering his home recordings (1 track was recorded on his iPhone!). Together we developed the thick phat piano sound that would become Joep's signature sound.
 
 Little did we know what was about to happen... Joep's album went all the way to the stars and back, touching millions of lives with his gentle piano stories. He became a instant-worldwide-Spotify-phenomenon with this album.
 

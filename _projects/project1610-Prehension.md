@@ -26,9 +26,9 @@ project_thumbnails:
   - img: "project1610-image05-thumb.png"
 ---
 
-After we created the breakthrough album [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/) Joep and I decided to start working on the many new songs and idea's. Molding every detail of every moment in every track to perfection and make them all fit together as a whole. The feel, the intention, the tempi. The loudness and softness. And most importantly: the beautiful piano stories that Joep created.<br />
-Before we started recording I suggested to Joep to tune the piano to 432 Hz (normally 440 Hz) for reasons that can only be experienced and it became the default for everything we do.<br />
-It was a typical full-on RedHouse production where I coach the pre-production, guide the recordings of all performances and mix in my studio. And I was there in the mastering studio of [Darcy Proper](http://www.wisseloord.nl/mastering/) to make sure it was ready for the large audience that Joep's music had found. 
+After the breakthrough album [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/) Joep and I started working on the many new songs and idea's. Molding every detail of every moment in every track to perfection and make them all fit together as a whole. The feel, the intention, the tempi. The loudness and softness. And most importantly: the beautiful piano stories that Joep created.<br />
+When started recording I suggested to tune the piano to 432 Hz (normally 440 Hz) for reasons that can only be experienced and it became the default for everything we do.<br />
+It was a typical full-on RedHouse production where I coach the pre-production, guide the recordings of all performances and finish the mixes in my studio. We finalized the album in the mastering studio of [Darcy Proper](http://www.wisseloord.nl/mastering/) to make sure it was ready for the large audience that Joep's music had found. 
 
 After the recordings Joep signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?). Bam.
 
