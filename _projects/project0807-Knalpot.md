@@ -27,7 +27,8 @@ project_thumbnails:
   - img: "project0807-image06-thumb.png"
 ---
 
-Gerri Jaeger and Raphael Vanoli are among the most talented and hardest working musicians in the Dutch impro music scene. All the compositions were ready to record after playing them live on many (international) stages. During pre-production I sat with them in the rehearsal room to talk about details of the sound and study the performances. We wanted to capture the fun and raw energy of their live performances and it was my task to translate this onto the recordings.<br />
+Gerri Jaeger and Raphael Vanoli are among the most talented musicians in the Dutch impro music scene. For this album all the compositions were ready to record after playing them live on many international stages.<br />
+During pre-production I sat with them in the rehearsal room to discuss the sound and study the performances. We wanted to capture the fun and raw energy of their live shows and translate this into the recordings.<br />
 A great project to have worked on because I like strong idea's and personalities and the music is something really unique.<br />
 We kicked ass, "pom pom", had lots of fun and sounds like this:
 
