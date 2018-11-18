@@ -22,7 +22,7 @@ project_thumbnails:
   - img: project0307-image01-thumb.png
 ---
 
-Janne and Arrien came to my studio to work on some songs just before the first album of Room Eleven was recorded. They played their songs and we recorded some demo's. I composed the vocal melody with Janne and helped construct this song that was included on the album:
+Janne Schra and Arriën Molema from Room Eleven came to the RedHouse to work on some songs just before their first album was recorded. They played their songs and we recorded some demos. I composed the vocal melody with Janne and helped construct this song which was included on their album.
 
 <audio  class="plyr my-player">
   <source src="../../assets/audio/YouMadeMeSeeIt.mp3" type="audio/mp3">
