@@ -27,10 +27,9 @@ project_thumbnails:
   - img: "project0807-image06-thumb.png"
 ---
 
-Gerri Jaeger and Raphael Vanoli are among the most talented musicians in the Dutch impro music scene. For this album all the compositions were ready to record after playing them live on many international stages.<br />
-During pre-production I sat with them in the rehearsal room to discuss the sound and study the performances. We wanted to capture the fun and raw energy of their live shows and translate this into the recordings.<br />
-A great project to have worked on because I like strong idea's and personalities and the music is something really unique.<br />
-We kicked ass, "pom pom", had lots of fun and sounds like this:
+All compositions for the first album of impro-musicians Gerri Jaeger and Raphael Vanoli were ready to record after playing them live on many international stages.<br />
+During pre- production we discussed the sound and I studied their performances. We wanted to capture the fun and raw energy of their live shows and translated this energy into the recordings. We kicked ass, “pom pom”, had lots of fun.<br />
+A great project to have worked on because I like strong ideas and personalities and their music is something really unique.
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3252295011/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://knalpot.bandcamp.com/album/serious-outtakes" >Serious Outtakes by Knalpot</a></iframe>
 

@@ -26,12 +26,11 @@ project_thumbnails:
   - img: "project1610-image05-thumb.png"
 ---
 
-After the breakthrough album [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/) Joep and I started working on the many new songs and idea's. Molding every detail of every moment in every track to perfection and make them all fit together as a whole. The feel, the intention, the tempi. The loudness and softness. And most importantly: the beautiful piano stories that Joep created.<br />
-When started recording I suggested to tune the piano to 432 Hz (normally 440 Hz) for reasons that can only be experienced and it became the default for everything we do.
+After the breakthrough album [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/), Joep Beving and I started working on many new songs and ideas. To perfect the beautiful piano stories that Joep created in every detail, we molded every moment of every track: the feel, the intention, the tempi, the loudness and softness, even a deviated tuning of the piano, and we synthesized it all together as a whole.
 
-It was a typical full-on RedHouse production where I coach the pre-production, guide the recordings of all performances and mix in my studio. We finalized the album in the mastering studio of [Darcy Proper](http://www.wisseloord.nl/mastering/) to make sure it was ready for the large audience that Joep's music had found. 
+It was a full-on RedHouse production where I coached the pre-production, guided the recordings of all performances and mixed it all. We finalized the album in the mastering studio of [Darcy Proper](http://www.wisseloord.nl/mastering/) to make sure it was ready for the large audience that Joep’s music had found. 
 
-After the recordings Joep signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?). Bam.
+After the recordings Joep signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?). Bam!
 
 A short movie was made to introduce the album:
 <iframe width="400" height="225" src="https://www.youtube.com/embed/Tuh4_h93DZk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

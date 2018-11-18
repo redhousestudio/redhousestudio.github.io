@@ -26,7 +26,8 @@ project_thumbnails:
   - img: "project1708-image05-thumb.png"
 ---
 
-When I heard Niklas' music for the first time in the car with Horst I was immediately attracted to his musical idea's. Not long after I went to the studio of Niklas and started working on the recorded material. Most parts and performances were already there but it lacked clarity in sounds, mix and composition. Niklas told me about the period when he recorded this and what he wanted to express for each song and we shaped the story of all tracks into a dreamy memory of the sea.<br />I contributed grooves, bass-lines, melodies and sound-design. A few tracks were re-recorded and I mixed everything in the RedHouse.
+The recorded material that Niklas Paschburg presented to me had many really good parts and performances, but it lacked clarity in sounds, mix and composition. Niklas told me what he wanted to express with each song and we then shaped the story of all tracks into a dreamy memory of the sea.<br />
+I contributed grooves, bass-lines, melodies and sound-design. We recorded a few tracks again and I mixed everything in the RedHouse.
 
 The album entered the Billboard Classical chart Februari 2018.
 
