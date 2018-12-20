@@ -1,9 +1,9 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/projects/niklas-paschburg-spark/"
+permalink: "/projects/niklas-paschburg-oceanic/"
 
-title:  "Niklas Paschburg - Spark"
+title:  "Niklas Paschburg - Oceanic"
 project_name: "Spark"
 role: "co-Produced, Sound-design, Mixed"
 category: "produced sound-design mixed"
