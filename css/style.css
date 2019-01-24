@@ -86,7 +86,7 @@ blockquote{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 614px;
+  min-height: 500px;
   padding: 30px 0;
 }
 .home-section-discography {
@@ -95,7 +95,7 @@ blockquote{
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 614px;
-  padding: 30px 0;
+  padding: 50px 0;
 }
 .home-section-discography-project{
   float: left;
