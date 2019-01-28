@@ -40,7 +40,7 @@ A beautiful video was made for this song:
 
 Joep about working together:
 <blockquote>
-<p>Gijs King! Really feel we did this one together.<br />Thank you for your fantastic spirit and for all the help and skills you have provided me with. The master sounds fantastic. Get ready for the next!</p>
+<p>Gijs, I really feel we did this one together.<br />Thank you for your fantastic spirit and for all the help and skills you have provided me with. The master sounds fantastic. Get ready for the next!</p>
 </blockquote>
 
 We have been closely working together ever since. I work with Joep on all music and sound related matters; produce, mix, coach, sound-design, studio/tape engineering, ... whatever.
