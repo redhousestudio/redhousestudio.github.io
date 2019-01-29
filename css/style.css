@@ -404,3 +404,13 @@ a.project-button {
   font-weight: normal;
 }
 /* ------------------------------- Audio player ---------------------*/
+
+
+/* ------------------------------- Disco Slider ---------------------*/
+
+#discoSlider .item img {
+  height: 320px;
+}
+#discoSlider {
+  padding-bottom: 50px;
+}
