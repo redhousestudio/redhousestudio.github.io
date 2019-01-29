@@ -411,6 +411,7 @@ a.project-button {
 #discoSlider .item img {
   object-fit: cover;
   height: 320px;
+  image-orientation: from-image;
 }
 #discoSlider {
   padding-bottom: 50px;
