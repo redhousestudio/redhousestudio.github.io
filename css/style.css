@@ -409,8 +409,12 @@ a.project-button {
 /* ------------------------------- Disco Slider ---------------------*/
 
 #discoSlider .item img {
+  object-fit: cover;
   height: 320px;
 }
 #discoSlider {
   padding-bottom: 50px;
+}
+#discoSlider .item {
+  min-height: 320px;
 }
