@@ -11,23 +11,16 @@ layout: default
         {{ content }}
       </div>
       <div class="col-sm-6">
-        {{ page.main_spotify_embed }}
-
         <div id="discoSlider" class="carousel slide" data-ride="carousel" data-interval="3000" style="margin-top:70px">
-        
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
-            
             {% for slide in page.slides %}
-
               <div class="item">
                 <img src="/slides/{{ slide.filename }}" alt="{{ slide.filename }}" style="width:100%;">
               </div>
             {% endfor %}
-  
-          </div>  
+          </div>
         </div>
-        
       </div>
     </div>
   </div>
@@ -51,3 +44,4 @@ layout: default
     </div>
   </div>
 </div>
+

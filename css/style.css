@@ -108,6 +108,14 @@ blockquote{
   min-height: 450px;
   padding: 30px 0;
 }
+.home-section-testimonials {
+  background-image: url(/img/bg-home-section-testimonials.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 400px;
+  padding: 30px 0;
+}
 .studio-items-wrapper {
   text-align: center;
   max-width: 380px;
