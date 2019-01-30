@@ -6,7 +6,6 @@ slides:
   - filename: "Afb019.jpg"
   - filename: "bfocpntrol.png"
   - filename: "dsc_0413.jpg"
-  - filename: "dsc_0469.jpg"
   - filename: "Gijs_p2_V1.jpg"
   - filename: "Gijs_V1.jpg"
   - filename: "GijsStudio3-1.jpg"
