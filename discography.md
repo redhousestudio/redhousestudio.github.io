@@ -10,7 +10,6 @@ slides:
   - filename: "Gijs_V1.jpg"
   - filename: "GijsStudio3-1.jpg"
   - filename: "glacht.jpg"
-  - filename: "gopdebas.jpg"
   - filename: "img_0959.jpg"
   - filename: "img_0987.jpg"
   - filename: "IMG_1436.jpg"
