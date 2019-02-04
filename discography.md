@@ -23,7 +23,7 @@ slides:
   - filename: "IMG_4978.jpg"
   - filename: "IMG_5094.jpg"
   - filename: "IMG_5202.jpg"
-  - filename: "IMG_7250.jpg"
+  - filename: "IMG_7250.png"
   - filename: "niklasinrh.jpg"
   - filename: "P1000213.jpg"
   - filename: "P1000295.jpg"
