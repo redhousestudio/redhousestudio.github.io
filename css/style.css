@@ -205,6 +205,7 @@ blockquote{
 .project-section-nav .container{
   margin: auto;
 }
+
 .project-nav {
   padding: 10px;
   background-color: rgba(36, 32, 31, 0.15);
@@ -343,7 +344,6 @@ blockquote{
   border-radius: 5px;
   margin: 15px auto;
   position: relative;
-  font-family: 'Gudea', sans-serif;
   font-size: 14px;
   border: solid 1px transparent;
   text-align: center;
@@ -365,9 +365,6 @@ a.project-button {
   text-decoration: none;
 }
 
-.project-box img {
-  max-width: 100%;
-}
 .project-role {
   color: #D42005;
   font-size: 17px;
@@ -411,10 +408,8 @@ a.project-button {
   font-size: 8px;
   font-weight: normal;
 }
-/* ------------------------------- Audio player ---------------------*/
 
-
-/* ------------------------------- Disco Slider ---------------------*/
+/* ------------------------------- Disco Slider --------------------- */
 
 #discoSlider .item img {
   object-fit: cover;

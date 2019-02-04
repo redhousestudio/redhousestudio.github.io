@@ -1,5 +1,6 @@
 ---
 layout: home
+
 # list of thumbnails in studio sections
 project_thumbnails:
   - img: studio-image01-thumb.png
@@ -20,6 +21,7 @@ project_thumbnails:
     project_name: 
   - img: studio-image09-thumb.png
     project_name: 
+
 about_text: >
   <p>RedHouse is the music studio of composer/producer/engineer/sound-designer Gijs van Klooster.</p>
   <p>&nbsp;</p>
