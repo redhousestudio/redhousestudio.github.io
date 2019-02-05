@@ -30,6 +30,11 @@ iframe {
 .site-header h1 {
   margin-bottom: 20px;
 }
+.section-heading {
+  margin-bottom: 20px;
+}
+/* ------------------------------- Font Styles ---------------------*/
+
 .site-logo {
   color: #D42005 !important;
   text-decoration: none !important;
@@ -40,15 +45,30 @@ iframe {
   font-weight: bold;
   font-size: 16px;
 }
+
+.project-role {
+  color: #D42005;
+  font-size: 17px;
+}
+.project-role-box {
+  color: #D42005;
+  font-size: 14px;
+}
 .nav-wrapper {
   margin: auto;
 }
+
+
+
+/* ------------------------------- Breadcrumb ---------------------*/
+
 ul.breadcrumb-nav {
   list-style-type: none;
   text-align: right;
   font-size: 12px;
   font-weight: bold;
 }
+
 .breadcrumb-nav li {
   display: inline-block;
   margin: 1px;
@@ -56,6 +76,7 @@ ul.breadcrumb-nav {
 .breadcrumb-nav li a {
   color: #2F2D2D;
 }
+
 blockquote{
     font-size: 15px;
     color: #2F2D2D;
@@ -81,6 +102,8 @@ blockquote{
   margin-bottom: 20px;
   font-size: 28px;
 }
+/* ------------------------------- Home ---------------------*/
+
 .home-section-hero {
   background-image: url(/img/bg-home-section-1.png);
   background-position: center;
@@ -156,7 +179,6 @@ blockquote{
 .site-social-media a {
   margin: 10px;
 }
-
 .project-section-main {
   background-size: cover;
   background-position: center;
@@ -316,6 +338,8 @@ blockquote{
   }
 }
 
+/* ------------------------------- Discography ---------------------*/
+
 .discography-section-hero {
   background-image: url(/img/bg-discography-section-1.png);
   background-position: center;
@@ -328,13 +352,14 @@ blockquote{
   display: block;
   margin: auto;
 }
-.discography-projects-container {
+.discography-section-projects {
   padding: 30px 0;
   background-image: url(/img/bg-discography-section-2.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .project-box {
   padding: 10px;
   background-color: rgba(228, 227, 227, 0.25);
@@ -365,14 +390,7 @@ a.project-button {
   text-decoration: none;
 }
 
-.project-role {
-  color: #D42005;
-  font-size: 17px;
-}
-.project-role-box {
-  color: #D42005;
-  font-size: 14px;
-}
+
 .project-show-all {
   width: fit-content;
   text-decoration: none;
