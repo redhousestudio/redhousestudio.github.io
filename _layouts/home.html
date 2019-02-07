@@ -14,6 +14,8 @@ layout: default
 </div>
 
 
+
+
 <div class="home-section-studio">
   <div class="container">
     <div class="row">
@@ -25,6 +27,63 @@ layout: default
     </div>
   </div>
 </div>
+
+
+
+
+<div class="home-section-services">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="section-heading"><img src="/img/header_services.png" width="235" height="21" alt=""/></h3>
+      </div>
+      <div class="col-sm-6">
+        {{ page.services_section_text_left }}
+      </div>
+      <div class="col-sm-6">
+        {{ page.services_section_text_right }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6 home-section-services-process ">
+        <div class="process-box">
+          <p><img src="/img/Icon_PreProd.png" width="130" height="65" alt=""/></p>
+          <p>&nbsp;</p>
+          <p class="process-box-title">Pre Production</p>
+          <p>I want to understand your ideas and what you want to communicate. We’ll talk, listen to demos and find what is important for your music. Prepare, fine tune and practice performances. Plan the recording process to materialize your vision.</p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-xs-6 home-section-services-process ">
+        <div class="process-box">
+          <p><img src="/img/Icon_Produce.png" width="130" height="65" alt=""/></p>
+          <p>&nbsp;</p>
+          <p class="process-box-title">Production</p>
+          <p>Record, construct and conceive all the musical layers. Recording whatever anywhere that fits. I can assist with composing and arranging your music, help you perform your songs and make a snapshot of your peak performance.</p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-xs-6 home-section-services-process ">
+        <div class="process-box">
+          <p><img src="/img/Icon_Mixer.png" width="130" height="65" alt=""/></p>
+          <p>&nbsp;</p>
+          <p class="process-box-title">Mix</p>
+          <p>With the recorded material we’ll sit in the lab and edit takes, add FX and mix it to enhance the story lines and balance the position of all sounds. We'll paint a picture for your audience.</p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-xs-6 home-section-services-process ">
+        <div class="process-box">
+          <p><img src="/img/Icon_Speaker.png" width="130" height="65" alt=""/></p>
+          <p>&nbsp;</p>
+          <p class="process-box-title">Mastering</p>
+          <p>I can do the mastering or we send the mix to a mastering studio of our choice but I will make sure that in the end everybody is happy.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
 
 <div class="home-section-discography">
   <div class="container">
@@ -47,6 +106,7 @@ layout: default
       </div>
       {% endif %}
       {% endfor %}
+
       <div class="col-sm-3 col-xs-6">
         <a href="/discography/" class="project-button">
           <div class="project-box">
@@ -68,7 +128,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <div id="discoSlider" class="carousel slide" data-ride="carousel" data-interval="15000" style="margin-top:70px">
+        <div id="discoSlider" class="carousel slide" data-ride="carousel" data-interval="15000"">
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             {% for slide in page.slides %}

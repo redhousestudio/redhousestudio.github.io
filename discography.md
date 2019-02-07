@@ -42,8 +42,6 @@ slides:
 
 ---
 
-I see myself as a translator and stimulator; I translate a musical idea into an experience for the listener, create a sound image where all components clearly express the artist's inspiration. As a producer I provide the experience and necessary perspective to guide a recording from start to finish.
-
 I had the opportunity to work with some of the greatest artists and producers including: [Erykah Badu][weberikahb], [Knalpot][webknalpot], [Avi Adir][webavi], [Tom Trago][webtomt], [Tim Palmer][webtimp] (David Bowie, U2), [Yoad Nevo][webyoadn] (Pet Shop Boys, Sia), [Hans-Martin Buff][webhansmb] (Prince), [Niklas Paschburg][webniklasp], [Brownswood](https://brownswoodrecordings.com), [Attie Bauw](http://bauwhaus.com), [Joep Beving][webjoepb] to name a few.
 
 If you think we should talk, please <a href="mailto:gijs@redhouse.nl" target="blank" class="red-link">contact me</a>.

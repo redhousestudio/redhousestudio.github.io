@@ -3,7 +3,7 @@
   src: url('/fonts/Blitz.ttf');
 }
 body{
-  font-size: 16px;
+  font-size: 17px;
 }
 a {
   color: #000000;
@@ -123,6 +123,38 @@ blockquote{
 .home-section-discography-project{
   float: left;
 }
+
+.process-box {
+  padding: 0px;
+  background-color: rgba(228, 227, 227, 0.00);
+  width: 100%;
+  max-width: 230px;
+  height: 370px;
+  margin: 50px auto;
+  margin-bottom:50px;
+  position: relative;
+  text-align: center;
+}
+
+.process-box-title {
+  font-weight: bold;
+  color: #555555;
+  font-size: 24px;
+}
+
+.home-section-services {
+  background-image: url(/img/bg-home-section-services.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 450px;
+  padding: 30px 0;
+}
+
+.home-section-services-process{
+  float: left;
+}
+
 .home-section-studio {
   background-image: url(/img/bg-home-section-studio.png);
   background-position: center;
@@ -136,8 +168,8 @@ blockquote{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 400px;
-  padding: 30px 0;
+  min-height: 300px;
+  padding: 10px 0;
 }
 .studio-items-wrapper {
   text-align: center;
@@ -433,9 +465,6 @@ a.project-button {
   object-fit: cover;
   height: 320px;
   image-orientation: from-image;
-}
-#discoSlider {
-  padding-bottom: 50px;
 }
 #discoSlider .item {
   min-height: 320px;
