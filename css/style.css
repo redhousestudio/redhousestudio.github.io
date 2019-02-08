@@ -65,7 +65,7 @@ iframe {
 ul.breadcrumb-nav {
   list-style-type: none;
   text-align: right;
-  font-size: 12px;
+  font-size: 18px;
   font-weight: bold;
 }
 
@@ -128,7 +128,6 @@ blockquote{
   padding: 0px;
   background-color: rgba(228, 227, 227, 0.00);
   width: 100%;
-  max-width: 230px;
   height: 370px;
   margin: 50px auto;
   margin-bottom:50px;
@@ -139,7 +138,7 @@ blockquote{
 .process-box-title {
   font-weight: bold;
   color: #555555;
-  font-size: 24px;
+  font-size: 26px;
 }
 
 .home-section-services {
