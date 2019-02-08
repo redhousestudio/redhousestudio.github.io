@@ -34,9 +34,7 @@ slides:
   - filename: "p1050084ed.jpg"
   - filename: "p1050179.jpg"
   - filename: "p1050235.jpg"
-  - filename: "PHOTO-2018-07-05-22-04-01 2.jpg"
   - filename: "PHOTO-2018-07-05-22-04-01 6.jpg"
-  - filename: "PHOTO-2018-07-05-17-17-05.jpg"
   - filename: "picture_14.jpg"
   - filename: "studio foto1.jpg"
 
@@ -44,9 +42,10 @@ slides:
 
 I had the opportunity to work with some of the greatest artists and producers including: [Erykah Badu][weberikahb], [Knalpot][webknalpot], [Avi Adir][webavi], [Tom Trago][webtomt], [Tim Palmer][webtimp] (David Bowie, U2), [Yoad Nevo][webyoadn] (Pet Shop Boys, Sia), [Hans-Martin Buff][webhansmb] (Prince), [Niklas Paschburg][webniklasp], [Brownswood](https://brownswoodrecordings.com), [Attie Bauw](http://bauwhaus.com), [Joep Beving][webjoepb] to name a few.
 
-If you think we should talk, please <a href="mailto:gijs@redhouse.nl" target="blank" class="red-link">contact me</a>.
-
 <strong>Scroll down to see some highlighted projects.</strong>
+
+Stay up to date on my <a href="https://www.facebook.com/gijsvankloostermusic" target="blank" class="red-link">Facebook</a> page.
+
 
 
 [weberikahb]: https://erykah-badu.com
