@@ -38,8 +38,8 @@ studio_section_text: >
   <p>You just need a place that sounds good and where you feel comfortable, with a guy that knows how to work that sh*t.</p>
 
 services_section_text_left: >
-  <p>I have been playing, composing and producing for more than 30 years and cover the whole process that often starts in a rehearsal room or home studio and ends in a mastering studio.</p>
   <p>As a producer I provide the experience and necessary perspective to guide a recording from start to finish.</p>
+  <p>I have been playing, composing and producing for more than 30 years and cover the whole process that often starts in a rehearsal room or home studio and ends in a mastering studio.</p>
 
 services_section_text_right: >
   <p>When all music and performance and all decisions in sound creation - from concept to final master - express the artist's inspiration, you can create a magical musical experience.</p>
