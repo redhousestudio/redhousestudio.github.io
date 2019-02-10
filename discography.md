@@ -40,13 +40,24 @@ slides:
 
 ---
 
-I had the opportunity to work with some of the greatest artists and producers including: [Erykah Badu][weberikahb], [Knalpot][webknalpot], [Avi Adir][webavi], [Tom Trago][webtomt], [Tim Palmer][webtimp] (David Bowie, U2), [Yoad Nevo][webyoadn] (Pet Shop Boys, Sia), [Hans-Martin Buff][webhansmb] (Prince), [Niklas Paschburg][webniklasp], [Brownswood](https://brownswoodrecordings.com), [Attie Bauw](http://bauwhaus.com), [Joep Beving][webjoepb] to name a few.
+Started recording my songs on a 4 track tape machine in 1990, studied Audio Design (BA of Arts and Technology  at [HKU][webhku]), worked at the [Wisseloord Studio’s][webwissel] as an (assistant-) engineer and assistant-studio-manager. A great studio where I met all kinds of people, music and technology.
+
+It’s an absolute joy to compose, produce and play music for more than 30 years with so many beautiful people in so many genres.
+
+I had the opportunity to work with some of the greatest artists and producers including: [Erykah Badu][weberikahb], [Knalpot][webknalpot], [Avi Adir][webavi], [Tom Trago][webtomt], [Tim Palmer][webtimp] (David Bowie, U2), [Yoad Nevo][webyoadn] (Pet Shop Boys, Sia), [Hans-Martin Buff][webhansmb] (Prince), [Niklas Paschburg][webniklasp], [Brownswood](https://brownswoodrecordings.com), [Attie Bauw](http://bauwhaus.com), [Joep Beving][webjoepb] and [Hania Rani][webhania] to name a few.
 
 <strong>Scroll down to see some highlighted projects.</strong>
 
+More listed <a href="../../../assets/cv/GijsvanKloosterCVM.pdf" target="blank" class="red-link">here</a> and on <a href="https://www.discogs.com/artist/413565-Gijs-Van-Klooster?sort=year%2Cdesc&limit=50&filter_anv=0&type=Credits&layout=med" target="blank" class="red-link">Discogs</a>.
+
 Stay up to date on my <a href="https://www.facebook.com/gijsvankloostermusic" target="blank" class="red-link">Facebook</a> page.
 
+<br />
+<br />
+<br />
 
+[webwissel]: https://www.wisseloord.nl
+[webhku]: https://www.hku.nl
 
 [weberikahb]: https://erykah-badu.com
 [webknalpot]: ../projects/knalpot-serious-outtakes
@@ -57,3 +68,4 @@ Stay up to date on my <a href="https://www.facebook.com/gijsvankloostermusic" ta
 [webhansmb]: https://www.discogs.com/artist/351436-Hans-Martin-Buff
 [webniklasp]: ../projects/niklas-paschburg-oceanic
 [webjoepb]: ../projects/joep-beving-solipsism
+[webhania]: https://www.facebook.com/haniaranimusic
