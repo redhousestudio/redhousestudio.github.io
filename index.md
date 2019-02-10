@@ -48,7 +48,7 @@ services_section_text_left: >
 
 
 services_section_text_right: >
-  <p>What drives me is to deliver a magical musical experience that really expresses the artist’s inspiration. And make everything - from concept to final master - come together; performance, music, sound.</p>
+  <p>What drives me is to deliver a musical experience that really expresses the artist’s inspiration. And make everything - from concept to final master - come together; performance, music, sound.</p>
   <p>If you want me involved in any or all phases of your musical journey, <a href="mailto:gijs@redhouse.nl" target="blank" class="red-link">get in touch</a> and we'll have a coffee.</p>
 
 
