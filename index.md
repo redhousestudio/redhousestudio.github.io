@@ -43,8 +43,8 @@ studio_section_text: >
 
 
 services_section_text_left: >
-  <p>As a producer I provide the experience and necessary perspective to guide the recording process that often starts in a rehearsal room or home studio and ends in a mastering studio.</p>
-  <p>Being a musician myself I know what it takes to perform, to make things work in the context of a composition.</p>
+  <p>As a producer I provide the experience and necessary perspective to guide a recording from start to finish.</p>
+  <p>I have been playing, composing and producing music for more than 30 years in many genres and can cover the whole process that often starts in a rehearsal room or home studio and ends in a mastering studio.</p>
 
 
 services_section_text_right: >

@@ -42,7 +42,7 @@ slides:
 
 Started recording my songs on a 4 track tape machine in 1990, studied Audio Design (BA of Arts and Technology  at [HKU][webhku]), worked at the [Wisseloord Studio’s][webwissel] as an (assistant-) engineer and assistant-studio-manager. A great studio where I met all kinds of people, music and technology.
 
-It’s an absolute joy to compose, produce and play music for more than 30 years with so many beautiful people in so many genres.
+It’s an absolute joy to compose, produce and play music with so many beautiful people in so many genres.
 
 I had the opportunity to work with some of the greatest artists and producers including: [Erykah Badu][weberikahb], [Knalpot][webknalpot], [Avi Adir][webavi], [Tom Trago][webtomt], [Tim Palmer][webtimp] (David Bowie, U2), [Yoad Nevo][webyoadn] (Pet Shop Boys, Sia), [Hans-Martin Buff][webhansmb] (Prince), [Niklas Paschburg][webniklasp], [Brownswood](https://brownswoodrecordings.com), [Attie Bauw](http://bauwhaus.com), [Joep Beving][webjoepb] and [Hania Rani][webhania] to name a few.
 
