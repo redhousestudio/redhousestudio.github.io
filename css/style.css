@@ -61,7 +61,12 @@ iframe {
 .redhouse-tagline {
   font-weight: bold;
   color: #D42005;
-  font-size: 26px;
+  font-size: 24px;
+}
+
+.redhouse-tagline2 {
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .project-big-more {
