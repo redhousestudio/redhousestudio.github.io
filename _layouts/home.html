@@ -65,6 +65,44 @@ layout: default
 
 
 
+<div class="home-section-testimonials">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div id="discoSlider" class="carousel slide" data-ride="carousel" data-interval="15000"">
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            {% for slide in page.slides %}
+            <div class="item">
+                <img src="/slides/{{ slide.filename }}" alt="{{ slide.filename }}" style="width:100%;">
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<div class="home-section-studio">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6">
+        <h3 class="section-heading" ><img src="/img/header_studio.png" width="330" height="50" alt=""/></h3>
+        {{ page.studio_section_text }}
+      </div>
+        <img src="/img/header_invisible.png" width="10" height="80" alt=""/>
+        {% include modal.html %}
+    </div>
+  </div>
+</div>
+
+
+
+
 
 <div class="home-section-discography">
   <div class="container">
@@ -105,41 +143,7 @@ layout: default
 
 
 
-<div class="home-section-testimonials">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <div id="discoSlider" class="carousel slide" data-ride="carousel" data-interval="15000"">
-          <!-- Wrapper for slides -->
-          <div class="carousel-inner">
-            {% for slide in page.slides %}
-            <div class="item">
-                <img src="/slides/{{ slide.filename }}" alt="{{ slide.filename }}" style="width:100%;">
-            </div>
-            {% endfor %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 
-
-
-
-
-<div class="home-section-studio">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-6">
-        <h3 class="section-heading" ><img src="/img/header_studio.png" width="330" height="50" alt=""/></h3>
-        {{ page.studio_section_text }}
-      </div>
-        <img src="/img/header_invisible.png" width="10" height="80" alt=""/>
-        {% include modal.html %}
-    </div>
-  </div>
-</div>
 
 
