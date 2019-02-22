@@ -26,7 +26,7 @@ project_thumbnails:
   - img: "project1610-image05-thumb.png"
 ---
 
-After the breakthrough album [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/), Joep Beving and I started working on many new songs and ideas. To perfect the beautiful piano stories that Joep created in every detail, we molded every moment of every track: the feel, the intention, the tempi, the loudness and softness, even a deviated tuning of the piano, and we synthesized it all together as a whole.
+After the breakthrough album [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/) was released, Joep Beving and I started to work on the many new songs and ideas. It was a beautiful journey together. To perfect the beautiful piano stories that Joep created in every detail, we molded every moment of every track: the feel, the intention, the tempi, the loudness and softness, even a deviated tuning of the piano, and we synthesized it all together as a whole.
 
 It was a full-on RedHouse production where I coached the pre-production, guided the recordings of all performances and mixed it all. We finalized the album in the mastering studio of [Darcy Proper](http://www.wisseloord.nl/mastering/) to make sure it was ready for the large audience that Joep’s music had found. 
 
