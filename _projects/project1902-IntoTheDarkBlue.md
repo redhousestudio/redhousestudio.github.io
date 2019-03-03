@@ -29,6 +29,7 @@ Here's a teaser [on YouTube](https://www.youtube.com/watch?v=TKRBbc4uooM).
 
 <iframe src="https://open.spotify.com/embed/track/0JruSpdh4AKhxTo2AigJFr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+Joep about working together:
 <blockquote>
 <p>I couldn’t have wished for a more passionate producer. Gijs Van Klooster thanks for an awesome year and for creating magic together. proud of us. now we just have to wait until its April.</p>
 </blockquote>
