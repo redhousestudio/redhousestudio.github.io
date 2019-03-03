@@ -20,9 +20,10 @@ project_background_image: project1807-bg.png
 project_thumbnails:
   - img: project1807-image01-thumb.png
   - img: project1807-image02-thumb.png
+  - img: project1807-image03-thumb.png
 ---
 
-Glass is the first single of the new solo album of the beautiful Hania Rani. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful music.
+Glass is the first single of the new solo album of Polish artist Hania Rani. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful music.
 
 <iframe src="https://open.spotify.com/embed/track/5kYsdjnafWJWcVbVD7Zw6Y" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
