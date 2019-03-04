@@ -23,8 +23,10 @@ project_thumbnails:
   - img: project1807-image03-thumb.png
 ---
 
-Glass is the first single of the new solo album of Polish artist Hania Rani. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful music.
+Thank god I met Polish artist, pianist, composer and musician Hania Rani. Esja is her debut solo album and it is her first, real, personal statement as an artist. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful piano sounds. 
+
+Glass is the first single out now:
 
 <iframe src="https://open.spotify.com/embed/track/5kYsdjnafWJWcVbVD7Zw6Y" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-You can pre-order the album [here](https://haniarani.bandcamp.com): 
+Full album will be released in April, pre-order the album [here](https://haniarani.bandcamp.com). 

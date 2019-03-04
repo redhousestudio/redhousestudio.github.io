@@ -35,7 +35,7 @@ A great project to have worked on because I like strong ideas and personalities 
 
 Knalpot about working together:
 <blockquote>
-<p>Gijs van Klooster did an excellent job on the very first Knalpot recording ever made. He managed to captivate the in-your-face roughness Knalpot then had and made our tracks shine in clear powerful and warm sound.</p>
+<p>Gijs van Klooster did an excellent job on the very first Knalpot recording ever made. He managed to captivate the in-your-face roughness Knalpot had and made our tracks shine in clear powerful and warm sound.</p>
 </blockquote>
 
 ---
