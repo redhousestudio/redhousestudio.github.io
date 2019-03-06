@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/projects/blabla.html"
+permalink: "/projects/joep-beving-into-the-dark-blue/"
 
 title:  "Joep Beving - Into The Dark Blue"
 project_name: "Into The Dark Blue"
@@ -19,6 +19,7 @@ project_thumb_small: project1902-thumb-small.png
 project_thumb_large: project1902-thumb-large.png
 project_background_image: project1902-bg.png
 project_thumbnails:
+  - img: "project1902-image02-thumb.png"
   - img: "project1902-image01-thumb.png"
   - img: project-imageDG-thumb.png
 ---
