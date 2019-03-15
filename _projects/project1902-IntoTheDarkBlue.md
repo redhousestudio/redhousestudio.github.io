@@ -35,5 +35,6 @@ Joep about working together:
 <p>I couldn’t have wished for a more passionate producer. Gijs Van Klooster thanks for an awesome year and for creating magic together. proud of us. now we just have to wait until its April.</p>
 </blockquote>
 
-
+[Magazine Sixty](http://www.magazinesixty.com/joep-beving-henosis-deutsche-grammophon/?fbclid=IwAR0XLzdISvoiiFnB4woed51Zu4flLumtAUQh2YEdsnoQzao5pkAGsa_mTJE) wrote:
+>"this rich amalgamation of electrical sounds and classical traditions are realised perfectly with history resolving itself into present moments. Henosis is a music searching for something lost. And now found."
 

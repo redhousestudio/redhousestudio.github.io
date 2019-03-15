@@ -93,8 +93,9 @@ ul.breadcrumb-nav {
 }
 
 blockquote{
-    font-size: 17px;
+    font-size: 16px;
     color: #2F2D2D;
+    font-weight: bold;
     font-style: italic;
     border-left: 5px solid rgba(50, 50, 50, 0.3);
 }

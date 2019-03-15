@@ -4,7 +4,7 @@ show_on_frontpage: true
 permalink: "/projects/niklas-paschburg-oceanic/"
 
 title:  "Niklas Paschburg - Oceanic"
-project_name: "Spark"
+project_name: "Oceanic"
 role: "co-Produced, Sound-design, Mixed"
 category: "produced sound-design mixed"
 
@@ -23,7 +23,7 @@ project_thumbnails:
   - img: "project1708-image02-thumb.png"
   - img: "project1708-image03-thumb.png"
   - img: "project1708-image04-thumb.png"
-  - img: "project1708-image05-thumb.png"
+  - img: "project-image7k-thumb.png"
 ---
 
 The recorded material that Niklas Paschburg presented to me had many really good parts and performances, but it lacked clarity in sounds, mix and composition. Niklas told me what he wanted to express with each song and we then shaped the story of all tracks into a dreamy memory of the sea.<br />
