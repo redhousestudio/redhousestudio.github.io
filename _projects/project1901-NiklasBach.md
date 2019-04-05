@@ -25,7 +25,7 @@ project_thumbnails:
   - img: "project-image7k-thumb.png"
 ---
 
-Niklas created this track for his love of Bach and to add a uptempo song in his live performances. When he came to me for this single production we wanted to make the most of Bach's beautifull etude and give it our own happy twist.
+Niklas used to practice the original Bach piece a lot when he was a kid and revisited the piece on synthesisers. When he came to me for this single production we wanted to make the most of Bach's beautifull etude and give it our own happy twist. I added synths and bass.
 
 <iframe src="https://open.spotify.com/embed/track/5vvNX0uT5MGdN4u9N2tEJP" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 

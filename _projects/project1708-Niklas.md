@@ -42,6 +42,10 @@ Listen to the album in your favourite player [here](https://7k.lnk.to/Oceanic).
 [NPR](https://www.npr.org/2018/02/01/581018624/first-listen-niklas-paschburg-oceanic) wrote:
 >"Niklas Paschburg's debut album, Oceanic, will likely be one of the most beautiful records of 2018."
 
+[All Music](https://www.allmusic.com/album/oceanic-mw0003139672) wrote:
+>"an impressive debut, with many layers to uncover and a strong attention to craft in both composition and production."
+
+
 Niklas about working together:
 <blockquote>
 <p>When I first send him my music, Gijs directly dived into the music and let me see my own music in a new light. I always felt safe and easily could confide my music in his hands.</p>
