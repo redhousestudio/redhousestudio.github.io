@@ -31,17 +31,20 @@ project_thumbnails:
   - img: "project-imageDG-thumb.png"
 ---
 
-Very proud to present to you the new album of Joep Beving: ‘Henosis’ the closing chapter of the trilogy that started with [Solipsism](http://www.redhouse.nl/projects/joep-beving-solipsism/) and [Prehension](http://www.redhouse.nl/projects/joep-beving-prehension/).
-It was an amazing ride to create this interstellar beautiful album. I will write some posts [on facebook](https://www.facebook.com/gijsvankloostermusic/) soon about the process and thoughts that went into the creation. For now: enjoy this journey that will take you to many places, in your head and into space!
+‘Henosis’ the closing chapter of the trilogy that started with [Solipsism](../joep-beving-solipsism/) and [Prehension](../joep-beving-prehension/).
+It was an amazing ride to create this interstellar beautiful album. I will write some posts [on Facebook](https://www.facebook.com/gijsvankloostermusic/) about the process and thoughts that went into the creation. For now: enjoy this journey that will take you to many places, in your head and into space!
 
-A movie was made by Rahi Rezvani "Henosis - the film: MOVEMENT I"
-
-<iframe width="400" height="225" src="https://www.youtube.com/embed/ZhVojkxHW70?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Listen to the album on Spotify:
 <iframe src="https://open.spotify.com/embed/album/6Al9dg8G1lwIq4KwBnTdiG?si=WiZ0FPPqTA-xEeLxuIIBGg" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Listen to the album in your favorite player [here](https://dg.lnk.to/beving-henosis).
+
+Henosis - the film created by [Rahi Rezvani](http://www.rahirezvani.com):
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/ZhVojkxHW70?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/cA5_4eMiLqQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Joep about working together:
 <blockquote>

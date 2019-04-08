@@ -44,7 +44,7 @@ Joep about working together:
 </blockquote>
 
 We have been closely working together ever since. I work with Joep on all music and sound related matters; produce, mix, coach, sound-design, studio/tape engineering, ... whatever.
-We started production for [his second album Prehension](../joep-beving-prehension) immediately.
+We started production for his second album [Prehension](../joep-beving-prehension) immediately.
 
 In 2017 the album was re-released on the legendary [Deutsche Grammophon](https://www.deutschegrammophon.com/en/cat/4797469?).
 
