@@ -31,7 +31,7 @@ about_text: >
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <p class="redhouse-tagline2">RedHouse is the music studio of<br />composer / producer / engineer / sound-designer<br />Gijs van Klooster</p>
+  <p class="redhouse-tagline2">RedHouse is the music studio of<br />Gijs van Klooster</p>
   <p>&nbsp;</p>
 
 

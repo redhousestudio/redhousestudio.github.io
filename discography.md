@@ -46,8 +46,6 @@ I had the opportunity to work with some of the greatest artists and producers in
 
 <strong>Scroll down to see some highlighted projects.</strong>
 
-More listed <a href="../../../assets/cv/GijsvanKloosterCVM.pdf" target="blank" class="red-link">here</a> and on <a href="https://www.discogs.com/artist/413565-Gijs-Van-Klooster?sort=year%2Cdesc&limit=50&filter_anv=0&type=Credits&layout=med" target="blank" class="red-link">Discogs</a>.
-
 Stay up to date on my <a href="https://www.facebook.com/gijsvankloostermusic" target="blank" class="red-link">Facebook</a> page.
 
 <br />
