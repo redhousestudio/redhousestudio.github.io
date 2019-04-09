@@ -65,5 +65,5 @@ Stay up to date on my <a href="https://www.facebook.com/gijsvankloostermusic" ta
 [webyoadn]: http://yoadnevo.com
 [webhansmb]: https://www.discogs.com/artist/351436-Hans-Martin-Buff
 [webniklasp]: ../projects/niklas-paschburg-oceanic
-[webjoepb]: ../projects/joep-beving-solipsism
-[webhania]: https://www.facebook.com/haniaranimusic
+[webjoepb]: ../projects/joep-beving-henosis
+[webhania]: ../projects/hania-rani-esja
