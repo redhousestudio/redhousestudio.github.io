@@ -24,32 +24,31 @@ project_thumbnails:
 
 about_text: >
   <p>&nbsp;</p>
-  <p>&nbsp;</p>
   <p class="redhouse-tagline">MAKING SONIC DREAMS COME TRUE</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <p class="redhouse-tagline2">RedHouse is the music studio of<br />Gijs van Klooster</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
   <p>&nbsp;</p>
 
 
-
 studio_section_text: >
-  <p>RedHouse is a 'performance studio'. An intimate studio where musical ideas can be captured without interrupting the flow. Everybody together in one room working on the same thing.</p>
-  <p>And yes, I have Phase-Linear-Monitoring, and yes a fancy Millennia pre-amp too. Lotsa instruments and toys available to play. You just need a place that sounds good and where you feel comfortable - and a guy that knows how to work that sh*t.</p>
+  <p>My RedHouse studio is a 'performance studio'. It’s an intimate place, where musical ideas can be captured without the flow being interrupted. Everybody is together in the same room, working on the same thing.</p>
+  <p>And yes: I do have Phase-Linear-Monitoring, and a fancy Millennia pre-amp too. Plus: loads of  instruments and other musical toys available to play around with. I envisioned that a recording artist needs a place that basically sounds good, where they feel comfortable, guided by a guy that knows how to work all the buttons and faders.</p>
+  <p>Based in Amsterdam, the Netherlands.</p>
 
 
 services_section_text_left: >
-  <p>Providing the experience and necessary perspective to guide a recording from start to finish.</p>
-  <p>After playing, composing and producing music for more than 30 years in many genres I can cover the whole process that often starts in a rehearsal room or home studio and ends in a mastering studio.</p>
+  <p><strong>I provide the experience and necessary perspective to guide an artist’s recording from start to finish.</strong></p>
+  <p>After playing, composing and producing music for over 30 years in many genres, I’m more than experienced to cover the whole process - often starting in a rehearsal room or home studio and ending in a mastering studio.</p>
 
 
 services_section_text_right: >
-  <p>What drives me is to deliver a musical listening experience that really expresses the artist’s inspiration. And make everything connect - from concept to final master - and tell the same story; performance, music, processing, mix .. sound.</p>
-  <p>If you want me involved in any or all phases of your musical journey, <a href="mailto:gijs@redhouse.nl" target="blank" class="red-link">get in touch</a> and we'll have a coffee.</p>
-
+  <p>Delivering a musical listening experience that really expresses the artist’s inspiration, is what ultimately drives me. Making everything connect - from concept to final master - and tell the same story; performance, music, processing, mix .. sound.</p>
+  <p>If you want me involved in any or all phases of your musical journey, <a href="mailto:gijs@redhouse.nl" target="blank" class="red-link">get in touch</a> for a cup of coffee.</p>
 
 
 

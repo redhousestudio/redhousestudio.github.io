@@ -38,8 +38,8 @@ iframe {
 .site-logo {
   color: #D42005 !important;
   text-decoration: none !important;
-  font-family: 'Blitz', serif;
-  font-size: 55px;
+  font-size: 40px;
+  font-weight: bold;
 }
 .site-tagline {
   font-weight: bold;
