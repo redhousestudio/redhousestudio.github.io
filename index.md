@@ -25,7 +25,7 @@ project_thumbnails:
 about_text: >
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <p class="redhouse-tagline" align="center">MAKING SONIC DREAMS COME TRUE</p>
+  <p class="redhouse-tagline">MAKING SONIC DREAMS COME TRUE</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>

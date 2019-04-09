@@ -24,7 +24,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <h3 class="section-heading"><img src="/img/header_services.png" width="330" height="50" alt=""/></h3>
+        <h3 class="section-heading"><img src="/img/header_services.png" width="350" height="60" alt=""/></h3>
       </div>
       <div class="col-sm-6">
         {{ page.services_section_text_left }}
@@ -69,6 +69,8 @@ layout: default
 
 
 
+
+
 <div class="home-section-testimonials">
   <div class="container">
     <div class="row">
@@ -90,35 +92,11 @@ layout: default
 
 
 
-<div class="home-section-social-media">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h3 class="section-heading" ><img src="/img/header_invisible.png" width="330" height="50" alt=""/></h3>
-      </div>
-      <div class="col-sm-6">
-        <p align="center"><a href="{{ site.facebook_url }}" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></p>
-        <div class="fb-page" data-href="https://www.facebook.com/gijsvankloostermusic" data-tabs="timeline" data-width="500" data-height="420" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/gijsvankloostermusic" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/gijsvankloostermusic">RedHouse Music Studio</a></blockquote></div>        
-      </div>
-      <div class="col-sm-6" height="50">
-        <p align="center"><a href="{{ site.instagram_url }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></p>
-        <div id="instafeed"></div>
-        <script src="/js/instafeed.js"></script>
-      </div>
-      <div class="col-sm-12">
-        <h3 class="section-heading" ><img src="/img/header_invisible.png" width="330" height="50" alt=""/></h3>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
 <div class="home-section-studio">
   <div class="container">
     <div class="row">
       <div class="col-sm-6">
-        <h3 class="section-heading" ><img src="/img/header_studio.png" width="330" height="50" alt=""/></h3>
+        <h3 class="section-heading" ><img src="/img/header_studio.png" width="350" height="60" alt=""/></h3>
         {{ page.studio_section_text }}
       </div>
         <img src="/img/header_invisible.png" width="10" height="80" alt=""/>
@@ -135,7 +113,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <h3 class="section-heading" ><img src="/img/header_discography.png" width="330" height="50" alt=""/></h3>
+        <h3 class="section-heading" ><img src="/img/header_discography.png" width="350" height="60" alt=""/></h3>
       </div>
 
       {% for project in site.projects reversed %}
@@ -167,6 +145,32 @@ layout: default
     </div>
   </div>
 </div>
+
+
+
+<div class="home-section-social-media">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="section-heading" ><img src="/img/header_invisible.png" width="350" height="60" alt=""/></h3>
+      </div>
+      <div class="col-sm-6 site-social-media">
+        <p align="center"><a href="{{ site.facebook_url }}" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></p>
+        <div class="fb-page" data-href="https://www.facebook.com/gijsvankloostermusic" data-tabs="timeline" data-width="500" data-height="420" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/gijsvankloostermusic" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/gijsvankloostermusic">RedHouse Music Studio</a></blockquote></div>        
+      </div>
+      <div class="col-sm-6 site-social-media">
+        <p align="center"><a href="{{ site.instagram_url }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></p>
+        <div id="instafeed"></div>
+        <script src="/js/instafeed.js"></script>
+      </div>
+      <div class="col-sm-12">
+        <h3 class="section-heading" ><img src="/img/header_invisible.png" width="350" height="60" alt=""/></h3>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 
 
 
