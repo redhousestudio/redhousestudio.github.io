@@ -25,7 +25,7 @@ project_thumbnails:
 
 Polish artist, pianist, composer and musician Hania Rani is making waves in Poland and far beyond. Esja is her debut solo album and it is her first, real, personal statement as an artist. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful piano compositions.
 
-<iframe src="https://open.spotify.com/embed/album/0qexfmJhl1Ao6mBzgZpA95?si=ikhkxm4aTUSM3pnG0ddd1A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/0qexfmJhl1Ao6mBzgZpA95?si=ikhkxm4aTUSM3pnG0ddd1A" width="300" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 ---

@@ -36,17 +36,13 @@ It was an amazing ride to create this interstellar beautiful album. I will write
 
 
 Listen to the album on Spotify:
-<iframe src="https://open.spotify.com/embed/album/6Al9dg8G1lwIq4KwBnTdiG?si=WiZ0FPPqTA-xEeLxuIIBGg" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/6Al9dg8G1lwIq4KwBnTdiG?si=WiZ0FPPqTA-xEeLxuIIBGg" width="300" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Listen to the album in your favorite player [here](https://dg.lnk.to/beving-henosis).
 
 Henosis - the film created by [Rahi Rezvani](http://www.rahirezvani.com) in 3 Movements:
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/ZhVojkxHW70?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="400" height="225" src="https://www.youtube.com/embed/cA5_4eMiLqQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="400" height="225" src="https://www.youtube.com/embed/ZIxBfaDX910?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/gg0RyjaKXo0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Joep about working together:
