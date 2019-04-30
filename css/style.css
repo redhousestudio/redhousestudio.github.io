@@ -2,6 +2,10 @@
   font-family: 'Blitz';
   src: url('/fonts/Blitz.ttf');
 }
+@font-face {
+  font-family: '39473A_0_0';
+  src: url('/fonts/39473A_0_0.ttf');
+}
 body{
   font-size: 17px;
 }
@@ -38,36 +42,35 @@ iframe {
 .site-logo {
   color: #575151 !important;
   text-decoration: none !important;
-  font-size: 40px;
-  font-weight: bold;
+  font-size: 42px;
+  font-family: '39473A_0_0';
 }
 
-.site-tagline {
-  font-weight: bold;
-  font-size: 16px;
+.redhouse-tagline-big {
+  font-family: '39473A_0_0';
+  color: #D42005;
+  font-size: 23px;
+}
+
+.redhouse-tagline-small {
+  font-family: '39473A_0_0';
+  font-size: 15px;
 }
 
 .project-role {
   color: #D2220E;
   font-size: 17px;
+  font-family: '39473A_0_0';
 }
+
 .project-role-box {
   color: #D2220E;
-  font-size: 14px;
+  font-size: 13px;
+  font-family: '39473A_0_0';
 }
+
 .nav-wrapper {
   margin: auto;
-}
-
-.redhouse-tagline-big {
-  font-weight: bold;
-  color: #D42005;
-  font-size: 24px;
-}
-
-.redhouse-tagline-small {
-  font-weight: normal;
-  font-size: 15px;
 }
 
 .project-big-more {
@@ -256,6 +259,7 @@ blockquote{
 }
 .project-title {
   margin-top: 30px;
+  font-family: '39473A_0_0';
 }
 .social-icon{
   padding-top: 20px;
@@ -425,10 +429,12 @@ blockquote{
   border-radius: 5px;
   margin: 15px auto;
   position: relative;
-  font-size: 14px;
+  font-size: 13px;
   border: solid 1px transparent;
   text-align: center;
+  font-family: '39473A_0_0';
 }
+
 .project-box img {
   width: 100%;
   max-width: 100%;
