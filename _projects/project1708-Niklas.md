@@ -45,6 +45,7 @@ Listen to the album in your favourite player [here](https://7k.lnk.to/Oceanic).
 [All Music](https://www.allmusic.com/album/oceanic-mw0003139672) wrote:
 >"an impressive debut, with many layers to uncover and a strong attention to craft in both composition and production."
 
+[2019 Libera Awards Nominees - Best Classical Album](https://www.billboard.com/articles/business/8504529/a2im-2019-libera-awards-nominees-full-list)
 
 Niklas about working together:
 <blockquote>
