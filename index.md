@@ -62,5 +62,6 @@ slides:
   - filename: "testimonial-7.png"
   - filename: "testimonial-8.png"
   - filename: "testimonial-9.png"
+  - filename: "testimonial-10.png"
 
 ---
