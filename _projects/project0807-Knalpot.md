@@ -6,7 +6,6 @@ permalink: "/projects/knalpot-serious-outtakes/"
 title:  "Knalpot - Serious Outtakes"
 project_name: "Serious Outtakes"
 role: "Produced, Recorded, Mixed"
-category: "produced recorded mixed"
 
 artist_name: "Knalpot"
 artist_website: "http://www.knalpot.eu/news.php"
@@ -32,6 +31,8 @@ During pre- production we discussed the sound and I studied their performances. 
 A great project to have worked on because I like strong ideas and personalities and their music is something really unique.
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3252295011/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://knalpot.bandcamp.com/album/serious-outtakes" >Serious Outtakes by Knalpot</a></iframe>
+
+---
 
 Knalpot about working together:
 <blockquote>

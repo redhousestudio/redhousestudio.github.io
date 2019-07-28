@@ -6,7 +6,6 @@ permalink: "/projects/joep-beving-henosis/"
 title:  "Joep Beving - Henosis"
 project_name: "Henosis"
 role: "Produced, Recorded, Mixed"
-category: "produced recorded mixed"
 
 artist_name: "Joep Beving"
 artist_website: "http://joepbeving.com"

@@ -6,7 +6,6 @@ permalink: "/projects/joep-beving-prehension/"
 title:  "Joep Beving - Prehension"
 project_name: "Prehension"
 role: "Produced, Recorded, Mixed"
-category: "produced recorded mixed"
 
 artist_name: "Joep Beving"
 artist_website: "http://joepbeving.com"

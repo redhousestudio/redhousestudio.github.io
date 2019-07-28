@@ -6,7 +6,6 @@ permalink: "/projects/blabla.html"
 title:  "Jacco Wynia - Discomfort"
 project_name: "Discomfort"
 role: "Produced, Recorded, Mixed"
-category: "produced recorded mixed"
 
 artist_name: "Jacco Wynia"
 artist_website: "https://www.jaccowynia.com"

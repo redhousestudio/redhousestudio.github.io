@@ -6,7 +6,6 @@ permalink: "/projects/evelien-van-den-broek-false-memories/"
 title:  "Evelien van den Broek - False Memories"
 project_name: "False Memories"
 role: "Mixed"
-category: "mixed"
 
 artist_name: "Evelien van den Broek"
 artist_website: "http://www.evelienvandenbroek.com"

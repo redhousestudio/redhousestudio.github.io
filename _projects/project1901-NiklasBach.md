@@ -5,8 +5,7 @@ permalink: "/projects/niklas-paschburg-blooming/"
 
 title:  "Niklas Paschburg - Blooming (in C-minor)"
 project_name: "Blooming"
-role: "Produced, Sound-design, Mixed"
-category: produced mixed
+role: "Produced, Sound Design, Mixed"
 
 artist_name: "Niklas Paschburg"
 artist_website: "http://niklaspaschburg.com"

@@ -6,7 +6,6 @@ permalink: "/projects/room-eleven-you-made-me-see-it/"
 title:  "Room Eleven - You made me see it"
 project_name: "You made me see it"
 role: "co-Writer"
-category: composed
 
 artist_name: "Room Eleven"
 artist_website: "https://www.roomeleven.nl/news"
