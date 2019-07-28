@@ -37,6 +37,7 @@ slides:
   - filename: "PHOTO-2018-07-05-22-04-01 6.jpg"
   - filename: "picture_14.jpg"
   - filename: "studio foto1.jpg"
+  - filename: "Marlies01.png"
 
 ---
 

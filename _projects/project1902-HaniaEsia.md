@@ -18,14 +18,22 @@ project_thumb_small: project1902-thumb-small.png
 project_thumb_large: project1902-thumb-large.png
 project_background_image: project1902-bg.png
 project_thumbnails:
-  - img: project1902-image01-thumb.png
   - img: project1902-image02-thumb.png
   - img: project-gondwana-thumb.png
 ---
+
+![Hania Rani - Esja](../../img/project1902-image01.png)
 
 Polish artist, pianist, composer and musician Hania Rani is making waves in Poland and far beyond. Esja is her debut solo album and it is her first, real, personal statement as an artist. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful piano compositions.
 
 <iframe src="https://open.spotify.com/embed/album/0qexfmJhl1Ao6mBzgZpA95?si=ikhkxm4aTUSM3pnG0ddd1A" width="300" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+---
+
+[Everything Is Noise](https://everythingisnoise.net/reviews/hania-rani-esja/)
+>"a mesmerizing, timeless, and compelling record that will get you forgetting about your troubles! You simply drown in the atmospheres created."
+
+[Overblown](https://overblown.co.uk/top-10-ambient-albums-so-far)
+>"Her sense for tiny melodic gestures and quiet soundscaping make for one of the most intimate and striking modern classical projects in a sea of such things."
 
 ---

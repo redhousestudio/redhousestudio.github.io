@@ -19,11 +19,12 @@ project_thumb_small: project1901-thumb-small.png
 project_thumb_large: project1901-thumb-large.png
 project_background_image: project1901-bg.png
 project_thumbnails:
-  - img: project1901-image01-thumb.png
   - img: project1901-image02-thumb.png
   - img: project1901-image03-thumb.png
   - img: "project-image7k-thumb.png"
 ---
+
+![Niklas Paschburg - Blooming (in C-minor)](../../img/project1901-image01.png)
 
 Niklas used to practice the original Bach piece a lot when he was a kid and revisited the piece on synthesisers. When he came to me for this single production we wanted to make the most of Bach's beautifull etude and give it our own happy twist. I added synths and bass.
 

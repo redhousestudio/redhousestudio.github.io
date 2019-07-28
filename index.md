@@ -42,7 +42,7 @@ studio_section_text: >
 
 
 services_section_text_left: >
-  <p><strong>I provide the experience and necessary perspective to guide an artist’s recording from start to finish.</strong></p>
+  <p><strong>Providing the experience and necessary perspective to guide an artist’s recording from start to finish.</strong></p>
   <p>After playing, composing and producing music for over 30 years in many genres, I’m more than experienced to cover the whole process - often starting in a rehearsal room or home studio and ending in a mastering studio.</p>
 
 
