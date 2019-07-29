@@ -21,10 +21,6 @@ layout: default
 <div class="home-section-discography">
   <div class="container">
     <div class="row">
-      <div class="col-sm-12">
-        <h3 class="section-heading" ><img src="/img/header_invisible.png" width="350" height="60" alt=""/></h3>
-      </div>
-
       {% for project in site.projects reversed %}
       {% if project.show_on_frontpage == true %}
       <div class="col-sm-3 col-xs-6 home-section-discography-project ">
@@ -33,7 +29,7 @@ layout: default
               <img src="/img/{{ project.project_thumb_large }}">
             <p>&nbsp;<br />
             {{project.title}}</p>
-            <p class="project-role-box">{{project.role}}</p>
+            <p class="project-box-role">{{project.role}}</p>
           </div>
         </a>
       </div>
