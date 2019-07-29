@@ -23,7 +23,7 @@ project_thumbnails:
     project_name: 
 
 about_text: >
-  <p class="redhouse-tagline-small">producer/engineer/sound designer</p>
+  <p class="redhouse-tagline-small">producer / engineer / sound designer</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
@@ -37,7 +37,7 @@ about_text: >
 
 studio_section_text: >
   <p>My RedHouse studio is a 'performance studio'. It’s an intimate place, where musical ideas can be captured without the flow being interrupted. Everybody is together in the same room, working on the same thing.</p>
-  <p>And yes: I do have Phase-Linear-Monitoring, and a fancy Millennia pre-amp too. Plus: loads of  instruments and other musical toys available to play around with. I envisioned that a recording artist needs a place that basically sounds good, where they feel comfortable, guided by a guy that knows how to work all the buttons and faders.</p>
+  <p>And yes: I do have Phase-Linear-Monitoring, and a fancy Millennia pre-amp too. Plus: loads of  instruments and other musical toys available to play around with. I envisioned that a recording artist needs a place that sounds good, where they feel comfortable, and a guy that knows how to work all the buttons and faders.</p>
   <p>Based in Amsterdam, the Netherlands.</p>
 
 

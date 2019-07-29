@@ -5,7 +5,7 @@ permalink: "/projects/tom-trago-voyage-direct/"
 
 title:  "Tom Trago - Voyage Direct"
 project_name: "Voyage Direct"
-role: "co-Produced, Sound Design, Mixed"
+role: "co-produced, sound design, mixed"
 
 artist_name: "Tom Trago"
 artist_website: "http://tomtrago.com"

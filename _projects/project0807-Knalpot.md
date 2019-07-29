@@ -5,7 +5,7 @@ permalink: "/projects/knalpot-serious-outtakes/"
 
 title:  "Knalpot - Serious Outtakes"
 project_name: "Serious Outtakes"
-role: "Produced, Recorded, Mixed"
+role: "produced, recorded, mixed"
 
 artist_name: "Knalpot"
 artist_website: "http://www.knalpot.eu/news.php"

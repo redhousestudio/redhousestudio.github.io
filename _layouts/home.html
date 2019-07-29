@@ -18,6 +18,42 @@ layout: default
 </div>
 
 
+<div class="home-section-discography">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="section-heading" ><img src="/img/header_invisible.png" width="350" height="60" alt=""/></h3>
+      </div>
+
+      {% for project in site.projects reversed %}
+      {% if project.show_on_frontpage == true %}
+      <div class="col-sm-3 col-xs-6 home-section-discography-project ">
+          <a href="{{ project.url }}" class="project-button">
+          <div class="project-box">
+              <img src="/img/{{ project.project_thumb_large }}">
+            <p>&nbsp;<br />
+            {{project.title}}</p>
+            <p class="project-role-box">{{project.role}}</p>
+          </div>
+        </a>
+      </div>
+      {% endif %}
+      {% endfor %}
+
+      <div class="col-sm-3 col-xs-6">
+        <a href="/discography/" class="project-button">
+          <div class="project-box">
+            <div class="project-show-all">
+                <img src="/img/see-all-3-dots.png">
+                <p class="project-big-more" >&nbsp;<br />
+                MORE</p>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 <div class="home-section-services">
@@ -45,7 +81,7 @@ layout: default
         <div class="process-box">
           <p><img src="/img/Icon_Produce.png" width="130" height="65" alt=""/></p>
           <p class="process-box-title">Production</p>
-          <p>My mission is to record your ultimate peak performance. Construct and conceive all the musical layers and record everything we need. I can assist with composing, arrangements, sound design, help you perform your songs.</p>
+          <p>The mission is to record your ultimate peak performance. Construct and conceive all the musical layers and record everything we need. I can assist with composing / arrangements / soundesign to optimize the impact of every element.</p>
         </div>
       </div>
       <div class="col-sm-4 col-xs-12 home-section-services-process ">
@@ -95,48 +131,6 @@ layout: default
   </div>
 </div>
 
-
-
-
-
-<div class="home-section-discography">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h3 class="section-heading" ><img src="/img/header_discography.png" width="350" height="60" alt=""/></h3>
-      </div>
-
-      {% for project in site.projects reversed %}
-      {% if project.show_on_frontpage == true %}
-      <div class="col-sm-3 col-xs-6 home-section-discography-project ">
-          <a href="{{ project.url }}" class="project-button">
-          <div class="project-box">
-              <img src="/img/{{ project.project_thumb_large }}">
-            <p>&nbsp;<br />
-            {{project.title}}</p>
-            <p class="project-role-box">{{project.role}}</p>
-          </div>
-        </a>
-      </div>
-      {% endif %}
-      {% endfor %}
-
-      <div class="col-sm-3 col-xs-6">
-        <a href="/discography/" class="project-button">
-          <div class="project-box">
-            <div class="project-show-all">
-                <img src="/img/see-all-3-dots.png">
-                <p class="project-big-more" >&nbsp;<br />
-                MORE</p>
-                <p>OF WHERE THAT CAME FROM</p>
-                <p>or<br />cowbell</p>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
 
 
 

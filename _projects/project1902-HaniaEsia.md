@@ -5,7 +5,7 @@ permalink: "/projects/hania-rani-esja/"
 
 title:  "Hania Rani - Esja"
 project_name: "Esja"
-role: "Mixed, Mastered"
+role: "mixed, mastered"
 
 artist_name: "Hania Rani"
 artist_website: "http://haniarani.com"
