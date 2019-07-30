@@ -31,13 +31,21 @@ project_thumbnails:
 
 ![Joep Beving - Henosis](../../img/project1903-image02.png)
 
-‘Henosis’ is the closing chapter of the trilogy that started with [Solipsism](../joep-beving-solipsism/) and [Prehension](../joep-beving-prehension/).
+We always had the vision to go beyond the piano and introduce synthesizers, choir and orchestra in Joeps music. It only happened ever so slightly in [Impermanence](https://open.spotify.com/track/0PPT4yPxqa5FNWkXpyKvsI?si=SbH6bgutSS-rFF25ak1diA) on Prehension. In the closing chapter of of the trilogy that started with [Solipsism](../joep-beving-solipsism/) and [Prehension](../joep-beving-prehension/) Joep wanted to go deeper.
 
-Creating this album took more than a year and was a big production recording [Deutsches Filmorchester Babelsberg](https://filmorchester.de/de/) in their beautiful [studio](https://filmorchester.de/de/Scoring-Stage/Saal/index.php), the [Echo Collective](https://www.echocollective.be) in [Jet Sound](https://www.jetstudio.com) and [Cappella Amsterdam](https://www.cappellaamsterdam.nl) in [Wisseloord](https://www.wisseloord.nl). All piano and electronics were created and recorded in my RedHouse studio (except were [indicated](https://www.discogs.com/Joep-Beving-Henosis/release/13476911)). 
+The demos for Henosis were finished in 2017 and it took the most of 2018 to transcribe, record and mix all tracks.
 
-I will write some posts [on Facebook](https://www.facebook.com/gijsvankloostermusic/) about the process and thoughts that went into the creation. For now: enjoy this journey that will take you to many places, in your head and into space!
+Strings and choir were orchestrated by [Max Knoth](https://www.maxknoth.de) and we recorded [Deutsches Filmorchester Babelsberg](https://filmorchester.de/de/) in their amazing [studio](https://filmorchester.de/de/Scoring-Stage/Saal/index.php), the [Echo Collective](https://www.echocollective.be) in [Jet Sound](https://www.jetstudio.com) and [Cappella Amsterdam](https://www.cappellaamsterdam.nl) in [Wisseloord](https://www.wisseloord.nl). Organ recorded by [Misja van den Burg](https://misjavandenburg.com) in a New York church. 3 tracks were produced and mixed by [Maarten Vos](https://maartenvos.com). 
 
-Henosis - a film created by [Rahi Rezvani](http://www.rahirezvani.com) in 3 Movements:
+It was a great project with great people. Recording and mixing over 1000 channels of audio (in different tunings) into 2. Creating a sonic journey of almost 2 hours of shapes and stories, blending acoustics and electronics, classical and the present moment.
+
+Mastering by [Zino Mikorey](https://www.zinomikorey.com).
+
+Thanks to Joep for taking me on these musical adventures and also [Christian Badzura](https://www.linkedin.com/in/christian-badzura-64b49716/?originalSubdomain=de), A&R of Deutsche Grammophon, who played a crucial part in the making of this album.
+
+
+
+A film was created by [Rahi Rezvani](http://www.rahirezvani.com) in 3 Movements:
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/gg0RyjaKXo0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

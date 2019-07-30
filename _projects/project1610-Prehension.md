@@ -30,7 +30,7 @@ project_thumbnails:
 
 After the breakthrough album [Solipsism](../joep-beving-solipsism/) was released, Joep Beving and I started to work on the many new songs and ideas. It was a beautiful journey together. To perfect the beautiful piano stories that Joep created in every detail, we molded every moment of every track: the feel, the intention, the tempi, the loudness and softness, even a deviated tuning of the piano, and we synthesized it all together as a whole. Recorded and mixed in my RedHouse studio.
 
-We finalized the album in the mastering studio of [Darcy Proper](http://www.wisseloord.nl/mastering/) to make sure it was ready for the large audience that Joep’s music had found.
+Mastering by [Darcy Proper](http://www.wisseloord.nl/mastering/) to make sure it was ready for the large audience that Joep’s music had found.
 
 
 This album was signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?) label. In April 2019 the album received the [Golden Record Award](https://www.luister.nl/pianist-joep-beving-ontvangt-gouden-plaat/) in the Concertgebouw in Amsterdam.
