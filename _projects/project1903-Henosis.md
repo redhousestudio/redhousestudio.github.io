@@ -31,7 +31,7 @@ project_thumbnails:
 
 ![Joep Beving - Henosis](../../img/project1903-image02.png)
 
-We always had the vision to go beyond the piano and introduce synthesizers, choir and orchestra in Joeps music. It only happened ever so slightly in [Impermanence](https://open.spotify.com/track/0PPT4yPxqa5FNWkXpyKvsI?si=SbH6bgutSS-rFF25ak1diA) on Prehension. In the closing chapter of of the trilogy that started with [Solipsism](../joep-beving-solipsism/) and [Prehension](../joep-beving-prehension/) Joep wanted to go deeper.
+We long wanted to go beyond the piano and introduce synthesizers, choir and orchestra in Joeps music because we both come from a more electronic music background. It only happened ever so slightly in [Impermanence](https://open.spotify.com/track/0PPT4yPxqa5FNWkXpyKvsI?si=SbH6bgutSS-rFF25ak1diA) on Prehension. In the closing chapter of of the trilogy that started with [Solipsism](../joep-beving-solipsism/) and [Prehension](../joep-beving-prehension/) Joep wanted to go deeper.
 
 The demos for Henosis were finished in 2017 and it took the most of 2018 to transcribe, record and mix all tracks.
 
@@ -59,7 +59,7 @@ Listen to the album in your favorite player [here](https://dg.lnk.to/beving-heno
 >"this rich amalgamation of electrical sounds and classical traditions are realized perfectly with history resolving itself into present moments. Henosis is a music searching for something lost. And now found."
 
 [Art’s Excellence](https://blog.artsexcellence.nl/joep-beving-jean-michel-blais-en-max-richter/):
->"A touching and beautiful masterpiece, with an smooth and warm production."
+>"A touching and beautiful masterpiece, with a smooth and warm production."
 
 [Pop News](http://www.popnews.com/popnews/joep-beving-henosis)
 >"... We then find ourselves in a game of communicating vessels: here we draw the fragrances of the classical repertoire, there elements of electronic rhythm. One feeds on the other."
