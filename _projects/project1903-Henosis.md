@@ -37,7 +37,7 @@ The demos for Henosis were finished in 2017 and it took the most of 2018 to tran
 
 Strings and choir were orchestrated by [Max Knoth](https://www.maxknoth.de) and we recorded [Deutsches Filmorchester Babelsberg](https://filmorchester.de/de/) in their amazing [studio](https://filmorchester.de/de/Scoring-Stage/Saal/index.php), the [Echo Collective](https://www.echocollective.be) in [Jet Sound](https://www.jetstudio.com) and [Cappella Amsterdam](https://www.cappellaamsterdam.nl) in [Wisseloord](https://www.wisseloord.nl). Organ recorded by [Misja van den Burg](https://misjavandenburg.com) in a New York church. 3 tracks were produced and mixed by [Maarten Vos](https://maartenvos.com). 
 
-It was a great project with great people. Recording and mixing over 1000 channels of audio (in different tunings) into 2. Creating a sonic journey of almost 2 hours of shapes and stories, blending acoustics and electronics, classical and the present moment.
+It was a great project with great people. Recording and mixing more than 500 tracks (in different tunings) into 2. Creating a sonic journey of almost 2 hours of shapes and Joeps stories, blending acoustics and electronics, classical and the present moment.
 
 Mastering by [Zino Mikorey](https://www.zinomikorey.com).
 
