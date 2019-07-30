@@ -59,7 +59,7 @@ Listen to the album in your favorite player [here](https://dg.lnk.to/beving-heno
 >"this rich amalgamation of electrical sounds and classical traditions are realized perfectly with history resolving itself into present moments. Henosis is a music searching for something lost. And now found."
 
 [Art’s Excellence](https://blog.artsexcellence.nl/joep-beving-jean-michel-blais-en-max-richter/):
->"A touching and beautiful masterpiece, with an absolute nice and warm production."
+>"A touching and beautiful masterpiece, with an smooth and warm production."
 
 [Pop News](http://www.popnews.com/popnews/joep-beving-henosis)
 >"... We then find ourselves in a game of communicating vessels: here we draw the fragrances of the classical repertoire, there elements of electronic rhythm. One feeds on the other."

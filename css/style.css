@@ -400,6 +400,13 @@ blockquote{
   display: block;
   margin: auto;
 }
+
+.project-role {
+  color: #D2220E;
+  font-size: 17px;
+  font-family: '39473A_0_0';
+}
+
 .discography-section-projects {
   padding: 30px 0;
   background-image: url(/img/bg-discography-section-2.png);
