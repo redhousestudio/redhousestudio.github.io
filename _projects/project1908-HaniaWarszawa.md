@@ -21,8 +21,8 @@ project_thumbnails:
   - img: "project-image7k-thumb.png"
 ---
 
-One track that didn't make [the album](../hania-rani-esja/) was released by [7K](http://7k.k7.com) on the compilation "Piano layers".
-More piano bliss by the beautiful Hania Rani.
+More piano bliss by the beautiful Hania Rani. Released by [7K](http://7k.k7.com) on the compilation "Piano layers".
+
 
 <iframe src="https://open.spotify.com/embed/track/2i7H5eD64PHXKOxRAqxo3D" width="300" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
