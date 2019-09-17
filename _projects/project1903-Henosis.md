@@ -5,7 +5,7 @@ permalink: "/projects/joep-beving-henosis/"
 
 title:  "Joep Beving - Henosis"
 project_name: "Henosis"
-role: "produced, recorded, mixed"
+role: "produced, sound design, recorded, mixed"
 
 artist_name: "Joep Beving"
 artist_website: "http://joepbeving.com"
