@@ -23,6 +23,8 @@ project_thumbnails:
 
 More piano bliss by the beautiful Hania Rani. Released by [7K](http://7k.k7.com) on the compilation "Piano layers".
 
+Hania wrote: "The piece is dedicated to the city where I live. [...] I was trying to catch the atmosphere of the city, which is in a constant movement, directed to the future. But also adding a blast of melancholy, nostalgia, telling the difficult story of it's past."
+
 
 <iframe src="https://open.spotify.com/embed/track/2i7H5eD64PHXKOxRAqxo3D" width="300" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
