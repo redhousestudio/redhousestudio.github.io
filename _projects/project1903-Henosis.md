@@ -39,9 +39,9 @@ Strings and choir were orchestrated by [Max Knoth](https://www.maxknoth.de) and 
 
 It was a great project with great people. Recording and mixing more than 500 tracks (in different tunings) into 2. Creating a sonic journey of almost 2 hours of shapes and Joeps stories, blending acoustics and electronics, classical and the present moment.
 
-Mastering by [Zino Mikorey](https://www.zinomikorey.com).
+Mastered by [Zino Mikorey](https://www.zinomikorey.com).
 
-Thanks to Joep for taking me on these musical adventures and also [Christian Badzura](https://www.linkedin.com/in/christian-badzura-64b49716/?originalSubdomain=de), A&R of Deutsche Grammophon, who played a crucial part in the making of this album.
+Thanks to Joep for taking me on these musical adventures and [Christian Badzura](https://www.linkedin.com/in/christian-badzura-64b49716/?originalSubdomain=de), A&R of [Deutsche Grammophon](https://www.deutschegrammophon.com/), for his advice and feedback.
 
 
 
