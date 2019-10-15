@@ -26,7 +26,7 @@ project_thumbnails:
   - img: "project1903-image06-thumb.png"
   - img: "project1903-image07-thumb.png"
   - img: "project1903-image08-thumb.png"
-  - img: "project-imageDG-thumb.png"
+  - img: "label-image-DG-thumb.png"
 ---
 
 ![Joep Beving - Henosis](../../img/project1903-image02.png)

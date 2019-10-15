@@ -20,7 +20,7 @@ project_background_image: project1610-bg.png
 project_thumbnails:
   - img: "project1610-image01-thumb.png"
   - img: "project1610-image02-thumb.png"
-  - img: "project-imageDG-thumb.png"
+  - img: "label-image-DG-thumb.png"
   - img: "project1610-image04-thumb.png"
   - img: "project1610-image05-thumb.png"
   - img: "project1610-image06-thumb.png"

@@ -18,7 +18,7 @@ project_thumb_large: project1902-thumb-large.png
 project_background_image: project1902-bg.png
 project_thumbnails:
   - img: project1902-image02-thumb.png
-  - img: project-gondwana-thumb.png
+  - img: label-image-gondwana-thumb.png
 ---
 
 ![Hania Rani - Esja](../../img/project1902-image01.png)

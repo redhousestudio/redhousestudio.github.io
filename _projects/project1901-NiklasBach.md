@@ -20,7 +20,7 @@ project_background_image: project1901-bg.png
 project_thumbnails:
   - img: project1901-image02-thumb.png
   - img: project1901-image03-thumb.png
-  - img: "project-image7k-thumb.png"
+  - img: "label-image-7k-thumb.png"
 ---
 
 ![Niklas Paschburg - Blooming (in C-minor)](../../img/project1901-image01.png)

@@ -18,7 +18,7 @@ project_thumb_large: project1908-thumb-large.png
 project_background_image: project1908-bg.png
 project_thumbnails:
   - img: project1908-image01-thumb.png
-  - img: "project-image7k-thumb.png"
+  - img: "label-image-7k-thumb.png"
 ---
 
 More piano bliss by the beautiful Hania Rani. Released by [7K](http://7k.k7.com) on the compilation "Piano layers".

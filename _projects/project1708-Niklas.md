@@ -21,7 +21,7 @@ project_thumbnails:
   - img: "project1708-image02-thumb.png"
   - img: "project1708-image03-thumb.png"
   - img: "project1708-image04-thumb.png"
-  - img: "project-image7k-thumb.png"
+  - img: "label-image-7k-thumb.png"
 ---
 
 ![Niklas Paschburg - Oceanic](../../img/project1708-image01.png)

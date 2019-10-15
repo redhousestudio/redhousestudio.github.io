@@ -20,7 +20,7 @@ project_background_image: project1503-bg.png
 project_thumbnails:
   - img: project1503-image01-thumb.png
   - img: project1503-image02-thumb.png
-  - img: project-imageDG-thumb.png
+  - img: label-image-DG-thumb.png
 ---
 
 In 2013  Joep and I started sharing space and time in the RedHouse. We were old music colleagues and he moved all his music gear and studio equipment into the RedHouse in order to play and experiment. One day he asked me to help him release some recordings he made at home on his piano, the only instrument left in his house. I loved what I heard and wanted to help him. So I spent many hours mixing and mastering his home recordings — one track was even recorded on his phone! Together we developed
