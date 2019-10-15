@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/blabla.html"
+permalink: "/projects/jacco-wynia-discomfort/"
 
 title:  "Jacco Wynia - Discomfort"
 project_name: "Discomfort"
