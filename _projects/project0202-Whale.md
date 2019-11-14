@@ -5,7 +5,7 @@ permalink: "/projects/tom-van-huijstee-gijs-van-klooster-whale/"
 
 title:  "Tom van Huijstee & Gijs van Klooster - Whale"
 project_name: "Whale"
-role: "produced, composed, performed, recorded, mixed"
+role: "producer, composer, recording, mixer"
 
 artist_name: "Tom van Huystee & Gijs van Klooster"
 artist_website:

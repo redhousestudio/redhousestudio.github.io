@@ -5,7 +5,7 @@ permalink: "/projects/bobs-green-kleine-fabriek/"
 
 title:  "Bob's Green - Kleine Fabriek"
 project_name: "Kleine Fabriek"
-role: "produced, composed, performed, recorded, mixed"
+role: "producer, composer, recorder, mixer"
 
 artist_name: "Bob's Green"
 artist_website: "http://www.bobsgreen.nl"

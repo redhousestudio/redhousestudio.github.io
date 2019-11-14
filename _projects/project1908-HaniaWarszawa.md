@@ -5,7 +5,7 @@ permalink: "/projects/hania-rani-warszawa/"
 
 title:  "Hania Rani - Warszawa"
 project_name: "Esja"
-role: "mixed, mastered"
+role: "mixer, mastering"
 
 artist_name: "Hania Rani"
 artist_website: "http://haniarani.com"

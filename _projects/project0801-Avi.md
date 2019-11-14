@@ -5,7 +5,7 @@ permalink: "/projects/avi-adir-woods-awakening/"
 
 title:  "Avi Adir - Woods Awakening"
 project_name: "Woods Awakening"
-role: "produced, recorded, mixed"
+role: "producer, recording, mixer"
 
 artist_name: "Avi Adir"
 artist_website:

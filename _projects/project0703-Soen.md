@@ -5,7 +5,7 @@ permalink: "/projects/soen/"
 
 title:  "Soen"
 project_name: "Soen"
-role: "produced, composed, mixed"
+role: "producer, composer, mixer"
 
 artist_name: "Soen"
 artist_website:

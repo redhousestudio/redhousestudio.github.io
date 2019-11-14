@@ -5,7 +5,7 @@ permalink: "/projects/joep-beving-solipsism/"
 
 title:  "Joep Beving - Solipsism"
 project_name: "Solipsism"
-role: "mixed, mastered"
+role: "mixer, mastering"
 
 artist_name: "Joep Beving"
 artist_website: "http://joepbeving.com"

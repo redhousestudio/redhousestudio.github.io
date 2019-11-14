@@ -5,7 +5,7 @@ permalink: "/projects/joep-beving-prehension/"
 
 title:  "Joep Beving - Prehension"
 project_name: "Prehension"
-role: "produced, recorded, mixed"
+role: "producer, recording, mixer"
 
 artist_name: "Joep Beving"
 artist_website: "http://joepbeving.com"
@@ -33,7 +33,8 @@ After the breakthrough album [Solipsism](../joep-beving-solipsism/) was released
 Mastering by [Darcy Proper](http://www.wisseloord.nl/mastering/) to make sure it was ready for the large audience that Joep’s music had found.
 
 
-This album was signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?) label. In April 2019 the album received the [Golden Record Award](https://www.luister.nl/pianist-joep-beving-ontvangt-gouden-plaat/) in the Concertgebouw in Amsterdam.
+This album was signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?) label.<br />
+
 
 I am so proud of what we have accomplished. We never dreamed this big; we just wanted to make beautiful piano music. This album has touched millions of people and has changed our lives forever, in a good way. Thank you!
 
@@ -54,5 +55,7 @@ Right after this was released we started working on the closing chapter of the t
 
 [Our Culture](https://ourculturemag.com/2017/04/09/204-2/) wrote:
 >"A stunning album." 
+
+In April 2019 the album received the [Golden Record Award](https://www.luister.nl/pianist-joep-beving-ontvangt-gouden-plaat/)🏆 in the Concertgebouw in Amsterdam.
 
 ---

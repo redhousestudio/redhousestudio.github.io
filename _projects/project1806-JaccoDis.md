@@ -5,7 +5,7 @@ permalink: "/projects/jacco-wynia-discomfort/"
 
 title:  "Jacco Wynia - Discomfort"
 project_name: "Discomfort"
-role: "produced, recorded, mixed"
+role: "producer, recording, mixer"
 
 artist_name: "Jacco Wynia"
 artist_website: "https://www.jaccowynia.com"

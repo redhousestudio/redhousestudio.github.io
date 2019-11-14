@@ -5,7 +5,7 @@ permalink: "/projects/joep-beving-henosis/"
 
 title:  "Joep Beving - Henosis"
 project_name: "Henosis"
-role: "produced, sound design, recorded, mixed"
+role: "producer, sound designer, recording, mixer"
 
 artist_name: "Joep Beving"
 artist_website: "http://joepbeving.com"
@@ -27,6 +27,7 @@ project_thumbnails:
   - img: "project1903-image07-thumb.png"
   - img: "project1903-image08-thumb.png"
   - img: "label-image-DG-thumb.png"
+  - img: "project1903-image10-thumb.png"
 ---
 
 ![Joep Beving - Henosis](../../img/project1903-image02.png)
@@ -42,8 +43,6 @@ It was a great project with great people. Recording and mixing more than 500 tra
 Mastered by [Zino Mikorey](https://www.zinomikorey.com).
 
 Thanks to Joep for taking me on these musical adventures and [Christian Badzura](https://www.linkedin.com/in/christian-badzura-64b49716/?originalSubdomain=de), A&R of [Deutsche Grammophon](https://www.deutschegrammophon.com/), for his advice and feedback.
-
-
 
 A film was created by [Rahi Rezvani](http://www.rahirezvani.com) in 3 Movements:
 
@@ -63,5 +62,9 @@ Listen to the album in your favorite player [here](https://dg.lnk.to/beving-heno
 
 [Pop News](http://www.popnews.com/popnews/joep-beving-henosis)
 >"... We then find ourselves in a game of communicating vessels: here we draw the fragrances of the classical repertoire, there elements of electronic rhythm. One feeds on the other."
+
+In November 2019 we were honoured to receive the [Dutch Edison Award](https://www.edisons.nl/klassiek/nieuws/winnaars-edison-klassiek-2019-bekend/)🏆.
+[Joep comments](https://www.facebook.com/joepbevingmusic/posts/2600956476639248):
+>"... you have been the ultimate wingman in this adventure, we made this record together. Thank you for all the passion, skill and damn hard work."
 
 ---

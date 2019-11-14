@@ -5,7 +5,7 @@ permalink: "/projects/joep-beving-prelude/"
 
 title:  "Joep Beving - Prelude"
 project_name: "Prelude"
-role: "co-produced, mixed, sound design"
+role: "co-producer, mixer, sound designer"
 
 artist_name: "Joep Beving"
 artist_website: "http://joepbeving.com"
