@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/joep-beving-solipsism/"
+permalink: "/discography/joep-beving-solipsism/"
 
 title:  "Joep Beving - Solipsism"
 project_name: "Solipsism"

@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/projects/niklas-paschburg-oceanic/"
+permalink: "/discography/niklas-paschburg-oceanic/"
 
 title:  "Niklas Paschburg - Oceanic"
 project_name: "Oceanic"

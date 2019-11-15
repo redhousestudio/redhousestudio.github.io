@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/room-eleven-you-made-me-see-it/"
+permalink: "/discography/room-eleven-you-made-me-see-it/"
 
 title:  "Room Eleven - You made me see it"
 project_name: "You made me see it"

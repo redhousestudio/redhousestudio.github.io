@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/hania-rani-warszawa/"
+permalink: "/discography/hania-rani-warszawa/"
 
 title:  "Hania Rani - Warszawa"
 project_name: "Esja"

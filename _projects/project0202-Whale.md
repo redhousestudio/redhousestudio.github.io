@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/tom-van-huijstee-gijs-van-klooster-whale/"
+permalink: "/discography/tom-van-huijstee-gijs-van-klooster-whale/"
 
 title:  "Tom van Huijstee & Gijs van Klooster - Whale"
 project_name: "Whale"

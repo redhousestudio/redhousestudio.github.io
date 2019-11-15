@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/projects/hania-rani-esja/"
+permalink: "/discography/hania-rani-esja/"
 
 title:  "Hania Rani - Esja"
 project_name: "Esja"

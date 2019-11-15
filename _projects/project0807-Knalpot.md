@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/projects/knalpot-serious-outtakes/"
+permalink: "/discography/knalpot-serious-outtakes/"
 
 title:  "Knalpot - Serious Outtakes"
 project_name: "Serious Outtakes"

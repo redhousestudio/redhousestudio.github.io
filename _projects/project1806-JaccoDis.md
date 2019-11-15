@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/jacco-wynia-discomfort/"
+permalink: "/discography/jacco-wynia-discomfort/"
 
 title:  "Jacco Wynia - Discomfort"
 project_name: "Discomfort"

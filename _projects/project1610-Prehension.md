@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/projects/joep-beving-prehension/"
+permalink: "/discography/joep-beving-prehension/"
 
 title:  "Joep Beving - Prehension"
 project_name: "Prehension"

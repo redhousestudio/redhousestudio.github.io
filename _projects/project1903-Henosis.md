@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/projects/joep-beving-henosis/"
+permalink: "/discography/joep-beving-henosis/"
 
 title:  "Joep Beving - Henosis"
 project_name: "Henosis"

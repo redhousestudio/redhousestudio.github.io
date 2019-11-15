@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/tom-trago-voyage-direct/"
+permalink: "/discography/tom-trago-voyage-direct/"
 
 title:  "Tom Trago - Voyage Direct"
 project_name: "Voyage Direct"

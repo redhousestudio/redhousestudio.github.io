@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/bobs-green-kleine-fabriek/"
+permalink: "/discography/bobs-green-kleine-fabriek/"
 
 title:  "Bob's Green - Kleine Fabriek"
 project_name: "Kleine Fabriek"

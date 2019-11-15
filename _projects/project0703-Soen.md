@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/projects/soen/"
+permalink: "/discography/soen/"
 
 title:  "Soen"
 project_name: "Soen"
