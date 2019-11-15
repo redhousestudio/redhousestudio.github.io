@@ -492,7 +492,7 @@ a.project-button {
 	     width: 970px;
 	}
   .section-heading {
-    width: 350px;
+    width: 100%;
   }
 
 }
