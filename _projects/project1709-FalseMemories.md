@@ -28,11 +28,11 @@ Evelien is a composer, singer and songwriter. She combines avant-pop with classi
 
 She toured the theaters with an electronic ensemble playing avant-popsongs about memories of events that have never actually occurred. All lyrics are drawn from anonymous public submissions to A.R. Hopwood’s False Memory Archive. With vocals, trombone, synths, beats and electronics.
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/fZX1TvUH9nk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="225" src="https://www.youtube.com/embed/fZX1TvUH9nk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Listen / Buy the album here:
 
-<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3086864903/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://evelienvandenbroek.bandcamp.com/album/false-memories">False Memories by Evelien van den Broek</a></iframe>
+<iframe style="border: 0; width: 100%; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=3086864903/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://evelienvandenbroek.bandcamp.com/album/false-memories">False Memories by Evelien van den Broek</a></iframe>
 
 All songs composed, arranged, and produced by Evelien van den Broek.
 

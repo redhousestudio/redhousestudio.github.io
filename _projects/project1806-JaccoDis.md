@@ -19,7 +19,8 @@ project_background_image: project1806-bg.png
 
 ---
 
+![Jacco Wynia - Discomfort](../../img/project1806-image01.png)
 
-<iframe src="https://open.spotify.com/embed/album/2CUsrnd4ArrPXLrfT9PS0j" width="400" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/2CUsrnd4ArrPXLrfT9PS0j" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---

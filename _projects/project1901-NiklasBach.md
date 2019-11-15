@@ -32,6 +32,6 @@ We both have the OB6 synth and we both recorded a pass for the main Bach arpeggi
 
 I helped to arrange the track, recorded the harmonica and added synths, bass and created the wooshy break.
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/Qek20I-zcqk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="225" src="https://www.youtube.com/embed/Qek20I-zcqk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---

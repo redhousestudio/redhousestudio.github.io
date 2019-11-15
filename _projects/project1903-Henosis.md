@@ -46,7 +46,7 @@ Thanks to Joep for taking me on these musical adventures and [Christian Badzura]
 
 A film was created by [Rahi Rezvani](http://www.rahirezvani.com) in 3 Movements:
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/gg0RyjaKXo0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="225" src="https://www.youtube.com/embed/gg0RyjaKXo0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Listen to the album in your favorite player [here](https://dg.lnk.to/beving-henosis).
 

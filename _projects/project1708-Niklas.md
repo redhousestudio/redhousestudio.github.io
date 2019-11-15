@@ -33,7 +33,7 @@ The album entered the Billboard Classical chart Februari 2018.
 [2019 Libera Awards Nominees - Best Classical Album](https://www.billboard.com/articles/business/8504529/a2im-2019-libera-awards-nominees-full-list)
 
 The first single:
-<iframe width="400" height="225" src="https://www.youtube.com/embed/6p_YD68O5ho?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="225" src="https://www.youtube.com/embed/6p_YD68O5ho?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Listen to the album in your favourite player [here](https://7k.lnk.to/Oceanic).
 
