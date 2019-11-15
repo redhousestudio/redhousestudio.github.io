@@ -141,9 +141,6 @@ blockquote{
   padding: 0px;
   background-color: rgba(228, 227, 227, 0.00);
   width: 100%;
-  height: 370px;
-  margin: 50px auto;
-  margin-bottom:50px;
   position: relative;
   text-align: center;
 }
@@ -166,6 +163,7 @@ blockquote{
 .home-section-services-process{
   float: left;
   margin-top: 50px;
+  margin-bottom:50px;
 }
 
 .home-section-studio {
@@ -390,6 +388,11 @@ blockquote{
   .modal-content {
     width: 100%;
   }
+
+  .section-heading {
+  width: 100px;
+}
+
 }
 
 /* ------------------------------- Discography ---------------------*/
@@ -482,11 +485,16 @@ a.project-button {
 .project-show-all img {
   width: 28px !important;
 }
+
 @media (min-width: 1200px)
 {
 	.container {
 	     width: 970px;
 	}
+  .section-heading {
+    width: 350px;
+  }
+
 }
 .next_link a {
 	text-decoration: none;
