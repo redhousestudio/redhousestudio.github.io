@@ -10,7 +10,11 @@ title:  "Mix Service"
 
 <p>&nbsp;</p>
 
-### <strong>Audio files</strong>
+Hello!
+To make our mix session go smooth I wanted to share some information about how I like to work.
+
+
+#### <strong>Audio files</strong>
 
 - Audio Formats: 24 bits, 44.1 or 48 kHz is perfect, but anything will do.
 - All files must start from the same moment in time at the beginning of the song where there is no sound of any of the sources.
@@ -23,7 +27,7 @@ title:  "Mix Service"
 
 <p>&nbsp;</p>
 
-### <strong>Other files</strong>
+#### <strong>Other files</strong>
 
 - If there are any vocals that sing text please add pdf/text/doc files with all lyrics.
 - If there are any pictures of the recording situation (placement of microphones) please add those.
@@ -31,20 +35,16 @@ title:  "Mix Service"
 
 <p>&nbsp;</p>
 
-### <strong>Session media</strong>
-Session media will only be released when full payment for the session is received. Once session media has been turned over to the client RedHouse is no longer expected to maintain a backup copy of the session unless other arrangements have been made in writing. We recommend that each client make a back-up copy immediately. 
+#### <strong>Session media</strong>
+Only the mixed files will be delivered. Unless other arrangements are agreed to in writing the session files (Logic Pro, Audition etc.) used to create the mix will not be included.
 
-Session materials left beyond 42 days due to nonpayment become the property of RedHouse. 
-
-All session files are deleted from RedHouse hard drives 90 days after session completion unless otherwise specified.
-
-Mixed stems for other purposes (e.g. remix) can be created no later than 90 days after session completion. There is an additional fee per track. For prices please contact me.
+Please read the general [RedHouse Terms and Conditions](../terms#session-media) about session media but I want to repeat that mixed stems for other purposes (e.g. remix) can be created no later than 90 days after session completion. There is an additional fee per track. For prices please contact me.
 
 <p>&nbsp;</p>
 
-### <strong>Accreditation</strong>
+#### <strong>Accreditation</strong>
 
-All use of the mixes will contain an appropriate credit to Gijs van Klooster reading substantially "Mixed by Gijs van Klooster."
+Unless agreed otherwise in writing and taking into account the best practices in the music industry, you must ensure that the appropriate credits of Gijs van Klooster shall be mentioned in all the artwork, print and social media related to the studio results reading substantially: "<em>Mixed by Gijs van Klooster</em>".
 
 On Facebook use tag [@gijsvankloostermusic](https://www.facebook.com/gijsvankloostermusic/).<br />
 On Instagram use tag [@gijsvanklooster](https://www.instagram.com/gijsvanklooster/).<br />
@@ -52,4 +52,4 @@ All others online credits should link to [www.gijsvanklooster.com](https://gijsv
 
 <p>&nbsp;</p>
 
-The general [Terms and Conditions](../terms) apply for the studio mix session.
+The general [RedHouse Terms and Conditions](../terms) apply for the studio mix session.
