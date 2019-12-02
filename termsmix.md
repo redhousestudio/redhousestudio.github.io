@@ -13,6 +13,7 @@ title:  "Mix Service"
 Hello!
 To make our mix session go smooth I wanted to share some information about how I like to work.
 
+<p>&nbsp;</p>
 
 #### <strong>Audio files</strong>
 
