@@ -28,7 +28,7 @@ project_thumbnails:
 
 Niklas used to practice the [original Bach](https://open.spotify.com/track/2E8qlncnLMmBPnGREfwuBq?si=jMuAooumRx24sNkKDF77MA) piece a lot when he was a kid and revisited the piece on synthesisers. When he came to me for this single production we wanted to make the most of Bach's beautifull etude and give it our own happy twist. 
 
-We both have the OB6 synth and we both recorded a pass for the main Bach arpeggio. I ended up using them both ;)
+We both have the OB6 synth and we each recorded a pass for the main Bach arpeggio to compete for the best pass. We ended up using them both ;)
 
 I helped to arrange the track, recorded the harmonica and added synths, bass and created the wooshy break.
 
