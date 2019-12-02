@@ -59,12 +59,12 @@ Stay up to date on my <a href="https://www.facebook.com/gijsvankloostermusic" ta
 [webamsmas]: http://www.amsterdammastering.com
 
 [weberikahb]: https://erykah-badu.com
-[webknalpot]: ../projects/knalpot-serious-outtakes
-[webavi]: ../projects/avi-adir-woods-awakening
-[webtomt]: ../projects/tom-trago-voyage-direct
+[webknalpot]: ../discography/knalpot-serious-outtakes
+[webavi]: ../discography/avi-adir-woods-awakening
+[webtomt]: ../discography/tom-trago-voyage-direct
 [webtimp]: http://timpalmer.com
 [webyoadn]: http://yoadnevo.com
 [webhansmb]: https://www.discogs.com/artist/351436-Hans-Martin-Buff
-[webniklasp]: ../projects/niklas-paschburg-oceanic
-[webjoepb]: ../projects/joep-beving-henosis
-[webhania]: ../projects/hania-rani-esja
+[webniklasp]: ../discography/niklas-paschburg-oceanic
+[webjoepb]: ../discography/joep-beving-henosis
+[webhania]: ../discography/hania-rani-esja
