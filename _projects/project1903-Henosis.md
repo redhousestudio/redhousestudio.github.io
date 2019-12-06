@@ -3,9 +3,9 @@ layout: project
 show_on_frontpage: true
 permalink: "/discography/joep-beving-henosis/"
 
-title:  "Joep Beving - Henosis"
+title:  "Joep Beving - Henosis 🏆"
 project_name: "Henosis"
-role: "producer, sound designer, recording, mixer"
+role: "producer, sound&nbsp;designer, recording, mixer"
 
 artist_name: "Joep Beving"
 artist_website: "http://joepbeving.com"
@@ -44,6 +44,10 @@ Mastered by [Zino Mikorey](https://www.zinomikorey.com).
 
 Thanks to Joep for taking me on these musical adventures and [Christian Badzura](https://www.linkedin.com/in/christian-badzura-64b49716/?originalSubdomain=de), A&R of [Deutsche Grammophon](https://www.deutschegrammophon.com/), for his advice and feedback.
 
+In November 2019 we were honoured to receive the [Dutch Edison Award](https://www.edisons.nl/klassiek/nieuws/winnaars-edison-klassiek-2019-bekend/)🏆.
+[Joep comments](https://www.facebook.com/joepbevingmusic/posts/2600956476639248):
+>"... you have been the ultimate wingman in this adventure, we made this record together. Thank you for all the passion, skill and damn hard work."
+
 A film was created by [Rahi Rezvani](http://www.rahirezvani.com) in 3 Movements:
 
 <iframe width="100%" height="225" src="https://www.youtube.com/embed/gg0RyjaKXo0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -62,9 +66,5 @@ Listen to the album in your favorite player [here](https://dg.lnk.to/beving-heno
 
 [Pop News](http://www.popnews.com/popnews/joep-beving-henosis)
 >"... We then find ourselves in a game of communicating vessels: here we draw the fragrances of the classical repertoire, there elements of electronic rhythm. One feeds on the other."
-
-In November 2019 we were honoured to receive the [Dutch Edison Award](https://www.edisons.nl/klassiek/nieuws/winnaars-edison-klassiek-2019-bekend/)🏆.
-[Joep comments](https://www.facebook.com/joepbevingmusic/posts/2600956476639248):
->"... you have been the ultimate wingman in this adventure, we made this record together. Thank you for all the passion, skill and damn hard work."
 
 ---

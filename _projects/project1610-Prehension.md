@@ -3,7 +3,7 @@ layout: project
 show_on_frontpage: true
 permalink: "/discography/joep-beving-prehension/"
 
-title:  "Joep Beving - Prehension"
+title:  "Joep Beving - Prehension 🏆"
 project_name: "Prehension"
 role: "producer, recording, mixer"
 
@@ -15,7 +15,11 @@ artist_soundcloud: "https://soundcloud.com/joep-beving"
 artist_facebook: "https://www.facebook.com/joepbevingmusic/"
 
 project_thumb_small: project1610-thumb-small.png
+project_thumb_small_hover: project1610-thumb-small-hover.png
+
 project_thumb_large: project1610-thumb-large.png
+project_thumb_large_hover: project1610-thumb-large-hover.png
+
 project_background_image: project1610-bg.png
 project_thumbnails:
   - img: "project1610-image01-thumb.png"
@@ -35,6 +39,7 @@ Mastering by [Darcy Proper](http://www.wisseloord.nl/mastering/) to make sure it
 
 This album was signed with the legendary [Deutsche Grammophon](http://www.deutschegrammophon.com/en/cat/4797151?) label.<br />
 
+In April 2019 the album received the [Golden Record Award](https://www.luister.nl/pianist-joep-beving-ontvangt-gouden-plaat/)🏆 in the Concertgebouw in Amsterdam.
 
 I am so proud of what we have accomplished. We never dreamed this big; we just wanted to make beautiful piano music. This album has touched millions of people and has changed our lives forever, in a good way. Thank you!
 
@@ -56,6 +61,5 @@ Right after this was released we started working on the closing chapter of the t
 [Our Culture](https://ourculturemag.com/2017/04/09/204-2/) wrote:
 >"A stunning album." 
 
-In April 2019 the album received the [Golden Record Award](https://www.luister.nl/pianist-joep-beving-ontvangt-gouden-plaat/)🏆 in the Concertgebouw in Amsterdam.
 
 ---

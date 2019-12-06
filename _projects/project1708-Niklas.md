@@ -5,7 +5,7 @@ permalink: "/discography/niklas-paschburg-oceanic/"
 
 title:  "Niklas Paschburg - Oceanic"
 project_name: "Oceanic"
-role: "co-producer, sound designer, mixer"
+role: "co-producer, sound&nbsp;designer, mixer"
 
 artist_name: "Niklas Paschburg"
 artist_website: "http://niklaspaschburg.com"
