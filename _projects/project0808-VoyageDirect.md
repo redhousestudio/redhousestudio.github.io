@@ -5,7 +5,7 @@ permalink: "/discography/tom-trago-voyage-direct/"
 
 title:  "Tom Trago - Voyage Direct"
 project_name: "Voyage Direct"
-role: "co-producer, sound designer, mixer"
+role: "co-producer, sound&nbsp;designer, mixer"
 
 artist_name: "Tom Trago"
 artist_website: "http://tomtrago.com"
