@@ -47,7 +47,7 @@ I had the opportunity to work with some of the greatest artists and producers in
 
 <strong>Scroll down to see some highlighted projects.</strong>
 
-Stay up to date on my <a href="https://www.facebook.com/gijsvankloostermusic" target="blank" class="red-link">Facebook</a> page.
+Stay up to date on my <a href="{{ site.facebook_url }}" target="blank" class="red-link">Facebook</a> page.
 
 <br />
 <br />
