@@ -521,3 +521,17 @@ a.project-button {
 #discoSlider .item {
   min-height: 320px;
 }
+
+
+/* ------------------------------- Project Box Hover Effect --------------------- */
+.project-box-thumb-large {
+  width: 100%;
+  padding-top: 100%;
+  background-size: cover;
+}
+.paginate-thumb-small {
+  background-size: cover;
+  width: 48px;
+  height: 48px;
+  margin: auto;
+}
