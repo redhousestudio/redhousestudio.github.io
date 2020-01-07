@@ -80,7 +80,8 @@ layout: default
         <div class="project-nav prev">
           <a href="{{ next_url }}">
             <div class="paginate">
-              <p><div class="paginate-thumb-small" style="background-image: url('/img/{{ next_thumb }}');" onMouseOver="this.style.backgroundImage='url(/img/{{ next_thumb_hover }})'" onMouseOut="this.style.backgroundImage='url(/img/{{ next_thumb }})'"></div><img src="/img/arrows_L.png" width="40" alt=""></p>
+              <p><div class="paginate-thumb-small"><img src="/img/{{ next_thumb }}" alt=""><img src="/img/{{ next_thumb_hover }}" class="paginate-thumb-hover" alt=""></div><img src="/img/arrows_L.png" width="40" alt=""></p>
+              
             </div>
           </a>
         </div>
@@ -102,7 +103,7 @@ layout: default
         <div class="project-nav next">
           <a href="{{ prev_url }}">
             <div class="paginate">
-              <p><div class="paginate-thumb-small" style="background-image: url('/img/{{ prev_thumb }}');" onMouseOver="this.style.backgroundImage='url(/img/{{ prev_thumb_hover }})'" onMouseOut="this.style.backgroundImage='url(/img/{{ prev_thumb }})'"></div><img src="/img/arrows_R.png" width="40" alt=""></p>
+              <p><div class="paginate-thumb-small"><img src="/img/{{ prev_thumb }}" alt=""><img src="/img/{{ prev_thumb_hover }}" class="paginate-thumb-hover" alt=""></div><img src="/img/arrows_R.png" width="40" alt=""></p>
             </div>
           </a>
         </div>

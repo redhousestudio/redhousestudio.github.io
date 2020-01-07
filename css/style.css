@@ -526,12 +526,33 @@ a.project-button {
 /* ------------------------------- Project Box Hover Effect --------------------- */
 .project-box-thumb-large {
   width: 100%;
-  padding-top: 100%;
-  background-size: cover;
+  position: relative;
+  display: inline-block;
+}
+.project-box-thumb-large-hover {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+.project-box:hover .project-box-thumb-large-hover {
+  display: inline;
 }
 .paginate-thumb-small {
-  background-size: cover;
   width: 48px;
   height: 48px;
   margin: auto;
+  position: relative;
+  display: inline-block;
+}
+.paginate-thumb-hover {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+.paginate:hover .paginate-thumb-hover {
+  display: inline;
 }

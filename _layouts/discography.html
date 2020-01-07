@@ -34,7 +34,10 @@ layout: default
       <div class="col-sm-3 col-xs-6">
         <a href="{{ project.url }}" class="project-button">
         <div class="project-box">
-          <div class="project-box-thumb-large" style="background-image: url('/img/{{ project.project_thumb_large }}');" onMouseOver="this.style.backgroundImage='url(/img/{{ project.project_thumb_large_hover }})'" onMouseOut="this.style.backgroundImage='url(/img/{{ project.project_thumb_large }})'" ></div>
+          <div class="project-box-thumb-large">
+            <img src="/img/{{ project.project_thumb_large }}" alt="">
+            <img src="/img/{{ project.project_thumb_large_hover }}" class="project-box-thumb-large-hover" alt="">
+          </div>
           <p>&nbsp;<br />
           {{project.title}}</p>
           <p class="project-box-role">{{project.role}}</p>
