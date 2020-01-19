@@ -1,0 +1,32 @@
+---
+layout: project
+show_on_frontpage: true
+permalink: "/projects/benjamin-de-murashkin-harmonia/"
+
+title:  "Benjamin de Murashkin - Harmonia"
+project_name: "Harmonia"
+role: "co-producer, sound designer, mixer"
+
+artist_name: "Benjamin de Murashkin"
+artist_website: "http://www.demurashkin.com"
+artist_itunes: "https://music.apple.com/nl/album/harmonia/1492942128?l=en"
+artist_spotify: "https://open.spotify.com/album/4RrsDaJwZsoyxwK76Oo4eO?si=rj-aKP2zRMmlnlulnH5OvA"
+artist_facebook: "https://www.facebook.com/demurashkin"
+
+project_thumb_small: project1909-thumb-small.png
+project_thumb_large: project1909-thumb-large.png
+project_thumb_large_hover: project1909-thumb-large.png
+
+project_background_image: project1909-bg.png
+project_thumbnails:
+  - img: project1909-image01-thumb.png
+---
+
+![Benjamin de Murashkin - Harmonia](../../img/project1909-image01.png)
+
+Benjamin is an accomplished composer, having worked with orchestras and ensembles throughout Scandinavia and beyond. Studying at conservatories in both Australia and Denmark he brings with him a varied background and an openness to multiple influences. 
+Benjamin single-handedly produced, arranged, composed, performed and recorded eight classical tracks in his home studio. (Only with the help of 1 cello player and 1 horn player.) 
+
+We worked on the last details in my studio and I can tell you mixing close to 1000 (!) individual tracks was one of the most challenging and satisfying things I ever did.
+
+<iframe src="https://open.spotify.com/embed/album/4RrsDaJwZsoyxwK76Oo4eO" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

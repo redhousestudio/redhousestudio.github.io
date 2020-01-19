@@ -1,6 +1,6 @@
 ---
 layout: project
-show_on_frontpage: true
+show_on_frontpage: false
 permalink: "/discography/niklas-paschburg-blooming/"
 
 title:  "Niklas Paschburg - Blooming (in C-minor)"
