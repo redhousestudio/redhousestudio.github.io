@@ -60,13 +60,11 @@ layout: default
     {% unless forloop.first %}
     {% assign prev_url = prev.url %}
     {% assign prev_thumb = prev.project_thumb_small %}
-    {% assign prev_thumb_hover = prev.project_thumb_small %}
     {% endunless %}
     {% unless forloop.last %}
       {% assign next = document[forloop.index] %}
       {% assign next_url = next.url %}
       {% assign next_thumb = next.project_thumb_small %}
-      {% assign next_thumb_hover = next.project_thumb_small %}
     {% endunless %}
   {% endif %}
   {% assign prev = links %}
@@ -80,8 +78,7 @@ layout: default
         <div class="project-nav prev">
           <a href="{{ next_url }}">
             <div class="paginate">
-              <p><div class="paginate-thumb-small"><img src="/img/{{ next_thumb }}" alt=""><img src="/img/{{ next_thumb_hover }}" class="paginate-thumb-hover" alt=""></div><img src="/img/arrows_L.png" width="40" alt=""></p>
-              
+              <p><img src="/img/{{ next_thumb }}" alt=""><img src="/img/arrows_L.png" width="40" alt=""></p>
             </div>
           </a>
         </div>
@@ -103,7 +100,7 @@ layout: default
         <div class="project-nav next">
           <a href="{{ prev_url }}">
             <div class="paginate">
-              <p><div class="paginate-thumb-small"><img src="/img/{{ prev_thumb }}" alt=""><img src="/img/{{ prev_thumb_hover }}" class="paginate-thumb-hover" alt=""></div><img src="/img/arrows_R.png" width="40" alt=""></p>
+              <p><img src="/img/{{ prev_thumb }}" alt="" ><img src="/img/arrows_R.png" width="40" alt=""></p>
             </div>
           </a>
         </div>

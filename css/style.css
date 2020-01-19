@@ -539,20 +539,3 @@ a.project-button {
 .project-box:hover .project-box-thumb-large-hover {
   display: inline;
 }
-.paginate-thumb-small {
-  width: 48px;
-  height: 48px;
-  margin: auto;
-  position: relative;
-  display: inline-block;
-}
-.paginate-thumb-hover {
-  display: none;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 99;
-}
-.paginate:hover .paginate-thumb-hover {
-  display: inline;
-}
