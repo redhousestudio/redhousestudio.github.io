@@ -16,6 +16,8 @@ artist_facebook:
 
 project_thumb_small: project0703-thumb-small.png
 project_thumb_large: project0703-thumb-large.png
+project_thumb_large_hover: project0703-thumb-large.png
+
 project_background_image: project0703-bg.png
 project_thumbnails:
 ---

@@ -16,6 +16,8 @@ artist_facebook: "https://www.facebook.com/aviadirmusic"
 
 project_thumb_small: project0801-thumb-small.png
 project_thumb_large: project0801-thumb-large.png
+project_thumb_large_hover: project0801-thumb-large.png
+
 project_background_image: project0801-bg.png
 project_thumbnails:
   - img: project0801-image01-thumb.png

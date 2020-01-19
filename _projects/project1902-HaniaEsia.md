@@ -15,6 +15,8 @@ artist_facebook: "https://www.facebook.com/haniaranimusic"
 
 project_thumb_small: project1902-thumb-small.png
 project_thumb_large: project1902-thumb-large.png
+project_thumb_large_hover: project1902-thumb-large.png
+
 project_background_image: project1902-bg.png
 project_thumbnails:
   - img: project1902-image02-thumb.png

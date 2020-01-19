@@ -15,6 +15,8 @@ artist_facebook: "https://www.facebook.com/JaccoWynia/"
 
 project_thumb_small: project1806-thumb-small.png
 project_thumb_large: project1806-thumb-large.png
+project_thumb_large_hover: project1806-thumb-large.png
+
 project_background_image: project1806-bg.png
 
 ---

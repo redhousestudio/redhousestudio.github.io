@@ -15,10 +15,8 @@ artist_soundcloud: "https://soundcloud.com/joep-beving"
 artist_facebook: "https://www.facebook.com/joepbevingmusic/"
 
 project_thumb_small: project1610-thumb-small.png
-project_thumb_small_hover: project1610-thumb-small-hover.png
-
 project_thumb_large: project1610-thumb-large.png
-project_thumb_large_hover: project1610-thumb-large-hover.png
+project_thumb_large_hover: project1610-thumb-large.png
 
 project_background_image: project1610-bg.png
 project_thumbnails:

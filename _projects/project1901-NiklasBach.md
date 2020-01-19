@@ -16,6 +16,8 @@ artist_facebook: "https://www.facebook.com/niklas.paschburg/"
 
 project_thumb_small: project1901-thumb-small.png
 project_thumb_large: project1901-thumb-large.png
+project_thumb_large_hover: project1901-thumb-large.png
+
 project_background_image: project1901-bg.png
 project_thumbnails:
   - img: project1901-image02-thumb.png

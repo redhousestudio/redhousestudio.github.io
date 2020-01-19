@@ -16,6 +16,8 @@ artist_facebook: "https://www.facebook.com/joepbevingmusic/"
 
 project_thumb_small: project1503-thumb-small.png
 project_thumb_large: project1503-thumb-large.png
+project_thumb_large_hover: project1503-thumb-large.png
+
 project_background_image: project1503-bg.png
 project_thumbnails:
   - img: project1503-image01-thumb.png

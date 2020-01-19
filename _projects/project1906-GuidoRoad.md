@@ -15,6 +15,8 @@ artist_facebook: "https://www.facebook.com/pg/GUIDOMUSIK"
 
 project_thumb_small: project1906-thumb-small.png
 project_thumb_large: project1906-thumb-large.png
+project_thumb_large_hover: project1906-thumb-large.png
+
 project_background_image: project1906-bg.png
 ---
 

@@ -16,6 +16,8 @@ artist_facebook: "https://www.facebook.com/knalpot.2000/"
 
 project_thumb_small: project0807-thumb-small.png
 project_thumb_large: project0807-thumb-large.png
+project_thumb_large_hover: project0807-thumb-large.png
+
 project_background_image: project0807-bg.png
 project_thumbnails:
   - img: "project0807-image01-thumb.png"

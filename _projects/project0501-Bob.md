@@ -16,6 +16,8 @@ artist_facebook: "https://www.facebook.com/bobsgreenband/"
 
 project_thumb_small: project0501-thumb-small.png
 project_thumb_large: project0501-thumb-large.png
+project_thumb_large_hover: project0501-thumb-large.png
+
 project_background_image: bg-project-default.png
 project_thumbnails:
   - img: project0501-image01-thumb.png
