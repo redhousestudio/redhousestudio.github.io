@@ -60,13 +60,13 @@ layout: default
     {% unless forloop.first %}
     {% assign prev_url = prev.url %}
     {% assign prev_thumb = prev.project_thumb_small %}
-    {% assign prev_thumb_hover = prev.project_thumb_small_hover %}
+    {% assign prev_thumb_hover = prev.project_thumb_small %}
     {% endunless %}
     {% unless forloop.last %}
       {% assign next = document[forloop.index] %}
       {% assign next_url = next.url %}
       {% assign next_thumb = next.project_thumb_small %}
-      {% assign next_thumb_hover = next.project_thumb_small_hover %}
+      {% assign next_thumb_hover = next.project_thumb_small %}
     {% endunless %}
   {% endif %}
   {% assign prev = links %}
