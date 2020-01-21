@@ -8,9 +8,6 @@ project_name: "Kleine Fabriek"
 role: "producer, composer, recorder, mixer"
 
 artist_name: "Bob's Green"
-artist_website: "http://www.bobsgreen.nl"
-artist_itunes: 
-artist_spotify:
 artist_soundcloud: "https://soundcloud.com/bobsgreen"
 artist_facebook: "https://www.facebook.com/bobsgreenband/"
 

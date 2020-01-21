@@ -27,7 +27,6 @@ project_thumbnails:
 
 ![Niklas Paschburg - Blooming (in C-minor)](../../img/project1901-image01.png)
 
-
 Niklas used to practice the [original Bach](https://open.spotify.com/track/2E8qlncnLMmBPnGREfwuBq?si=jMuAooumRx24sNkKDF77MA) piece a lot when he was a kid and revisited the piece on synthesisers. When he came to me for this single production we wanted to make the most of Bach's beautifull etude and give it our own happy twist. 
 
 We both have the OB6 synth and we each recorded a pass for the main Bach arpeggio to compete for the best pass. We ended up using them both ;)

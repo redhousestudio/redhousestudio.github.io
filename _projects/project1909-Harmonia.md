@@ -27,8 +27,8 @@ Like a moving soundtrack, to no film in particular, Harmonia is an album with a 
 
 Benjamin is an accomplished composer, having worked with orchestras and ensembles throughout Scandinavia and beyond. Studying at conservatories in both Australia and Denmark he brings with him a varied background and an openness to multiple influences.
 
-Benjamin single-handedly produced, arranged, composed, performed and recorded eight classical tracks in his home studio. (Only with the help of 1 cello player and 1 horn player.) 
-
-We worked on the last details in my studio and I can tell you mixing close to 1000 (!) individual tracks was one of the most challenging and satisfying things I ever did.
+Benjamin single-handedly produced, arranged, composed, performed and recorded eight classical tracks in his home studio. (Only with the help of 1 cello player and 1 horn player.) He came to me with almost 1000 individual tracks over a timespan of 54 minutes, and he gave me a free hand in mixing and sound-design to make all the parts work as-one. 
 
 <iframe src="https://open.spotify.com/embed/album/4RrsDaJwZsoyxwK76Oo4eO" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+---
