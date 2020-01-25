@@ -32,12 +32,14 @@ She toured the theaters with an electronic ensemble playing avant-popsongs about
 
 <iframe width="100%" height="225" src="https://www.youtube.com/embed/fZX1TvUH9nk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-Listen / Buy the album here:
+Listen / Buy the album <a href="https://evelienvandenbroek.bandcamp.com/album/false-memories" target="blank">here</a>.
 
-<iframe style="border: 0; width: 100%; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=3086864903/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://evelienvandenbroek.bandcamp.com/album/false-memories">False Memories by Evelien van den Broek</a></iframe>
+
+
+<iframe src="https://open.spotify.com/embed/album/0rxoFQA54Fxuwbf6lMBfKd" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 All songs composed, arranged, and produced by Evelien van den Broek.
 
-Musicians: Evelien van den Broek – vocals, electronics, programming, Koen Kaptijn – trombone, Tony Roe – Moog and OB-6 synths, clavinet, Wurlitzer. Mastered by Jarno Volman at Gold Soundz Mastering.
+Musicians: Evelien van den Broek – vocals, electronics, programming, Koen Kaptijn – trombone, Tony Roe – Moog and OB-6 synths, clavinet, Wurlitzer. Mastered by Jarno Volman at <a href="http://www.goldsoundz-mastering.nl" target="blank">Gold Soundz Mastering</a>.
 
 ---

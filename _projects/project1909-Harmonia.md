@@ -29,6 +29,6 @@ Benjamin is an accomplished composer, having worked with orchestras and ensemble
 
 Benjamin single-handedly produced, arranged, composed, performed and recorded eight classical tracks in his home studio. (Only with the help of 1 cello player and 1 horn player.) He came to me with almost 1000 individual tracks over a timespan of 54 minutes, and he gave me a free hand in mixing and sound-design to make all the parts work as-one. 
 
-<iframe src="https://open.spotify.com/embed/album/4RrsDaJwZsoyxwK76Oo4eO" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/4RrsDaJwZsoyxwK76Oo4eO" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
