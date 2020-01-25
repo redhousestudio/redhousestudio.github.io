@@ -21,6 +21,12 @@ project_background_image: project1806-bg.png
 
 ---
 
+In the writing process Jacco has been inspired by people who are close to him and by the obstacles that he has had on his own path. He explains: "Avoiding problems is a problem on its own. The album title ‘Discomfort’ is referring to the different unpleasant phases that one passes whilst giving problems their proper space. As soon as you accept the discomfort, it starts to lose its power, and at some point it will go away, leaving space for the things that you really love." The story has revealed itself to Jacco in his personal life. "It started with friends that were going through difficult times. Burn-out, depression, a lot of troubles. I wanted to stand by them and wrote the music to support them."
+
+Jacco Wynia is a multi
+
+I helped Jacco with the performances during pre-production and we decided to record the piano in his studio.
+
 ![Jacco Wynia - Discomfort](../../img/project1806-image01.png)
 
 <iframe src="https://open.spotify.com/embed/album/2CUsrnd4ArrPXLrfT9PS0j" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
