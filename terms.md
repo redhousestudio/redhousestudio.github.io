@@ -100,12 +100,6 @@ Client also agrees to indemnify RedHouse and its employees for any and all claim
 
 
 <p>&nbsp;</p>
-<a name="disclaimer"></a>
-#### <strong>Studio Disclaimer</strong>
-Prior to any session work beginning, Client agrees to furnish a written signed copy of the above Studio Policies as a formal agreement and obligation to make payments and adhere to all other policy requirements as stated herein.
-
-
-<p>&nbsp;</p>
 <a name="accreditation"></a>
 #### <strong>Accreditation</strong>
 Unless agreed otherwise in writing and taking into account the best practices in the music industry, Client ensures that the appropriate credits of Gijs van Klooster shall be mentioned in all the artwork, print and social media related to the studio results reading substantially: "<em>Produced by Gijs van Klooster</em>" and/or
