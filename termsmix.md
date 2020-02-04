@@ -39,7 +39,7 @@ To make our mix session go smooth I wanted to share some information about how I
 #### <strong>Session media</strong>
 Only the mixed files will be delivered. Unless other arrangements are agreed to in writing the session files (Logic Pro, Audition etc.) used to create the mix will not be included.
 
-Please read the general [RedHouse Policies, Terms & Conditions](../terms#session-media) about session media but I want to repeat that mixed stems for other purposes (e.g. remix) can be created no later than 90 days after session completion. There is an additional fee per track. For prices please contact me.
+Please read the general [RedHouse Policies, Terms & Conditions](../terms/#session-media) about session media but I want to repeat that mixed stems for other purposes (e.g. remix) can be created no later than 90 days after session completion. There is an additional fee per track. For prices please contact me.
 
 <p>&nbsp;</p>
 
