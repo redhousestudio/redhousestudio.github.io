@@ -11,13 +11,14 @@ title:  "Terms and Conditions"
 ###  Policies, Terms & Conditions
 
 <p>&nbsp;</p>
+When booking a session at RedHouse you are entering into a contract by which you (‘Client’) are agreeing unconditionally on behalf of the artist/band to abide by the studio’s terms and conditions as detailed below. The applicability of any general terms and conditions applied by Client is expressly excluded.
 
-When booking a session at RedHouse you are entering into a contract by which you (‘Client’) are agreeing unconditionally on behalf of the artist/band to abide by the studio’s terms and conditions as detailed below. The applicability of any general terms and conditions applied by Client is expressly excluded. I’ll try to keep it as simple as possible.
+You can download a pdf of the Policies, Terms & Conditions [here](/assets/RedHouse Terms and Conditions.pdf)
+
 
 <p>&nbsp;</p>
-
 #### <strong>Booking</strong>
-Sessions are booked at the rates as agreed by both parties. Working hours may vary but should not exceed 10 hours per day, with a minimum of 4 hours per day. Sessions that run longer than this will be charged at a € 80 per hour rate assuming the studio is available. 
+Sessions are booked at the rates as agreed by both parties. Working hours may vary but should not exceed 10 hours per day. Sessions that run longer than this will be charged an extra hourly rate assuming the studio is available. 
 
 Bookings are made by the following methods only: phone: 06-26240067, email:gijs@redhouse.nl and are not valid until confirmed per email.
 
@@ -33,14 +34,13 @@ Cancellations less than 7 day’s before session start will not be accepted unle
 <p>&nbsp;</p>
 <a name="payment"></a>
 #### <strong>Payment</strong>
-Client must pay 50% of the cost of each session as a confirmed session booking. The deposit must be paid 10 days before the studio session starts. The remainder of the studio bill should be paid in full on the last day of your session.
+Client must pay 50% of the cost of each session as a confirmed session booking. The deposit must be paid 5 days before the studio session starts. The remainder of the studio bill should be paid in full on the last day of your session.
 
 Failure to produce full payment will result in withholding of the studio session time, all copies of recordings, masters and/or session files until all fees due have been paid. No session media will be turned over to Client until full payment is made.
 
 You must pay for the full amount of hours you book; it’s not our responsibility to manage your studio time.
 
 If the recording session is broken up over a period of time, payment will be required to cover time that has been used.
-
 Clients will also be responsible for all actual legal, attorney and collection fees, if required for payment and/or the use of the RedHouse studio. If an account is not paid in full, RedHouse will ask you to pay as soon as possible. If you don’t respond immediate collection and legal action will be taken. Client will also accrue a 1.5% interest charge per month until it is paid in full.
 
 Receipt of recording media from Studio to Client is acknowledgement between both parties that the quality of all services rendered by RedHouse is satisfactory to Client and shall release RedHouse from any and all liability regarding said recording media and services rendered.
@@ -49,7 +49,7 @@ Receipt of recording media from Studio to Client is acknowledgement between both
 <p>&nbsp;</p>
 <a name="session-media"></a>
 #### <strong>Session media</strong>
-Session media will only be released when full payment for the session is received. Once session media has been turned over to the Client RedHouse is no longer expected to maintain a backup copy of the session unless other arrangements have been made in writing. We recommend that each Client make a back-up copy of the sessions immediately. Session materials left beyond 56 days due to non-payment become the property of RedHouse. 
+Session media will only be released when full payment for the session is received. Once session media has been turned over to the Client RedHouse is no longer expected to maintain a backup copy of the session unless other arrangements have been made in writing. We recommend that each Client make a back-up copy of the session media immediately. Session media left beyond 56 days due to non-payment become the property of RedHouse. 
 
 All session files are deleted from RedHouse hard drives 90 days after session completion unless otherwise specified. Please bring a backup storage device if you require your recordings. RedHouse is not responsible for any unrecoverable data or software/hardware issues on your side.
 
@@ -94,7 +94,7 @@ Please make sure that you do not leave personal items unattended and ensure that
 #### <strong>Responsibility</strong>
 Client will be held responsible for the actions of all artists and guests he or she brings to any session. These rules apply to all persons. There are absolutely no exceptions whatsoever.
 
-The Client affirms and warrants that he/she is the rightful owner or assignee of material to be recorded or reproduced. RedHouse and our employees are not responsible for violations of copyrights and/or neighbouring rights, talent or creative royalties, mechanical reproduction licenses, or any other liabilities for such material.
+The Client affirms and warrants that he/she is the rightful owner or assignee of material to be recorded or reproduced. RedHouse and our employees are not responsible for violations of copyrights and/or neighboring rights, talent or creative royalties, mechanical reproduction licenses, or any other liabilities for such material.
 
 Client also agrees to indemnify RedHouse and its employees for any and all claims, costs, losses, detriments and expenses of any kind or nature. Including, without limitation, attorney’s fees and cost incurred by RedHouse by reason of any breach or alleged breach of any representation, warranty, or agreement made by Client.
 
@@ -102,10 +102,10 @@ Client also agrees to indemnify RedHouse and its employees for any and all claim
 <p>&nbsp;</p>
 <a name="accreditation"></a>
 #### <strong>Accreditation</strong>
-Unless agreed otherwise in writing and taking into account the best practices in the music industry, Client ensures that the appropriate credits of Gijs van Klooster shall be mentioned in all the artwork, print and social media related to the studio results reading substantially: "<em>Produced by Gijs van Klooster</em>" and/or
+Unless agreed otherwise in writing and taking into account the best practices in the music industry, Client ensures that the appropriate credits of Gijs van Klooster shall be mentioned in all the label copy, artwork, print and social media related to the studio results reading substantially:<br />"<em>Produced by Gijs van Klooster</em>" and/or
 "<em>Recorded by Gijs van Klooster</em>" and/or "<em>Sound design by Gijs van Klooster</em>" and/or "<em>Mixed by Gijs van Klooster</em>". For multiple mentions this can be abbreviated but this should not change the order.
 
-In case of production Client agrees to have Gijs van Klooster credited as a "producer" in the label copy and shall give appropriate production credit on all releases, sync's or remixes and on all artwork, print and social media that embodies the music and/or mixes created.
+In case of production Client agrees to have Gijs van Klooster credited as a "producer" and shall give appropriate production credit on all releases, sync's or remixes and on all label copy, artwork, print and social media that embodies the music and/or studio results.
 
 On Facebook use tag [@gijsvankloostermusic](https://www.facebook.com/gijsvankloostermusic/).<br />
 On Instagram use tag [@gijsvanklooster](https://www.instagram.com/gijsvanklooster/).<br />
