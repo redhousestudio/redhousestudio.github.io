@@ -13,7 +13,7 @@ title:  "Terms and Conditions"
 <p>&nbsp;</p>
 When booking a session at RedHouse you are entering into a contract by which you (‘Client’) are agreeing unconditionally on behalf of the artist/band to abide by the studio’s terms and conditions as detailed below. The applicability of any general terms and conditions applied by Client is expressly excluded.
 
-You can download a pdf of the Policies, Terms & Conditions [here](/assets/RedHouse Terms and Conditions.pdf)
+You can [download a pdf of the Policies, Terms & Conditions here](/assets/RedHouse Terms and Conditions.pdf).
 
 
 <p>&nbsp;</p>
