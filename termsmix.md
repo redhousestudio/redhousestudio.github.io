@@ -10,8 +10,9 @@ title:  "Mix Service"
 
 <p>&nbsp;</p>
 
-Hello, great that we'll be working together!
-To make our mix session go smooth I wanted to share some information about how I work.
+Hello, great that we'll be working together, I love mixing music!
+
+To prepare our session I wanted to share some technical details about how I like to work. This enables me to put as much time possible on actual mixing.
 
 <p>&nbsp;</p>
 
@@ -19,12 +20,12 @@ To make our mix session go smooth I wanted to share some information about how I
 
 - Audio Formats: 24 bits, 44.1 or 48 kHz is perfect, but anything will do.
 - All files must start from the same moment in time at the beginning of the song where there is no sound of any of the sources.
-- All files should have clear naming: what source, instrument, mix position, or what they sound like. Not "Audio 1", "Input 6", etc. please.
+- All files should have clear and consistent naming: what source, instrument, mix position, or what they sound like. Not "Audio 1", "Input 6", "SYNTH-4-87\_R\_25- 24b", etc. please.
 - For mono sources please don't send a stereo file.
-- All sound sources separate. No sub-mixes please. Only sub-mix to create an example for me.
-- Please bounce all the tracks with all faders (including master) on 0 dB without volume automation and without audio processing.
+- All sound sources separate, no sub-mixes. Unless specified and/or to create an example for me.
+- Please bounce all the tracks with all faders (including master) on 0 dB without (volume or other) automation and without audio processing.
 - If there is any volume automation and/or audio processing you think is important, add a version with the automation and/or processing.
-- If you have a mixed version made elsewhere (the rough mix) you really like please include this and explain what you like about it. Can be anything: mp3, wav etc. 
+- If you have a mixed version made elsewhere you really like (the rough mix) please include this and explain what you like about it. Can be anything: mp3, wav etc. 
 
 <p>&nbsp;</p>
 
