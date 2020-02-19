@@ -31,7 +31,7 @@ Benjamin single-handedly produced, arranged, composed, performed and recorded ei
 
 Benjamin about working together:
 <blockquote>
-<p>I came to Gijs with what I thought was a finished project that just needed some mixing but when he started working on it and I heard the potential of what he was managing to get out of the music I was inspired to take what I was hearing and to keep developing it. It turned into a collaborative process which is something I can’t wait to get back into with him again.</p>
+<p>I came to Gijs with what I thought was a finished project that just needed some mixing. But when he started working on it and I heard the potential of what he was managing to get out of the music I was inspired to take what I was hearing and to keep developing it. It turned into a collaborative process which is something I can’t wait to get back into with him again.</p>
 <p>Gijs was a dream to work with, never feeling like there was judgment underway, just useful feedback which created the perfect flow of creativity. Long story short, if the man starts his own cult I’ll be the first to sign up for my seat on the spaceship.</p>
 </blockquote>
 
