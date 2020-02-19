@@ -47,7 +47,6 @@ Niklas about working together:
 <p>He helped me translate my ideas into my record and with his special technical knowledge achieved a next level in the music I never expected.<br />
 But it was more than just the technical side of producing a record. We talked a lot about the idea, story and concept behind the music. I got very inspired of all our talks about music and production which helped me a lot for further projects.</p>
 <p>It was a wonderful journey during the production of the album and I’m more than happy what came out of this time!</p>
-<p>Niklas</p>
 </blockquote>
 
 [the Guardian](https://www.theguardian.com/music/2018/mar/01/brad-mehldau-after-bach-contemporary-album-review) wrote:
