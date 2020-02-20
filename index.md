@@ -54,6 +54,7 @@ services_section_text_right: >
 
 slides:
   - filename: "testimonial-1.png"
+  - filename: "testimonial-2.png"
   - filename: "testimonial-3.png"
   - filename: "testimonial-4.png"
   - filename: "testimonial-5.png"
@@ -62,5 +63,6 @@ slides:
   - filename: "testimonial-8.png"
   - filename: "testimonial-9.png"
   - filename: "testimonial-10.png"
+  - filename: "testimonial-11.png"
 
 ---
