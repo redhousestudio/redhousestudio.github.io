@@ -1,7 +1,7 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/discography/guido-the-road-to-silence.html"
+permalink: "/discography/guido-the-road-to-silence/"
 
 title:  "Guido - The Road To Silence"
 project_name: "The Road To Silence"

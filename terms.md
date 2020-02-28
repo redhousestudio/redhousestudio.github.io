@@ -2,7 +2,7 @@
 layout: terms
 permalink: "../terms/" 
 
-title:  "Terms and Conditions"
+title:  "Policies, Terms & Conditions"
 
 ---
 
