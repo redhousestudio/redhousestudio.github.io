@@ -37,7 +37,7 @@ Listen to the album in your favorite player [here](https://dg.lnk.to/solipsism).
 
 A beautiful video was made for this song:
 
-<iframe width="100%" height="225" src="https://www.youtube.com/embed/-chZu7V3NTM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="225" src="https://www.youtube.com/embed/-chZu7V3NTM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Joep about working together:
 <blockquote>
