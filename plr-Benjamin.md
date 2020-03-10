@@ -1,6 +1,6 @@
 ---
 layout: player
-permalink: "../projects/benplayer/"
+permalink: "/plr/benplayer/"
 
 artist:  "Benjamin De murashkin"
 title:  "Album mixes"
