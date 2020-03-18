@@ -1,6 +1,6 @@
 ---
 layout: project
-show_on_frontpage: true
+show_on_frontpage: false
 permalink: "/discography/knalpot-serious-outtakes/"
 
 title:  "Knalpot - Serious Outtakes"

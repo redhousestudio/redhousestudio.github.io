@@ -12,6 +12,8 @@ artist_website: "http://haniarani.com"
 artist_itunes: "https://itunes.apple.com/nl/album/esja/1451189960?l=en"
 artist_spotify: "https://open.spotify.com/album/0qexfmJhl1Ao6mBzgZpA95?si=QSo0dQwwSTiN-hcwPy2dGA"
 artist_facebook: "https://www.facebook.com/haniaranimusic"
+artist_instagram: "https://www.instagram.com/haniarani/"
+
 
 project_thumb_small: project1902-thumb-small.png
 project_thumb_large: project1902-thumb-large.png
