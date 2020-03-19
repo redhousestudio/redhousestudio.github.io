@@ -36,6 +36,6 @@ Produced by Opera Spanga (Corina van Eijk en Maartje de Wit) and conducted by Da
 
 A great time with great people.
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/NJvI3n6PHU8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="225" src="https://www.youtube.com/embed/NJvI3n6PHU8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ---
