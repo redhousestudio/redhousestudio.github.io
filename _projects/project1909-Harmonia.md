@@ -31,7 +31,7 @@ A passion project that took him 2 years. He single-handedly produced, arranged, 
 
 We worked on the last details in my studio and I can tell you mixing close to 1000 individual recordings was one of the most challenging and satisfying things I ever did. Proud to present:
 
-<iframe src="https://open.spotify.com/embed/album/4RrsDaJwZsoyxwK76Oo4eO" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/4RrsDaJwZsoyxwK76Oo4eO" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Benjamin about working together:
 <blockquote>

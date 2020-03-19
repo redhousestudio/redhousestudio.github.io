@@ -32,7 +32,7 @@ One day Billy Queen walked into my studio and wanted to record some tracks she w
 
 A beautiful clip was made for the first single Christmas Baby, composed by Billie Queen and Gijs van Klooster:
 
-<iframe width="100%" height="225" src="https://www.youtube.com/embed/r_ZT6KJ-3zw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/r_ZT6KJ-3zw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
 Drums by Stefan Kruger. Bariton sax and solo on Christmas Baby by Christan Grotenbrecht. All other instruments by yours truly.

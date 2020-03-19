@@ -52,7 +52,7 @@ In November 2019 we were honoured to receive the [Dutch Edison Award](https://ww
 
 A film was created by [Rahi Rezvani](http://www.rahirezvani.com) in 3 Movements:
 
-<iframe width="100%" height="225" src="https://www.youtube.com/embed/gg0RyjaKXo0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/gg0RyjaKXo0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Listen to the album in your favorite player [here](https://dg.lnk.to/beving-henosis).
 

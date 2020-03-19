@@ -19,7 +19,13 @@ project_thumb_large: project1911-thumb-large.png
 project_thumb_large_hover: project1911-thumb-large.png
 
 project_background_image: project1911-bg.png
-
+project_thumbnails:
+  - img: label-image-gondwana-thumb.png
 ---
 
-<iframe width="100%" height="225" src="https://www.youtube.com/embed/E_5vYiLLh8k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Leaving is the first single of the new album "Home" of Hania.
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/E_5vYiLLh8k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You can preorder the album [here](https://lnk.to/haniaranihome). It will be released on May 15th by Gondwana Records. 
+

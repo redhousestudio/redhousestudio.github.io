@@ -42,7 +42,7 @@ In April 2019 the album received the [Golden Record Award](https://www.luister.n
 I am so proud of what we have accomplished. We never dreamed this big; we just wanted to make beautiful piano music. This album has touched millions of people and has changed our lives forever, in a good way. Thank you!
 
 
-<iframe width="100%" height="225" src="https://www.youtube.com/embed/Tuh4_h93DZk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/Tuh4_h93DZk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Listen to the album in your favorite player [here](https://dg.lnk.to/beving-prehension).
 

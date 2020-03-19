@@ -31,13 +31,13 @@ the thick phat piano sound that would become Joep's signature sound.
 Little did we know what was about to happen. His album went all the way to the stars
 and back, touching millions of lives with his gentle piano stories. Joep became an instant- worldwide-Spotify-phenomenon.
 
-<iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="100%" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Listen to the album in your favorite player [here](https://dg.lnk.to/solipsism).
 
 A beautiful video was made for this song:
 
-<iframe width="100%" height="225" src="https://www.youtube.com/embed/-chZu7V3NTM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/-chZu7V3NTM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Joep about working together:
 <blockquote>

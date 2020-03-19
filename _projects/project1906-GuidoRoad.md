@@ -22,7 +22,7 @@ project_background_image: project1906-bg.png
 
 ![Guido - The Road To Silence](../../img/project1906-image01.png)
 
-<iframe src="https://open.spotify.com/embed/album/6Sdgr0jMD0xVSgoiQ2mFv2" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/6Sdgr0jMD0xVSgoiQ2mFv2" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Listen to the album in your favorite player [here](https://bit.ly/2WTgQDG).
 
