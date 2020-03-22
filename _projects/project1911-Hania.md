@@ -23,7 +23,7 @@ project_thumbnails:
   - img: label-image-gondwana-thumb.png
 ---
 
-Leaving is the first single of the new album "Home" that we mixed in my studio. Hania took some bold steps in new musical territories. The album has many new Hania flavours that you will love.
+Leaving is the first single of the new album "Home" that we mixed in my studio. Hania took some bold steps in new musical territories. The album has many new Hania-flowing-flavours that you will love. Here's one:
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/E_5vYiLLh8k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
