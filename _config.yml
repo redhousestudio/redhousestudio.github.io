@@ -37,5 +37,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-og_image: "https://www.gijsvanklooster.com/img/bg-home-section-1.png"
+og_image: "https://www.gijsvanklooster.com/img/WebsiteScreenshot.png"
 title_separator: "|"
