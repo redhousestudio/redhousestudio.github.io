@@ -25,11 +25,9 @@ project_thumbnails:
   - img: label-image-DG-thumb.png
 ---
 
-In 2013  Joep and I started sharing space and time in the RedHouse. We were old music colleagues and he moved all his music gear and studio equipment into the RedHouse in order to play and experiment. One day he asked me to help him release some recordings he made at home on his piano, the only instrument left in his house. I loved what I heard and wanted to help him. So I spent many hours mixing and mastering his home recordings — one track was even recorded on his phone! Together we developed
-the thick phat piano sound that would become Joep's signature sound.
+In 2013  Joep and I started sharing space and time in the RedHouse. We were old music colleagues and he moved all his music gear and studio equipment into the RedHouse in order to play and experiment.<br />One day he asked me to help him release some recordings (one track was even recorded on his phone) he made at home on his piano, the only instrument left in his house. I loved what I heard and wanted to help him. So I started mixing and tape-mastering his home recordings —  Together we developed the thick phat piano sound that would become Joep's signature sound.
 
-Little did we know what was about to happen. His album went all the way to the stars
-and back, touching millions of lives with his gentle piano stories. Joep became an instant- worldwide-Spotify-phenomenon.
+Little did we know what was about to happen. His album went all the way to the stars and back, touching millions of lives with his gentle piano stories. Joep became an [instant-worldwide-Spotify-phenomenon](https://www.theguardian.com/music/2017/may/13/joep-beving-dutch-pianist-spotify-star-solipsism).
 
 <iframe src="https://open.spotify.com/embed/album/5TcA1sF3FI2GLUt0gggxVC" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
