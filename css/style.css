@@ -46,6 +46,21 @@ iframe {
   font-family: '39473A_0_0';
 }
 
+.site-logo:hover {
+  color: #000 !important;
+}
+
+.site-logo-dim {
+  color: rgba(170, 150, 150, 0.80) !important;
+  text-decoration: none !important;
+  font-size: 42px;
+  font-family: '39473A_0_0';
+}
+
+.site-logo-dim:hover {
+  color: #000 !important;
+}
+
 .redhouse-tagline-big {
   font-family: '39473A_0_0';
   color: #D42005;
