@@ -30,6 +30,9 @@ project_thumbnails:
   - img: "project1903-image08-thumb.png"
   - img: "label-image-DG-thumb.png"
   - img: "project1903-image10-thumb.png"
+
+description: "Album of Joep Beving that is the closing chapter of of the trilogy that we created together."
+
 ---
 
 ![Joep Beving - Henosis](../../img/project1903-image02.png)

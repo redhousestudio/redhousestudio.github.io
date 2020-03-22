@@ -19,6 +19,8 @@ project_thumb_large_hover: project1909-thumb-large.png
 
 project_background_image: project1909-bg.png
 
+description: "Like a moving soundtrack, to no film in particular, Harmonia is an album with a fresh take on what genre-busting between the realms of true classical and electronic music sounds like."
+
 ---
 
 ![Benjamin de Murashkin - Harmonia](../../img/project1909-image01.png)
