@@ -7,6 +7,8 @@ title:  "Joep Beving - Henosis 🏆"
 project_name: "Henosis"
 role: "producer, sound&nbsp;designer, recording, mixer"
 
+excerpt: "Album of Joep Beving that is the closing chapter of of the trilogy that we created together. It was a great project with great people. Recording and mixing more than 500 tracks (in different tunings) into 2. Creating a sonic journey of almost 2 hours of shapes and Joeps stories, blending acoustics and electronics, classical and the present moment."
+
 artist_name: "Joep Beving"
 artist_website: "http://joepbeving.com"
 artist_itunes: "https://itunes.apple.com/nl/album/henosis/1456380841?l=en"
@@ -31,7 +33,6 @@ project_thumbnails:
   - img: "label-image-DG-thumb.png"
   - img: "project1903-image10-thumb.png"
 
-description: "Album of Joep Beving that is the closing chapter of of the trilogy that we created together."
 
 ---
 

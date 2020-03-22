@@ -6,6 +6,7 @@ permalink: "/discography/benjamin-de-murashkin-harmonia/"
 title:  "Benjamin de Murashkin - Harmonia"
 project_name: "Harmonia"
 role: "co-producer, sound designer, mixer"
+excerpt: "Benjamin is an accomplished composer and released his first album Harmonia."
 
 artist_name: "Benjamin de Murashkin"
 artist_website: "http://www.demurashkin.com"
@@ -18,8 +19,6 @@ project_thumb_large: project1909-thumb-large.png
 project_thumb_large_hover: project1909-thumb-large.png
 
 project_background_image: project1909-bg.png
-
-description: "Like a moving soundtrack, to no film in particular, Harmonia is an album with a fresh take on what genre-busting between the realms of true classical and electronic music sounds like."
 
 ---
 

@@ -6,6 +6,7 @@ permalink: "/discography/guido-the-road-to-silence/"
 title:  "Guido - The Road To Silence"
 project_name: "The Road To Silence"
 role: "mixer, mastering"
+excerpt: "In the rush of everyday life people search for moments of inner peace. In The Road To Silence composer and pianist GUIDO is capturing these moments of inner peace in his compositions."
 
 artist_name: "Guido"
 artist_website: "http://guidomusik.com"
@@ -21,6 +22,12 @@ project_background_image: project1906-bg.png
 ---
 
 ![Guido - The Road To Silence](../../img/project1906-image01.png)
+
+As a succesfull Dutch composer GUIDO (Guido Heeneman) composes music for artists and for a variety of tv shows and series, from talkshows to scripted series to documentaries, both national and international.
+
+Over the last few years GUIDO developed more and more the need to create and release autonomous works. He is now at a point where he wants to share with a wider audience the music that is closest to his soul.
+
+In the rush of everyday life people search for moments of inner peace. In The Road To Silence composer and pianist GUIDO is capturing these moments of inner peace in his compositions.
 
 <iframe src="https://open.spotify.com/embed/album/6Sdgr0jMD0xVSgoiQ2mFv2" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 

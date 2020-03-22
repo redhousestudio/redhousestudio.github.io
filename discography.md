@@ -2,6 +2,9 @@
 layout: discography
 permalink: /discography/
 title: Discography
+role: "highlighted projects"
+
+
 slides:
   - filename: "Afb019.jpg"
   - filename: "bfocpntrol.png"
@@ -38,6 +41,7 @@ slides:
   - filename: "picture_14.jpg"
   - filename: "studio foto1.jpg"
   - filename: "Marlies01.png"
+
 
 ---
 
