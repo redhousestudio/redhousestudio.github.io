@@ -1,6 +1,6 @@
 title: "Gijs van Klooster"
 email: gijs@redhouse.nl
-description: "producer / engineer / sound designer"
+description: "Award winning producer / engineer / sound designer. MAKING SONIC DREAMS COME TRUE"
 
 destination: "../../redhousewebsite"
 facebook_url: "https://www.facebook.com/gijsvankloostermusic"
@@ -36,3 +36,6 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+
+og_image: "https://www.gijsvanklooster.com/img/bg-home-section-1.png"
+title_separator: "|"
