@@ -20,15 +20,13 @@ project_thumb_large_hover: project1610-thumb-large.png
 
 project_background_image: project1610-bg.png
 project_thumbnails:
-  - img: "project1610-image01-thumb.png"
   - img: "project1610-image02-thumb.png"
+  - img: "project1610-image01-thumb.png"
   - img: "label-image-DG-thumb.png"
   - img: "project1610-image04-thumb.png"
   - img: "project1610-image05-thumb.png"
   - img: "project1610-image06-thumb.png"
 ---
-
-![Joep Beving - Prehension](../../img/project1610-image02.png)
 
 After the breakthrough album [Solipsism](../joep-beving-solipsism/) was released, Joep Beving and I started to work on the many new songs and ideas. It was a beautiful journey together. To perfect the beautiful piano stories that Joep created in every detail, we molded every moment of every track: the feel, the intention, the tempi, the loudness and softness, even a deviated tuning of the piano, and we synthesized it all together as a whole. Recorded and mixed in my RedHouse studio.
 
