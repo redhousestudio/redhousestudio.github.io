@@ -1,8 +1,9 @@
 ---
 layout: terms
-permalink: "../terms-mix/" 
+permalink: "../mixservice/" 
 
 title:  "Mix Service"
+role: "MAKING SONIC DREAMS COME TRUE"
 
 ---
 
@@ -10,7 +11,7 @@ title:  "Mix Service"
 
 <p>&nbsp;</p>
 
-Hello, great that we'll be working together, I love mixing music!
+Hello, great that we'll be working together, I love making sonic dreams come true.
 
 To prepare our session I wanted to share some technical details about how I like to work. This enables me to put as much time possible on actual mixing.
 
@@ -34,6 +35,18 @@ To prepare our session I wanted to share some technical details about how I like
 - If there are any vocals singing words please add pdf/text/doc files with all lyrics.
 - If there are any pictures of the recording situation (placement of microphones) please add those.
 - Make a text file with the BPM (if played to a click) and other things I need to know.
+
+<p>&nbsp;</p>
+
+#### <strong>Session Timeline</strong>
+We will be in touch about all the details using email or Skype or whatever you prefer.
+
+I can help with the production of the tracks if I feel I can contribute something essestial. I will make suggestions and you decide if we'll make them audible. I have have many toys in my studio and sometimes they can help to make the sound/expression better/stronger. I can re-amp your synths, use analog filters and distortion, add bass, guitar, synths or rhythm programming. If you have specific sonic dreams; let me know.
+
+I will usually put the mixes in Soundcloud (privately) so you and the people around you can hear the progress and comment on it.
+
+I will mix and tweak till everybody is happy. It is my absolute joy to help you getting the best results from your recordings and I don't mind to keep tweaking to make sure all details are taken care of. If feedback rounds take much more time than normal I will notify you and we'll think of a solution that works for both sides.
+
 
 <p>&nbsp;</p>
 
