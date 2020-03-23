@@ -48,7 +48,7 @@ services_section_text_left: >
 
 services_section_text_right: >
   <p>Delivering a musical listening experience that really expresses the artist’s inspiration, is what ultimately drives me. Making everything connect - from concept to final master - and tell the same story; performance, music, processing, mix .. sound.</p>
-  <p>If you want me involved in any or all phases of your musical journey, <a href="mailto:gijs@redhouse.nl" target="blank" class="red-link">get in touch</a> for a cup of coffee.</p>
+  <p>If you want me involved in any or all phases of your musical journey, <strong><a href="mailto:gijs@redhouse.nl" target="blank" class="red-link">get in touch</a> for a cup of coffee.</strong></p>
 
 
 
@@ -64,5 +64,6 @@ slides:
   - filename: "testimonial-9.png"
   - filename: "testimonial-10.png"
   - filename: "testimonial-11.png"
+  - filename: "testimonial-12.png"
 
 ---
