@@ -110,11 +110,12 @@ layout: default
     <div class="row">
       <div class="col-sm-12 mt-4 mb-4" align="center">
         <p>&nbsp;</p>
-        <p>I have the best job in the world, but only few people see what I actually do! So to change that I asked <a href="https://www.editude.nl" class="normal" target="_blank">a friend</a> to make a video of my work, on the spot. A fancy studio, a rehearsal room, and my own beloved RedHouse studio.</p>
+        <p>I have the best job in the world, but only few people see what I actually do.<br />Here's a video:</p>
         <p>&nbsp;</p>
         <video class="plyr" width="100%" poster="../img/RedhouseWebvideoPoster.png" volume="0" controls muted >
           <source src="../assets/video/Redhouse Webvideo v9 Lungo typfout.mp4" type="video/mp4" >
         </video>
+        <p><a href="https://www.editude.nl" class="normal" target="_blank">Made by Editude</a></p>
         <p>&nbsp;</p>
       </div>
     </div>
@@ -159,27 +160,8 @@ layout: default
 
 
 
-<div class="home-section-social-media">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h3 class="section-heading" ><img src="/img/header_invisible.png" width="350" height="60" alt=""/></h3>
-      </div>
-      <div class="col-sm-6 site-social-media">
-        <p align="center">Stay up to date on my <a href="{{ site.facebook_url }}" target="blank" class="red-link">Facebook</a> page.<br />&nbsp;</p>    
-        <div class="fb-page" data-href="https://www.facebook.com/gijsvankloostermusic" data-tabs="timeline" data-width="500" data-height="420" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/gijsvankloostermusic" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/gijsvankloostermusic">Gijs van Klooster Music</a></blockquote></div>       
-      </div>
-      <div class="col-sm-6 site-social-media">
-        <p align="center">Follow me on <a href="{{ site.instagram_url }}" target="blank" class="red-link">Instagram</a>.<br />&nbsp;</p>
-        <div id="instafeed"></div>
-        <script src="/js/instafeed.js"></script>
-      </div>
-      <div class="col-sm-12">
-        <h3 class="section-heading" ><img src="/img/header_invisible.png" width="350" height="60" alt=""/></h3>
-      </div>
-    </div>
-  </div>
-</div>
+
+        {% include socials.html %}
 
         {% include custom_audio_player.html %}
 
