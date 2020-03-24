@@ -41,6 +41,14 @@ studio_section_text: >
   <p>Based in Amsterdam, the Netherlands.</p>
 
 
+impressionist01_text: >
+  <p class="studio-impressionist">imagine, envisage, visualize, picture, picture in ones mind, conjure up an image of, think, see, perceive, grasp, appreciate, apprehend, think up, think of, come up with, dream up, draw up, devise, form, formulate, design, frame, invent, coin, originate, create, develop, evolve</p>
+
+
+impressionist02_text: >
+  <p class="studio-impressionist">energizing, exciting, soothing, relaxing, dense, thick, light, free, transparent, harsh, aggressive, gentle, peaceful, cold, firm, warm, soft, bright, dynamic, ornate, low key, calm, melancholic, popular, plain, simple, elaborate, sophisticated, dark, pessimistic, bitter, light, cheerful, sweet, emotional, sensual, playful, sober, arranged, proper</p>
+
+
 services_section_text_left: >
   <p><strong>Providing the experience and necessary perspective to guide an artist’s recording from start to finish.</strong></p>
   <p>After playing, composing, recording and producing music for over 30 years, I’m more than <a href="/discography" class="normal" target="" class="red-link">experienced</a> to cover the whole process - often starting in a rehearsal room or home studio and ending in a mastering studio.</p>
