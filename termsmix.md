@@ -12,11 +12,11 @@ role: "MAKING SONIC DREAMS COME TRUE"
 
 Hello, great that we'll be working together, I love making sonic dreams come true!
 
-To prepare our mix session I created this page to share some technical details. This enables us to spend as much time as possible on mixing.
+On this page you will find some technical details to prepare our mix session. This enables us to spend as much time as possible on mixing.
 
 <p>&nbsp;</p>
 
-First some technical details about the files you will send me:
+First some technical details about the files you have to send me:
 
 ##### <strong>Audio files</strong>
 
@@ -24,35 +24,47 @@ First some technical details about the files you will send me:
 - All files must start from the same moment in time at the beginning of the song where there is no sound of any of the sources.
 - All files should have clear and consistent naming: what source, instrument, mix position, or what they sound like. Not "Audio 1", "Input 6", "SYNTH-4-87\_R\_25- 24b", etc. please.
 - For mono sources please don't send a stereo file.
-- All sound sources separate, no sub-mixes. Unless specified and/or to create an example for me.
+- Provide all sound sources separately, no sub-mixes. Unless specified and/or to create an example for me.
 - Please bounce all the tracks with all faders (including master) on 0 dB without (volume or other) automation and without audio processing.
 - If there is any volume automation and/or audio processing you think is important, add a version with the automation and/or processing.
-- If you have a mixed version made elsewhere you really like (the rough mix) please include this and explain what you like about it. Can be anything: mp3, wav etc. 
+- If you have already created a mixed version you really like (the rough mix) please include this and explain what you like about it. Can be any kind of format: mp3, wav etc. 
 
 
 ##### <strong>Other files</strong>
 
-- Make a text file with the BPM (if played to a click) and other things I need to know that guided the performances.
-- Please add pdf/text/doc files with all lyrics if there are any voices singing words.
-- If you have any pictures of the recording situation (placement of microphones) please add those.
+- Create a text file with the BPM (if played to a click) and other things I need to know that guided the performances.
+- Add pdf/text/doc files with all lyrics if your recording includes any singing and or spoken word. (optional)
+- If you have any pictures of the recording setup (placement of microphones) please add those. (optional)
 
 <p>&nbsp;</p>
 
 #### <strong>Session Timeline</strong>
-We can discuss the details using email, Facetime or Skype or whatever you prefer. If you have specific sonic dreams; let me know. Tell me what you envisioned when you concieved the music/composition.
+We can discuss the details using email, Facetime or Skype. If you have specific sonic dreams; let me know. Tell me what you envisioned when you concieved and created the music/composition.
+If you are able come to the studio, you are welcome to join me.
 
-I will help with the production of the tracks if I think I can contribute something essential. I will share my thoughts and you can decide if we'll make them audible. I have many intruments and toys in my studio and sometimes they can help to make the sound/expression better/stronger. I can re-amp your synths, use analog filters, distortion, add bass, guitar, synths, or rhythm/groove programming, anything needed to make for maximum impact. 
+Optional: I can help with the production of the tracks if I think I can contribute something essential. I will share my thoughts and you can decide if we'll make them audible. I can re-amp your synths, use analog filters, distortion, add bass, guitar, synths, or rhythm/groove programming, anything needed to make for maximum impact. 
 
-I put the mixes on Soundcloud (private) so you can hear the progress and comment on it. If you can come to the studio you are welcome to join me.
+I put the mixes on Soundcloud (private) so you can hear the progress and comment on it. I can send you files if you want, but please be aware that old mixes on harddiscs might cause harmful mistakes. And this online solution tries to prevent that.
 
-It's only done when you say it's done. I will mix and tweak till everybody is happy. It is my absolute joy to help you get the best results from your recordings and I don't mind to keep tweaking to make sure all details are taken care of. If feedback rounds take much more time than normal I will notify you and we'll think of a solution that works for both sides.
+It's only done when you say it's done. I will mix and tweak till everybody is happy. It is my absolute joy to help you get the best results from your recordings and I don't mind to keep tweaking to make sure all details are taken care of. If feedback rounds take much more time than normal I will notify you in advance and we'll think of a solution that works for both of us.
+
+
+<p>&nbsp;</p>
+
+#### <strong>Mastering</strong>
+
+I can do the mastering or we send the mix to a mastering studio of your choice. I can connect you to mastering engineers which I think are really good.
+
+Normally I don't master the tracks that I mixed. But there are many exeptions to that rule. We can discuss the best solution here.
+
+I like to be involved in the mastering of the mixes if possible, to help monitoring you get an optimum end result.
 
 
 
 <p>&nbsp;</p>
 
 #### <strong>Session media</strong>
-Only the mixed and/or mastered audio files will be delivered in any format you want. The session files (Logic Pro, Audition etc.) used to create the mix and/or master will not be included unless other arrangements are agreed to in writing.
+The mixed and/or mastered audio files will be delivered in any format you want. The session files (Logic Pro, Audition etc.) used to create the mix and/or master will not be included unless we agreed otherwise.
 
 Mixed stems for other purposes (e.g. remix) can be created no later than 90 days after session completion. There is an additional fee per track. For prices please contact me.
 
