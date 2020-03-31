@@ -16,7 +16,7 @@ On this page you will find some technical details to prepare our mix session. Th
 
 <p>&nbsp;</p>
 
-First some technical details about the files you have to send me:
+First some technical details about the files you will send me. (I mix in Logic Pro. If you have a ProTools or Ableton session, I can create the audio files to mix.)
 
 ##### <strong>Audio files</strong>
 
