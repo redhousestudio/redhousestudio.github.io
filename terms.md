@@ -109,6 +109,7 @@ In case of production Client agrees to have Gijs van Klooster credited as a "pro
 
 On Facebook use tag [@gijsvankloostermusic](https://www.facebook.com/gijsvankloostermusic/).<br />
 On Instagram use tag [@gijsvanklooster](https://www.instagram.com/gijsvanklooster/).<br />
+On Twitter use tag [@abcgijs](https://twitter.com/abcgijs).<br />
 All others online credits should link to [www.gijsvanklooster.com](https://gijsvanklooster.com).
 
 

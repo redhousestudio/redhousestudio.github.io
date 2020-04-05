@@ -12,11 +12,13 @@ role: "MAKING SONIC DREAMS COME TRUE"
 
 Hello, great that we'll be working together, I love making sonic dreams come true!
 
-On this page you will find some technical details to prepare our mix session. This enables us to spend as much time as possible on mixing.
+On this page you will find some technical details to prepare our session.
 
 <p>&nbsp;</p>
 
-First some technical details about the files you will send me. (I mix in Logic Pro. If you have a ProTools or Ableton session, I can create the audio files to mix.)
+First some technical details about the files you will send me. 
+
+(I mix in Logic Pro. If you have a ProTools or Ableton session, I can create the audio files to mix.)
 
 ##### <strong>Audio files</strong>
 
