@@ -26,12 +26,7 @@ about_text: >
   <p class="redhouse-tagline-small">producer / engineer / sound designer</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <p>&nbsp;</p>
   <p class="redhouse-tagline-big">MAKING SONIC DREAMS COME TRUE</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
   <p>&nbsp;</p>
 
 
