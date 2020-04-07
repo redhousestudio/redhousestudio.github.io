@@ -43,6 +43,8 @@ impressionist01_text: >
 impressionist02_text: >
   <p class="studio-impressionist">energizing, exciting, soothing, relaxing, dense, thick, light, free, transparent, harsh, aggressive, gentle, peaceful, cold, firm, warm, soft, bright, dynamic, ornate, low key, calm, melancholic, popular, plain, simple, elaborate, sophisticated, dark, pessimistic, bitter, light, cheerful, sweet, emotional, sensual, playful, sober, arranged, proper</p>
 
+zenquote_text: >
+  <p>“Phaedrus felt that at the moment of pure Quality perception, or not even perception, at the moment of pure Quality there is no subject and there is no object. There is only a sense of Quality that produces a later awareness of subjects and objects. At the moment of pure Quality, subject and object are identical.”</p>
 
 services_section_text_left: >
   <p><strong>Providing the experience and necessary perspective to guide an artist’s recording from start to finish.</strong></p>
