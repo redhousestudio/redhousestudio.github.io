@@ -1,12 +1,12 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/discography/hania-rani-leaving/"
+permalink: "/discography/hania-rani-home/"
 
 artist_name: "Hania Rani"
-project_name: "Leaving"
-title:  "Hania Rani - Leaving"
-role: "mixer"
+project_name: "Home"
+title:  "Hania Rani - Home"
+role: "mixer, sound&nbsp;designer"
 
 artist_website: "http://haniarani.com"
 artist_itunes: "https://music.apple.com/nl/album/leaving/1502144024?i=1502144025&l=en"
@@ -26,6 +26,10 @@ project_thumbnails:
 Leaving is the first single of the new album "Home" that we mixed in my studio. Hania took some bold steps in new musical territories. The album has many new Hania-flowing-flavours that you will love. Here's one:
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/E_5vYiLLh8k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The second single is called F Major with another beautiful video:
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/bB34_eLCLKo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The new album will be released on May 15th by Gondwana Records. You can preorder [here](https://lnk.to/haniaranihome).
 
