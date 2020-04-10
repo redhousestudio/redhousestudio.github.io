@@ -1,6 +1,6 @@
 ---
 layout: project
-show_on_frontpage: true
+show_on_frontpage: false
 permalink: "/discography/hania-rani-esja/"
 
 title:  "Hania Rani - Esja"
