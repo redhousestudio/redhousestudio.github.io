@@ -7,8 +7,6 @@ title:  "Hania Rani - Esja"
 project_name: "Esja"
 role: "mixer, mastering"
 
-excerpt: "Polish artist, pianist, composer and musician Hania Rani is making waves in Poland and far beyond. Esja is her debut solo album and it is her first, real, personal statement as an artist. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful piano compositions."
-
 artist_name: "Hania Rani"
 artist_website: "http://haniarani.com"
 artist_itunes: "https://itunes.apple.com/nl/album/esja/1451189960?l=en"
@@ -23,11 +21,10 @@ project_thumb_large_hover: project1902-thumb-large.png
 
 project_background_image: project1902-bg.png
 project_thumbnails:
+  - img: project1902-image01-thumb.png
   - img: project1902-image02-thumb.png
   - img: label-image-gondwana-thumb.png
 ---
-
-![Hania Rani - Esja](../../img/project1902-image01.png)
 
 Polish artist, pianist, composer and musician Hania Rani is making waves in Poland and far beyond. Esja is her debut solo album and it is her first, real, personal statement as an artist. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful piano compositions.
 

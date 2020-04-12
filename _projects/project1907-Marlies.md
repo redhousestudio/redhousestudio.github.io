@@ -27,4 +27,11 @@ project_thumbnails:
   - img: project1907-image05-thumb.png
 ---
 
+Marlies is a "classical-meets-minimal" composer/piannist and working with her was a wonderful experience. She crowdfunded the making of her first solo album. The composition of Marlies create a new world of her own, mingling space and thoughts of your mind with her musical patterns.
+
+The first single of the new album finally out now! 
+
+
 <iframe src="https://open.spotify.com/embed/track/7JfwQkdCVqEy6Ktb2GnyXK" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+---
