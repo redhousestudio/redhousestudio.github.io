@@ -145,15 +145,18 @@ blockquote{
 /*  background-image: url(/img/bg-home-section-1.png);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-*/  min-height: 650px;
+  background-size: cover; */  
+  background-color: #333333;
+  min-height: 650px;
   padding: 30px 0;
 }
 
 .home-section-hero .plyr.plyr--video {
   position: absolute;
-  background-position: center;
   top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
   height: 650px;
   overflow: hidden;
   cursor: unset;
@@ -162,9 +165,12 @@ blockquote{
 .home-section-hero .plyr.plyr--video .plyr__video-wrapper {
   cursor: unset !important;
 }
+
 .home-section-hero .plyr.plyr--video video {
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
   height: 100%;
-  width: auto;
   overflow: hidden;
 }
 .home-section-hero .plyr.plyr--video .plyr__controls, .home-section-hero .plyr.plyr--video button {
@@ -453,7 +459,8 @@ blockquote{
   }
 
   .home-section-hero {
-   min-height: 300px;
+   background-color: #fafaff;
+   min-height: 200px;
   }
 
   .home-section-hero video {
@@ -553,16 +560,28 @@ a.project-button {
   width: 28px !important;
 }
 
+@media (min-width: 700px) and (max-width: 900px)
+{
+  .home-section-hero {
+    min-height: 500px;
+    padding: 30px 0;
+  }
+
+  .home-section-hero .plyr.plyr--video {
+    height: 500px;
+  }
+}
+
 @media (min-width: 1200px)
 {
 	.container {
-	     width: 970px;
+	  width: 970px;
 	}
   .section-heading {
     width: 100%;
   }
-
 }
+
 .next_link a {
 	text-decoration: none;
 }
