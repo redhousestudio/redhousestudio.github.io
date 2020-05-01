@@ -140,14 +140,38 @@ blockquote{
 
 /* ------------------------------- Home ---------------------*/
 
+
 .home-section-hero {
-  background-image: url(/img/bg-home-section-1.png);
+/*  background-image: url(/img/bg-home-section-1.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 300px;
+*/  min-height: 650px;
   padding: 30px 0;
 }
+
+.home-section-hero .plyr.plyr--video {
+  position: absolute;
+  background-position: center;
+  top: 0;
+  height: 650px;
+  overflow: hidden;
+  cursor: unset;
+}
+
+.home-section-hero .plyr.plyr--video .plyr__video-wrapper {
+  cursor: unset !important;
+}
+.home-section-hero .plyr.plyr--video video {
+  height: 100%;
+  width: auto;
+  overflow: hidden;
+}
+.home-section-hero .plyr.plyr--video .plyr__controls, .home-section-hero .plyr.plyr--video button {
+  display: none;
+}
+
+
 .home-section-discography {
   background-image: url(/img/bg-home-section-discograpy.png);
   background-position: center;
@@ -426,7 +450,15 @@ blockquote{
 
   .section-heading {
   width: 100px;
-}
+  }
+
+  .home-section-hero {
+   min-height: 300px;
+  }
+
+  .home-section-hero video {
+    display: none;
+  }
 
 }
 
