@@ -27,7 +27,7 @@ First some technical details about the files you will send me.
 - All files should have clear and consistent naming: what source, instrument, mix position, or what they sound like. Not "Audio 1", "Input 6", "SYNTH-4-87\_R\_25- 24b", etc. please.
 - For mono sources please don't send a stereo file.
 - Provide all sound sources separately, no sub-mixes. Unless specified and/or to create an example for me.
-- Please bounce all the tracks with all faders (including master) on 0 dB without (volume or other) automation and without audio processing.
+- Bounce all the tracks with all faders (including master) on 0 dB without (volume or other) automation and without audio processing.
 - If there is any volume automation and/or audio processing you think is important, add a version with the automation and/or processing.
 - If you have already created a mixed version you really like (the rough mix) please include this and explain what you like about it. Can be any kind of format: mp3, wav etc. 
 
@@ -46,7 +46,7 @@ If you are able come to the studio, you are welcome to join me.
 
 Optional: I can help with the production of the tracks if I think I can contribute something essential. I will share my thoughts and you can decide if we'll make them audible. I can re-amp your synths, use analog filters, distortion, add bass, guitar, synths, or rhythm/groove programming, anything needed to make for maximum impact. 
 
-I put the mixes on Soundcloud (private) so you can hear the progress and comment on it. I can send you files if you want, but please be aware that old mixes on harddiscs might cause harmful mistakes. And this online solution tries to prevent that.
+I put the mixes on [StackTune](https://stacktune.com) (private) so you can hear the progress and comment on it. I can send you mix files if you want, but please be aware that old mixes on harddiscs might cause harmful mistakes and this online solution tries to prevent that.
 
 It's only done when you say it's done. I will mix and tweak till everybody is happy. It is my absolute joy to help you get the best results from your recordings and I don't mind to keep tweaking to make sure all details are taken care of. If feedback rounds take much more time than normal I will notify you in advance and we'll think of a solution that works for both of us.
 
