@@ -1,6 +1,6 @@
 ---
 layout: project
-show_on_frontpage: false
+show_on_frontpage: true
 permalink: "/discography/joep-beving-solipsism/"
 
 title:  "Joep Beving - Solipsism"

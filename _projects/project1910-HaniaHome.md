@@ -14,11 +14,11 @@ artist_spotify: "https://open.spotify.com/track/5kGMJTXKSDrFRGAgeLmavm?si=jMEM25
 artist_facebook: "https://www.facebook.com/haniaranimusic"
 artist_instagram: "https://www.instagram.com/haniarani/"
 
-project_thumb_small: project1911-thumb-small.png
-project_thumb_large: project1911-thumb-large.png
-project_thumb_large_hover: project1911-thumb-large.png
+project_thumb_small: project1910-thumb-small.png
+project_thumb_large: project1910-thumb-large.png
+project_thumb_large_hover: project1910-thumb-large.png
 
-project_background_image: project1911-bg.png
+project_background_image: project1910-bg.png
 project_thumbnails:
   - img: label-image-gondwana-thumb.png
 ---
