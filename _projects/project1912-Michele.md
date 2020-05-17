@@ -8,8 +8,8 @@ project_name: "La geografia del buio"
 role: "sound&nbsp;designer, recording, mixer"
 
 artist_name: "Michele Bravi"
-artist_itunes: "blabla"
-artist_spotify: "blabla"
+artist_itunes: "https://music.apple.com/nl/album/la-geografia-del-buio/1498907902?l=en"
+artist_spotify: "https://open.spotify.com/track/7ou1NrCbgAcaAMUF1tKmdT?si=kmNKwhRjRiSihp8P-Rpg9A"
 artist_facebook: "https://www.facebook.com/michelebravi/"
 artist_instagram: "https://www.instagram.com/michelebravi/"
 
@@ -29,7 +29,7 @@ project_thumbnails:
   - img: project1912-image08-thumb.png
 ---
 
-[Francesco Catitti](https://www.instagram.com/thekatoo/) ordered me to record and mix the piano part of the new album of Michele Bravi. I flew to Venice a few weeks later and was welcomed by my family I never met before. We worked in the beautiful [Basement studio](https://www.instagram.com/thebasementvicenza/) on all the parts played by [Andrea Manzoni](https://www.instagram.com/andreamanzoniofficial/). The whole process felt like a family diner and we had so much fun creating this magic together. I will never forget the good food and inspiration of this dream team.
+[Francesco Catitti](https://www.instagram.com/thekatoo/) ordered me to record and mix the piano parts and help with the sound and emotional layering of the new album of [Michele Bravi](https://www.instagram.com/michelebravi/). I flew to Venice a few weeks later and was welcomed by my Italian family. We worked in the beautiful [Basement studio](https://www.instagram.com/thebasementvicenza/) on all the parts played by the amazing person and performer [Andrea Manzoni](https://www.instagram.com/andreamanzoniofficial/). I will never forget the good food and inspiration of this dream team.
 
 First single is out!
 
