@@ -29,7 +29,8 @@ project_thumbnails:
   - img: project1912-image08-thumb.png
 ---
 
-[Francesco Catitti](https://www.instagram.com/thekatoo/) ordered me to record and mix the piano parts and help with the sound and emotional layering of the new album of [Michele Bravi](https://www.instagram.com/michelebravi/). I flew to Venice a few weeks later and was welcomed by my Italian family. We worked in the beautiful [Basement studio](https://www.instagram.com/thebasementvicenza/) on all the parts played by the amazing person and performer [Andrea Manzoni](https://www.instagram.com/andreamanzoniofficial/). I will never forget the good food and inspiration of this dream team.
+[Francesco Catitti](https://www.instagram.com/thekatoo/) ordered me to record and mix the piano parts and help with the sound and emotional layering of the new album he was producing for [Michele Bravi](https://www.instagram.com/michelebravi/). I flew to Venice a few weeks later and was welcomed by my Italian family.<br />
+We worked in the beautiful [Basement studio](http://www.basementgroup.it) where I recorded all the piano parts played by [Andrea Manzoni](https://www.instagram.com/andreamanzoniofficial/). I will never forget the good food and inspiration of this dream team.
 
 First single is out!
 
