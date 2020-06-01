@@ -341,7 +341,7 @@ blockquote{
   background-color: rgba(36, 32, 31, 0.15);
   width: fit-content;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 0px;
   margin-top: 10px;
   margin-bottom: 10px;
   width: 70px;
@@ -504,7 +504,7 @@ blockquote{
   width: 100%;
   max-width: 230px;
   height: 320px;
-  border-radius: 5px;
+  border-radius: 0px;
   margin: 15px auto;
   position: relative;
   font-size: 14px;
