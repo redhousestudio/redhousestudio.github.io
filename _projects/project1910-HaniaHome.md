@@ -27,11 +27,9 @@ After the acclaimed debut album [Esja](../hania-rani-esja/) Hania took some bold
 
 Speaking of the new album Hania said: “One can be lost but can find home in his inner part - which can mean many things - soul, imagination, mind, intuition, passion. I strongly believe that when being in uncertain times and living an unstable life we can still reach peace with ourselves and be able to find ‘home’ anywhere’ This is what I would like to express with my music - one can travel the whole world but not see anything. It is not where we are going but how much we are able to see and hear things happening around us”. 
 
-The album has many new Hania-flowing-flavours that you will love. Here's one:
-
-
 <iframe src="https://open.spotify.com/embed/album/0lCjdc69ig4VmMzExMcCmA" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+The album has many new Hania-flowing-flavours that you will love. Here's one:
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/E_5vYiLLh8k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
