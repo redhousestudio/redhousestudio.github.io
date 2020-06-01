@@ -23,15 +23,30 @@ project_thumbnails:
   - img: label-image-gondwana-thumb.png
 ---
 
-After the succefull debut album [Esja](../hania-rani-esja/), Leaving is the first single of the new album "Home" that we mixed in my studio. Hania took some bold steps in new musical territories. The album has many new Hania-flowing-flavours that you will love. Here's one:
+After the acclaimed debut album [Esja](../hania-rani-esja/) Hania took some bold steps in new musical territories with her new album Home that we finished and mixed in my studio.
+
+Speaking of the new album Hania said: “One can be lost but can find home in his inner part - which can mean many things - soul, imagination, mind, intuition, passion. I strongly believe that when being in uncertain times and living an unstable life we can still reach peace with ourselves and be able to find ‘home’ anywhere’ This is what I would like to express with my music - one can travel the whole world but not see anything. It is not where we are going but how much we are able to see and hear things happening around us”. 
+
+The album has many new Hania-flowing-flavours that you will love. Here's one:
+
+
+<iframe src="https://open.spotify.com/embed/album/0lCjdc69ig4VmMzExMcCmA" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/E_5vYiLLh8k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The second single is called F Major with another beautiful video:
+The second single is F Major with another [beautiful video](https://www.youtube.com/watch?v=bB34_eLCLKo):
 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/bB34_eLCLKo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The new album will be released on May 15th by Gondwana Records. You can preorder [here](https://lnk.to/haniaranihome).
+Listen to the album in your favorite player [here](https://lnk.to/haniaranihome).
+
+
+[The Guardian](https://www.theguardian.com/music/2020/may/15/witch-n-monk-witch-n-monk-review):
+>"sounding like a young Kate Bush.."
+
+[The line of best fit](https://www.thelineofbestfit.com/reviews/albums/hania-rani-home-album-review):
+>"As a whole, Home is a beautiful album, encompassing all which home is and isn't. The addition of gentle, mediative electronic elements to Rani's palette elevates her storytelling .."
+
 
 
 Hania about working together:
