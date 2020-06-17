@@ -1,6 +1,6 @@
 ---
 layout: project
-show_on_frontpage: true
+show_on_frontpage: false
 permalink: "/discography/evelien-van-den-broek-false-memories/"
 
 title:  "Evelien van den Broek - False Memories"
