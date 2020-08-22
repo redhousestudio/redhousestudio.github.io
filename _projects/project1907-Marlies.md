@@ -1,11 +1,11 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/discography/marlies-du-mosch-perpetuum-mobile/"
+permalink: "/discography/marlies-du-mosch-tale-of-a-city/"
 
 artist_name: "Marlies du Mosch"
-project_name: "Perpetuum Mobile"
-title:  "Marlies du Mosch - Perpetuum Mobile"
+project_name: "Tale of a city"
+title:  "Marlies du Mosch - Tale of a city"
 role: "producer, recording, mixer"
 
 artist_website: "https://marliesdumosch.com"
@@ -29,9 +29,17 @@ project_thumbnails:
 
 Marlies is a "classical-meets-minimal" composer/piannist and working with her was a wonderful experience. She crowdfunded the making of her first solo album. The composition of Marlies create a new world of her own, mingling space and thoughts of your mind with her musical patterns.
 
-The first single of the new album finally out now! 
+The first singles of the new album finally out now! 
 
 
-<iframe src="https://open.spotify.com/embed/track/7JfwQkdCVqEy6Ktb2GnyXK" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7JfwQkdCVqEy6Ktb2GnyXK" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7ssjuy0YBsnD23FLGkZVej" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0oiItLsRwpDNiqB5Yek4Qs" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5OxyHotdy7y789r3UQcHAB" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/13SBuUaDElB4vowkW6nQxk" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
