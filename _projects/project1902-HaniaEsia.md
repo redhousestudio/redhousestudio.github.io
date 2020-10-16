@@ -7,7 +7,7 @@ title:  "Hania Rani - Esja"
 project_name: "Esja"
 role: "mixer, mastering"
 
-excerpt: "Polish artist, pianist, composer and musician Hania Rani is making waves in Poland and far beyond. Esja is her debut solo album and it is her first, real, personal statement as an artist. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful piano compositions."
+excerpt: "Polish artist, pianist, composer and musician Hania Rani is making waves in Poland and far beyond. Esja is her debut solo album and it is her first, real, personal statement as an artist. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful piano playing."
 
 artist_name: "Hania Rani"
 artist_website: "http://haniarani.com"
@@ -28,9 +28,14 @@ project_thumbnails:
   - img: label-image-gondwana-thumb.png
 ---
 
-Polish artist, pianist, composer and musician Hania Rani is making waves in Poland and far beyond. Esja is her debut solo album and it is her first, real, personal statement as an artist. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful piano compositions.
+Polish artist, pianist, composer and musician Hania Rani is making waves in Poland and far beyond. Esja is her debut solo album and it is her first, real, personal statement as an artist. She recorded the compositions on many different locations and I mixed to highlight all the different aspects and colors of her beautiful piano playing.
+
 
 <iframe src="https://open.spotify.com/embed/album/0qexfmJhl1Ao6mBzgZpA95?si=ikhkxm4aTUSM3pnG0ddd1A" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Esja, a beguiling collection of solo piano pieces on Gondwana Records was released to international acclaim on April 5th 2019 including nominations in 5 categories in the Polish music industries very own Grammys, the Fryderyki, and winning the Discovery of the Year 2019 in the Empik chain's Bestseller Awards and the prestigious Sanki award for the most interesting new face of Polish music chosen by Polish journalists.
+
+Other projects with Hania: [mixing of her album Home](../hania-rani-home/).
 
 ---
 
