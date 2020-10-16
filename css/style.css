@@ -41,7 +41,7 @@ iframe {
 /* ------------------------------- Font Styles ---------------------*/
 
 .site-logo {
-  color: #575151 !important;
+  color: #D42005 !important;
   text-decoration: none !important;
   font-size: 42px;
   font-family: '39473A_0_0';
@@ -62,16 +62,26 @@ iframe {
   color: #000 !important;
 }
 
+
+
+
+
 .redhouse-tagline-big {
   font-family: '39473A_0_0';
   color: #D42005;
-  font-size: 23px;
+  font-size: 28px;
 }
 
 .redhouse-tagline-small {
   font-family: '39473A_0_0';
-  font-size: 15px;
+  color: #D42005;
+  font-size: 21px;
 }
+
+
+
+
+
 
 .nav-wrapper {
   margin: auto;
