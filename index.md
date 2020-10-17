@@ -24,10 +24,8 @@ project_thumbnails:
 
 about_text: >
   <p>&nbsp;</p>
-  <p>&nbsp;</p>
+  <p class="redhouse-tagline-big">Gijs van Klooster</p>
   <p class="redhouse-tagline-small">producer / engineer / sound designer</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
 
 
 studio_section_text: >
