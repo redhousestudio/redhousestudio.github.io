@@ -73,6 +73,8 @@ I like to be involved in the mastering of the mixes if possible, to make sure we
 € 500 (ex BTW/VAT) per day per track is the norm. But this may vary based on the complexity of the music and duration. I am willing to talk about other options per project.
 I will send you an invoice for 50% before I start and the other 50% when everybody is happy.
 
+<p>&nbsp;</p>
+
 
 #### <strong>Session media</strong>
 
@@ -88,10 +90,10 @@ Mixed stems for other purposes (e.g. remix) can be created no later than 90 days
 
 Unless agreed otherwise in writing, and taking into account the best practices in the music industry, you must ensure that the appropriate credits will be mentioned in all the label copy, artwork, print and social media related to the studio results reading substantially: "<em>Mixed by Gijs van Klooster</em>".
 
-On Facebook use tag "@gijsvankloostermusic" - [link](https://www.facebook.com/gijsvankloostermusic).<br />
-On Instagram use tag "@gijsvanklooster" - [link](https://www.instagram.com/gijsvanklooster).<br />
-On Twitter use tag "@abcgijs" - [link](https://twitter.com/abcgijs).<br />
-All others online credits should link to "www.gijsvanklooster.com" - [link](https://gijsvanklooster.com).
+On Facebook use tag "<em>@gijsvankloostermusic</em>" - [link](https://www.facebook.com/gijsvankloostermusic).<br />
+On Instagram use tag "<em>@gijsvanklooster</em>" - [link](https://www.instagram.com/gijsvanklooster).<br />
+On Twitter use tag "<em>@abcgijs</em>" - [link](https://twitter.com/abcgijs).<br />
+All others online credits should link to "<em>www.gijsvanklooster.com</em>" - [link](https://gijsvanklooster.com).
 
 
 
