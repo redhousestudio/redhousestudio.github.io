@@ -47,7 +47,7 @@ If you are able come to the studio, you are welcome to join me.
 
 I can help with the production of the tracks if I think I can contribute something essential. I will share my thoughts and you can decide if we'll make them audible. I can re-amp your synths, use analog filters, distortion, add bass, guitar, synths, or rhythm/groove programming, anything needed to make for maximum impact. 
 
-I put the mixes on [StackTune](https://stacktune.com) (private) so you can hear the progress and comment on it. It's a great tool to compare different versions and you can comment on the time line (or a time region) for clear communication. Take a look at their home page to get an overview of the features.
+I put the mixes on [StackTune](https://stacktune.com) (private) so you can hear the results in high resolution. It's a great tool to compare different versions and you can comment on the time line (or a time region) for clear communication. Take a look at their home page to get an overview of the features.
 I can send you mix files if you want, but please be aware that old mixes on hard discs might cause harmful mistakes and this online solution tries to prevent that.
 
 It's only done when you say it's done. I will mix and tweak till everybody is happy. It is my absolute joy to help you get the best results from your recordings and I don't mind to keep tweaking to make sure all details are taken care of. If feedback rounds take much more time than normal I will notify you in advance and we'll think of a solution that works for both of us.
@@ -70,7 +70,7 @@ I like to be involved in the mastering of the mixes if possible, to make sure we
 
 #### <strong>Invoicing</strong>
 
-€ 500 (ex BTW/VAT) per day per track is the norm. But this may vary based on the complexity of the music and duration. I am willing to talk about other options per project.
+€ 500 (ex BTW/VAT) per day per track is the norm. This may vary based on the complexity of the music and duration. I am willing to talk about other options per project.
 I will send you an invoice for 50% before I start and the other 50% when everybody is happy.
 
 <p>&nbsp;</p>
@@ -88,7 +88,7 @@ Mixed stems for other purposes (e.g. remix) can be created no later than 90 days
 
 #### <strong>Accreditation</strong>
 
-Unless agreed otherwise in writing, and taking into account the best practices in the music industry, you must ensure that the appropriate credits will be mentioned in all the label copy, artwork, print and social media related to the studio results reading substantially: "<em>Mixed by Gijs van Klooster</em>".
+Taking into account the best practices in the music industry, you must ensure that the appropriate credits will be mentioned in all the label copy, artwork, print and social media related to the studio results reading substantially: "<em>Mixed by Gijs van Klooster</em>".
 
 On Facebook use tag "<em>@gijsvankloostermusic</em>" - [link](https://www.facebook.com/gijsvankloostermusic).<br />
 On Instagram use tag "<em>@gijsvanklooster</em>" - [link](https://www.instagram.com/gijsvanklooster).<br />
