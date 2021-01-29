@@ -9,7 +9,7 @@ role: "sound&nbsp;designer, recording, mixer"
 
 artist_name: "Michele Bravi"
 artist_itunes: "https://music.apple.com/nl/album/la-geografia-del-buio/1498907902?l=en"
-artist_spotify: "https://open.spotify.com/track/7ou1NrCbgAcaAMUF1tKmdT?si=kmNKwhRjRiSihp8P-Rpg9A"
+artist_spotify: "https://open.spotify.com/album/0SFjLCLRbtMaVaMGuF0PUQ?si=LI8EPRv6Tl-W8rPdNfC3vw"
 artist_facebook: "https://www.facebook.com/michelebravi/"
 artist_instagram: "https://www.instagram.com/michelebravi/"
 
@@ -32,9 +32,12 @@ project_thumbnails:
 [Francesco Catitti](https://www.instagram.com/thekatoo/) ordered me to record and mix the piano parts and help with the sound and emotional layering of the new album he was producing for [Michele Bravi](https://www.instagram.com/michelebravi/). I flew to Venice a few weeks later and was welcomed by my Italian family.<br />
 We worked in the beautiful [Basement studio](http://www.basementgroup.it) where I recorded all the piano parts played by [Andrea Manzoni](https://www.instagram.com/andreamanzoniofficial/). I will never forget the good food and inspiration of this dream team.
 
-First single is out!
+<iframe src="https://open.spotify.com/embed/album/0SFjLCLRbtMaVaMGuF0PUQ" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<iframe src="https://open.spotify.com/embed/track/7ou1NrCbgAcaAMUF1tKmdT" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/jYifnGo7mxg?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I made the bass for Tutte le poesie and additional sound design for Storia del mio corpo.
 
 Francesco about working together:
 <blockquote>

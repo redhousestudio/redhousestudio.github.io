@@ -1,10 +1,10 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/discography/jacco-wynia-cleansing/"
+permalink: "/discography/jacco-wynia-singles-2020/"
 
 project_name: "Cleansing"
-title:  "Jacco Wynia - Cleansing"
+title:  "Jacco Wynia - Singles 2020"
 role: "mixer"
 
 artist_name: "Jacco Wynia"
@@ -20,4 +20,13 @@ project_thumb_large_hover: project1913-thumb-large.png
 project_background_image: project1913-bg.png
 ---
 
+Jacco Wynia - Cleansing
 <iframe src="https://open.spotify.com/embed/track/6u1ymcw9MTK9mPGy8XdvEb" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+Jacco Wynia - Never ending stillness
+<iframe src="https://open.spotify.com/embed/track/4cIqEAO2oPTlxM8Ed7l9ni" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+Jacco Wynia - Tiptoeing
+<iframe src="https://open.spotify.com/embed/track/28nLvoHu6NbkHNPmoxR8uD" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
