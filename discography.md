@@ -41,6 +41,17 @@ slides:
   - filename: "picture_14.jpg"
   - filename: "studio foto1.jpg"
   - filename: "Marlies01.png"
+  - filename: "DSC07844.jpeg"
+  - filename: "IMG_9446.jpeg"
+  - filename: "IMG_3875.jpeg"
+  - filename: "IMG_3737.jpeg"
+  - filename: "metjosh.jpeg"
+  - filename: "IMG_2122.jpeg"
+  - filename: "andrea.jpeg"
+  - filename: "IMG_8766.jpeg"
+
+
+
 
 
 ---
