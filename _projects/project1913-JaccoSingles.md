@@ -1,10 +1,10 @@
 ---
 layout: project
 show_on_frontpage: false
-permalink: "/discography/jacco-wynia-singles-2020/"
+permalink: "/discography/jacco-wynia-singles/"
 
-project_name: "Cleansing"
-title:  "Jacco Wynia - Singles 2020"
+project_name: "Singles"
+title:  "Jacco Wynia - Singles"
 role: "mixer"
 
 artist_name: "Jacco Wynia"
