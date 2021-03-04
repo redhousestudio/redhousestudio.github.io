@@ -2,6 +2,7 @@
 layout: project
 show_on_frontpage: true
 permalink: "/discography/niklas-paschburg-oceanic/"
+other_projects_group: 20
 
 title:  "Niklas Paschburg - Oceanic"
 project_name: "Oceanic"

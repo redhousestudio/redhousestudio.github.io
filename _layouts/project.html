@@ -25,6 +25,7 @@ layout: default
         {{ content }}
         
         {% include custom_audio_player.html %}
+
         <br />
         Artist links:<br />
         {% if page.artist_website %}
@@ -49,7 +50,11 @@ layout: default
         <a href="{{ page.artist_instagram }}" class="artist-social" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i></a>
         {% endif %}
 
+      {% include otherprojects.html %}
+
       </div>
+
+
       {% include modal.html %}
 
     </div>
@@ -75,6 +80,10 @@ layout: default
   {% endif %}
   {% assign prev = links %}
 {% endfor %}
+
+
+
+
 </div>
 <div class="project-section-nav">
   <div class="container">

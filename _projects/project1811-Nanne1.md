@@ -2,6 +2,7 @@
 layout: project
 show_on_frontpage: false
 permalink: "/discography/praam-sentience/"
+other_projects_group: 50
 
 artist_name: "Praam"
 project_name: "Sentience"

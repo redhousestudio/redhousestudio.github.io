@@ -2,12 +2,13 @@
 layout: project
 show_on_frontpage: false
 permalink: "/discography/jacco-wynia-singles/"
+other_projects_group: 40
 
+artist_name: "Jacco Wynia"
 project_name: "Singles"
 title:  "Jacco Wynia - Singles"
 role: "mixer"
 
-artist_name: "Jacco Wynia"
 artist_website: "https://www.jaccowynia.com"
 artist_itunes: "https://music.apple.com/nl/album/cleansing-single/1511134899?l=en"
 artist_spotify: "https://open.spotify.com/track/6u1ymcw9MTK9mPGy8XdvEb?si=0zRkHyxwQamUHybgMOZPxg"

@@ -136,6 +136,13 @@ blockquote{
   margin-bottom: 20px;
   font-size: 28px;
 }
+
+
+.section-other-projects {
+  font-size: 18px;
+  font-family: '39473A_0_0';
+}
+
 /* ------------------------------- Add Pages ---------------------*/
 
 .addpage {

@@ -2,6 +2,7 @@
 layout: project
 show_on_frontpage: true
 permalink: "/discography/hania-rani-home/"
+other_projects_group: 30
 
 artist_name: "Hania Rani"
 project_name: "Home"

@@ -2,6 +2,7 @@
 layout: project
 show_on_frontpage: true
 permalink: "/discography/evelien-van-den-broek-endlings/"
+other_projects_group: 70
 
 title:  "Evelien van den Broek - Endlings"
 project_name: "Endlings"

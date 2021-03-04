@@ -2,6 +2,7 @@
 layout: project
 show_on_frontpage: false
 permalink: "/discography/guido-attesa/"
+other_projects_group: 60
 
 project_name: "Attesa"
 title:  "Guido - Attesa"

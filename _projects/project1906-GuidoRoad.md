@@ -2,6 +2,7 @@
 layout: project
 show_on_frontpage: false
 permalink: "/discography/guido-the-road-to-silence/"
+other_projects_group: 60
 
 title:  "Guido - The Road To Silence"
 project_name: "The Road To Silence"

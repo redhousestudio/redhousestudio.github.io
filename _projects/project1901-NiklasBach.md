@@ -2,12 +2,12 @@
 layout: project
 show_on_frontpage: false
 permalink: "/discography/niklas-paschburg-blooming/"
+other_projects_group: 20
 
 title:  "Niklas Paschburg - Blooming (in C-minor)"
 project_name: "Blooming"
 role: "producer, recording, sound&nbsp;designer, mixer"
 
-excerpt: 
 
 artist_name: "Niklas Paschburg"
 artist_website: "http://niklaspaschburg.com"

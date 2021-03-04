@@ -2,6 +2,7 @@
 layout: project
 show_on_frontpage: false
 permalink: "/discography/joep-beving-prelude/"
+other_projects_group: 10
 
 title:  "Joep Beving - Prelude"
 project_name: "Prelude"

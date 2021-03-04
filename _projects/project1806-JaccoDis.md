@@ -2,12 +2,13 @@
 layout: project
 show_on_frontpage: false
 permalink: "/discography/jacco-wynia-discomfort/"
-
-title:  "Jacco Wynia - Discomfort"
-project_name: "Discomfort"
-role: "producer, recording, mixer"
+other_projects_group: 40
 
 artist_name: "Jacco Wynia"
+project_name: "Discomfort"
+title:  "Jacco Wynia - Discomfort"
+role: "producer, recording, mixer"
+
 artist_website: "https://www.jaccowynia.com"
 artist_itunes: "https://music.apple.com/nl/album/discomfort/1450278559?l=en"
 artist_spotify: "https://open.spotify.com/album/2CUsrnd4ArrPXLrfT9PS0j?si=oiiCMu28TxenS3Mibc2GsQ"

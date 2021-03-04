@@ -2,6 +2,7 @@
 layout: project
 show_on_frontpage: false
 permalink: "/discography/hania-rani-esja/"
+other_projects_group: 30
 
 title:  "Hania Rani - Esja"
 project_name: "Esja"

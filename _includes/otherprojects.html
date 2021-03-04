@@ -1,0 +1,28 @@
+{% if page.other_projects_group %}
+
+    <div class="row">
+
+      <img src="/img/mengedred.ico" width="100%" height="2" alt=""/>
+      <p class="section-other-projects">Other projects with {{page.artist_name}}:</p>
+      {% for project in site.projects reversed %}
+      {% if project.other_projects_group == page.other_projects_group %}
+      {% if project.title != page.title %}
+      <div class="col-sm-6 col-xs-6 py-5 my-5 home-section-discography-project ">
+          <a href="{{ project.url }}" class="project-button">
+          <div class="project-box">
+            <div class="project-box-thumb-large">
+              <img src="/img/{{ project.project_thumb_large }}" alt="">
+              <img src="/img/{{ project.project_thumb_large_hover }}" class="project-box-thumb-large-hover" alt="">
+            </div>
+            <p>&nbsp;<br />
+            {{project.title}}</p>
+            <p class="project-box-role">{{project.role}}</p>
+          </div>
+        </a>
+      </div>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div>
+
+{% endif %}
