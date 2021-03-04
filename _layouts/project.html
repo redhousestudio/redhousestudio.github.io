@@ -27,9 +27,9 @@ layout: default
         {% include custom_audio_player.html %}
 
         <br />
-        Artist links:<br />
+        {{ page.artist_name }} links:<br />
         {% if page.artist_website %}
-        <a href="{{ page.artist_website }}" class="artist-website" target="_blank"> {{ page.artist_name }} Website </a>
+        <a href="{{ page.artist_website }}" class="artist-website" target="_blank">Website</a>
         {% endif %}
         {% if page.artist_itunes %}
         <a href="{{ page.artist_itunes }}" class="artist-social" target="_blank"> <i class="fa fa-apple" aria-hidden="true"></i></a>
