@@ -541,6 +541,38 @@ blockquote{
   color: #2F2D2D
 }
 
+
+/* === oTHER */
+
+.project-other-box {
+  padding: 6px;
+  background-color: rgba(228, 227, 227, 0.25);
+  width: 100%;
+  max-width: 180px;
+  height: 250px;
+  border-radius: 0px;
+  margin: 15px auto;
+  position: relative;
+  font-size: 14px;
+  border: solid 1px transparent;
+  text-align: center;
+  font-family: '39473A_0_0';
+}
+
+.project-other-box img {
+  width: 100%;
+  max-width: 100%;
+}
+.project-other-box:hover{
+  background-color: rgba(228, 227, 227, 0.85);
+  border: 1px solid #D42005;
+  text-decoration: none;
+  color: #2F2D2D
+}
+
+
+/* === */
+
 .project-box-role {
   color: #D2220E;
   font-size: 14px;
@@ -626,6 +658,7 @@ a.project-button {
   position: relative;
   display: inline-block;
 }
+
 .project-box-thumb-large-hover {
   display: none;
   position: absolute;
@@ -633,6 +666,7 @@ a.project-button {
   left: 0;
   z-index: 99;
 }
+
 .project-box:hover .project-box-thumb-large-hover {
   display: inline;
 }

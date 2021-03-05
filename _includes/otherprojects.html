@@ -8,14 +8,12 @@
       {% if project.title != page.title %}
       <div class="col-sm-6 col-xs-6 py-5 my-5 home-section-discography-project ">
           <a href="{{ project.url }}" class="project-button">
-          <div class="project-box">
-            <div class="project-box-thumb-large">
+          <div class="project-other-box">
+            <div>
               <img src="/img/{{ project.project_thumb_large }}" alt="">
-              <img src="/img/{{ project.project_thumb_large_hover }}" class="project-box-thumb-large-hover" alt="">
             </div>
             <p>&nbsp;<br />
-            {{ project.title }}</p>
-            <p class="project-box-role">{{ project.role }}</p>
+            {{ project.project_name }}</p>
           </div>
         </a>
       </div>
