@@ -5,7 +5,7 @@ permalink: "/discography/hania-rani-warszawa/"
 other_projects_group: 30
 
 title:  "Hania Rani - Warszawa"
-project_name: "Esja"
+project_name: "Warszawa"
 role: "mixer, mastering"
 
 artist_name: "Hania Rani"
