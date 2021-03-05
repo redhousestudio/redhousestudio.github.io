@@ -5,7 +5,7 @@ permalink: "/discography/joep-beving-prehension/"
 other_projects_group: 10
 
 title:  "Joep Beving - Prehension 🏆"
-project_name: "Prehension"
+project_name: "Prehension 🏆"
 role: "producer, recording, mixer"
 
 artist_name: "Joep Beving"

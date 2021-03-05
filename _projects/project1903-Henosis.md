@@ -5,7 +5,7 @@ permalink: "/discography/joep-beving-henosis/"
 other_projects_group: 10
 
 title:  "Joep Beving - Henosis 🏆"
-project_name: "Henosis"
+project_name: "Henosis 🏆"
 role: "producer, sound&nbsp;designer, recording, mixer"
 
 excerpt: "Album of Joep Beving that is the closing chapter of of the trilogy that we created together. It was a great project with great people. Recording and mixing more than 500 tracks (in different tunings) into 2. Creating a sonic journey of almost 2 hours of shapes and Joeps stories, blending acoustics and electronics, classical and the present moment."
