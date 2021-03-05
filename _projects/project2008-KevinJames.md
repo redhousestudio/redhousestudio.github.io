@@ -6,7 +6,7 @@ permalink: "/discography/kevin-james-wild-free-spirit/"
 artist_name: "Kevin James"
 project_name: "Wild Free Spirit"
 title:  "Kevin James - Wild Free Spirit"
-role: "producer, recording, mixer"
+role: "producer, recording, mixer, mastering"
 
 artist_website: "https://kevinjamesmusic.com"
 artist_itunes: "https://music.apple.com/us/album/wild-free-spirit/1549750027"
@@ -14,16 +14,12 @@ artist_spotify: "https://open.spotify.com/album/758Jg8Mjp8mPU05hhOBkuj?si=Dw3y4Q
 artist_facebook: "https://www.facebook.com/kevinjamesheartsongs/"
 artist_instagram: "https://www.instagram.com/kevinjamescarroll/"
 
-project_thumb_small: project1908-KevinJames-thumb-small.png
-project_thumb_large: project1908-KevinJames-thumb-large.png
-project_thumb_large_hover: project1908-KevinJames-thumb-large.png
+project_thumb_small: project2008-KevinJames-thumb-small.png
+project_thumb_large: project2008-KevinJames-thumb-large.png
+project_thumb_large_hover: project2008-KevinJames-thumb-large.png
 
-project_background_image: project1908-KevinJames-bg.png
-project_thumbnails:
-  - img: project1908-KevinJames-image01-thumb.png
-  - img: project1908-KevinJames-image02-thumb.png
-  - img: project1908-KevinJames-image03-thumb.png
-  - img: project1908-KevinJames-image04-thumb.png
+project_background_image: project2008-KevinJames-bg.png
+
 ---
 
 
