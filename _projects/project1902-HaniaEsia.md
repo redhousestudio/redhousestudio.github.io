@@ -36,8 +36,6 @@ Polish artist, pianist, composer and musician Hania Rani is making waves in Pola
 
 Esja, a beguiling collection of solo piano pieces on Gondwana Records was released to international acclaim on April 5th 2019 including nominations in 5 categories in the Polish music industries very own Grammys, the Fryderyki, and winning the Discovery of the Year 2019 in the Empik chain's Bestseller Awards and the prestigious Sanki award for the most interesting new face of Polish music chosen by Polish journalists.
 
-Other projects with Hania: [mixing of her album Home](../hania-rani-home/).
-
 ---
 
 [Everything Is Noise](https://everythingisnoise.net/reviews/hania-rani-esja/)

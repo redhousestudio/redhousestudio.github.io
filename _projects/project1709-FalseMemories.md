@@ -33,11 +33,9 @@ She toured the theaters with an electronic ensemble playing avant-popsongs about
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/fZX1TvUH9nk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-Listen / Buy the album <a href="https://evelienvandenbroek.bandcamp.com/album/false-memories" target="blank">here</a>.
 
+<iframe style="border: 0; width: 100%; height: 850px;" src="https://bandcamp.com/EmbeddedPlayer/album=3086864903/size=large/bgcol=ffffff/linkcol=de270f/transparent=true/" seamless><a href="http://evelienvandenbroek.bandcamp.com/album/false-memories">False Memories by Evelien van den Broek</a></iframe>
 
-
-<iframe src="https://open.spotify.com/embed/album/0rxoFQA54Fxuwbf6lMBfKd" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 All songs composed, arranged, and produced by Evelien van den Broek.
 

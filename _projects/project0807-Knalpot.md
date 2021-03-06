@@ -32,7 +32,7 @@ All compositions for the first album of impro-musicians Gerri Jaeger and Raphael
 During pre- production we discussed the sound and I studied their performances. We wanted to capture the fun and raw energy of their live shows and translated this energy into the recordings. We kicked ass, “pom pom”, had lots of fun.<br />
 A great project to have worked on because I like strong ideas and personalities and their music is something really unique.
 
-<iframe style="border: 0; width: 100%; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=3252295011/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://knalpot.bandcamp.com/album/serious-outtakes" >Serious Outtakes by Knalpot</a></iframe>
+<iframe style="border: 0; width: 100%; height: 850px;" src="https://bandcamp.com/EmbeddedPlayer/album=3252295011/size=large/bgcol=ffffff/linkcol=de270f/minimal=true/transparent=true/" seamless><a href="http://knalpot.bandcamp.com/album/serious-outtakes" >Serious Outtakes by Knalpot</a></iframe>
 
 ---
 

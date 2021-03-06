@@ -13,6 +13,7 @@ artist_website: "https://www.jaccowynia.com"
 artist_itunes: "https://music.apple.com/nl/album/discomfort/1450278559?l=en"
 artist_spotify: "https://open.spotify.com/album/2CUsrnd4ArrPXLrfT9PS0j?si=oiiCMu28TxenS3Mibc2GsQ"
 artist_facebook: "https://www.facebook.com/JaccoWynia/"
+artist_instagram: "https://www.instagram.com/jaccowynia/"
 
 project_thumb_small: project1806-thumb-small.png
 project_thumb_large: project1806-thumb-large.png
@@ -26,8 +27,7 @@ In the writing process Jacco has been inspired by people who are close to him an
 
 I helped Jacco with the performances during pre-production and we decided to record the piano in his studio.
 
-![Jacco Wynia - Discomfort](../../img/project1806-image01.png)
-
-<iframe src="https://open.spotify.com/embed/album/2CUsrnd4ArrPXLrfT9PS0j" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border: 0; width: 100%; height: 850px;" src="https://bandcamp.com/EmbeddedPlayer/album= 100982364/size=large/bgcol=ffffff/linkcol=de270f/transparent=true/" seamless><a href="https://jaccowynia.bandcamp.com/album/discomfort">Discomfort by Jacco Wynia</a></iframe>
 
 ---
+

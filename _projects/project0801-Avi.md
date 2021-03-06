@@ -27,6 +27,6 @@ project_thumbnails:
 
 When multi-instrumentalist Avi Adir came to me, he had lots of ideas and instruments to play, but no clear vision of what his album should be. He didn’t have much experience and did not know how to bring his worldly sounds into a cohesive album. Together we created an imaginary travel map — yes, on a sheet of paper — and that gave him the possibility to compose and perform the different ideas and instruments, like traveling to different places. It was a wonderful journey recording the intense performances of Avi.
 
-<iframe style="border: 0; width: 100%; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=1604714139/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://aviadir.bandcamp.com/album/boomerang-dream">Boomerang Dream by Avi Adir</a></iframe>
+<iframe style="border: 0; width: 100%; height: 850px;" src="https://bandcamp.com/EmbeddedPlayer/album=1604714139/size=large/bgcol=ffffff/linkcol=de270f/minimal=true/transparent=true/" seamless><a href="http://aviadir.bandcamp.com/album/boomerang-dream">Boomerang Dream by Avi Adir</a></iframe>
 
 ---

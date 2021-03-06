@@ -31,7 +31,7 @@ Using field recordings of extinct or endangered animals gathered from sound libr
 With music that navigates between electronica and pop, sound art and contemporary classical music. The album contains the music of the Biophonica live show about extinction, which premiered in November 2019. 
 
 
-<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3916615716/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://evelienvandenbroek.bandcamp.com/album/endlings">Endlings by Evelien van den Broek</a></iframe>
+<iframe style="border: 0; width: 100%; height: 850px;" src="https://bandcamp.com/EmbeddedPlayer/album=3916615716/size=large/bgcol=ffffff/linkcol=de270f/transparent=true/" seamless><a href="http://evelienvandenbroek.bandcamp.com/album/endlings">Endlings by Evelien van den Broek</a></iframe>
 
 
 Listen / Buy the album <a href="https://evelienvandenbroek.bandcamp.com/album/endlings" target="blank">here</a>.

@@ -13,6 +13,7 @@ artist_website: "https://www.jaccowynia.com"
 artist_itunes: "https://music.apple.com/nl/album/cleansing-single/1511134899?l=en"
 artist_spotify: "https://open.spotify.com/track/6u1ymcw9MTK9mPGy8XdvEb?si=0zRkHyxwQamUHybgMOZPxg"
 artist_facebook: "https://www.facebook.com/JaccoWynia/"
+artist_instagram: "https://www.instagram.com/jaccowynia/"
 
 project_thumb_small: project1913-thumb-small.png
 project_thumb_large: project1913-thumb-large.png
