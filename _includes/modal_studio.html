@@ -1,0 +1,18 @@
+<div class="col-sm-6">
+  <div class="studio-items-wrapper">
+    <div class="row">
+      {% for item in page.project_thumbnails %}
+      <div class="col-sm-4 col-xs-4 studio-item">
+        <img src="/img/{{ item.img }}" alt="{{ item.project_name }}">
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- Studio Item Modal -->
+<div id="studio-modal" class="modal" tabindex="-1">
+  <span class="close" data-dismiss="modal">&times;</span>
+  <img class="modal-content" id="studio-item-img" src="">
+  <div id="studio-item-caption"></div>
+</div>
