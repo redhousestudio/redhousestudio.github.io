@@ -7,7 +7,7 @@ other_projects_group: 40
 artist_name: "Jacco Wynia"
 project_name: "Singles"
 title:  "Jacco Wynia - Singles"
-role: "mixer"
+role: "mixer, mastering"
 
 artist_website: "https://www.jaccowynia.com"
 artist_itunes: "https://music.apple.com/nl/album/cleansing-single/1511134899?l=en"
@@ -32,3 +32,6 @@ Jacco Wynia - Never ending stillness
 
 Jacco Wynia - Tiptoeing
 <iframe src="https://open.spotify.com/embed/track/28nLvoHu6NbkHNPmoxR8uD" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+---
+

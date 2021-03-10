@@ -39,6 +39,8 @@ The second single is F Major with another [beautiful video](https://www.youtube.
 
 Listen to the album in your favorite player [here](https://lnk.to/haniaranihome).
 
+---
+
 
 [The Guardian](https://www.theguardian.com/music/2020/may/15/witch-n-monk-witch-n-monk-review):
 >"sounding like a young Kate Bush.."
@@ -55,3 +57,6 @@ What I appreciate is that I actually also learnt a lot about producing, mixing, 
 <p>I was very happy with the result of the mixing of my first album "<a href="../hania-rani-esja/" class="normal" target="" >Esja</a>", it sounded great both on digital version and vinyl and managed to bring my ideas in an accessible way. It was an obvious decision for me to work once again together on my second album "Home", way more complex than the first, minimalistic one.<br />
 I hope we have still some records ahead of us!</p>
 </blockquote>
+
+---
+

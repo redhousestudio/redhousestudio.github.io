@@ -42,3 +42,6 @@ I made the bass for Tutte le poesie and additional sound design for Storia del m
 Francesco about working together:
 <blockquote>
 <p>Working with Gijs was such a perfect artistic and human experience: the guy has both the competence and the musical sensibility required to make your record come to life. And it was so much fun! And, most importantly, the record sounds awesome.</p>
+
+---
+

@@ -7,7 +7,7 @@ other_projects_group: 40
 artist_name: "Jacco Wynia"
 project_name: "Climate Changes"
 title:  "Jacco Wynia - Climate Changes"
-role: "mixer"
+role: "mixer, mastering"
 
 artist_website: "https://www.jaccowynia.com"
 artist_itunes: "https://music.apple.com/nl/album/climate-changes-single/1484316625?l=en"
