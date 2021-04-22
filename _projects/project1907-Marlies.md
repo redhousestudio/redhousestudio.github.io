@@ -1,6 +1,6 @@
 ---
 layout: project
-show_on_frontpage: false
+show_on_frontpage: true
 permalink: "/discography/marlies-du-mosch-tale-of-a-city/"
 
 artist_name: "Marlies du Mosch"
@@ -29,17 +29,7 @@ project_thumbnails:
 
 Marlies is a "classical-meets-minimal" composer/piannist and working with her was a wonderful experience. She crowdfunded the making of her first solo album. The composition of Marlies create a new world of her own, mingling space and thoughts of your mind with her musical patterns.
 
-The first singles of the new album finally out now! 
 
-
-<iframe src="https://open.spotify.com/embed/track/7JfwQkdCVqEy6Ktb2GnyXK" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://open.spotify.com/embed/track/7ssjuy0YBsnD23FLGkZVej" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://open.spotify.com/embed/track/0oiItLsRwpDNiqB5Yek4Qs" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://open.spotify.com/embed/track/5OxyHotdy7y789r3UQcHAB" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://open.spotify.com/embed/track/13SBuUaDElB4vowkW6nQxk" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/1TaVqHdSDXsdUQ7BBF99YV" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---

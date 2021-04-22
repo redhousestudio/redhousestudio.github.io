@@ -35,5 +35,11 @@ I helped Jacco shaping the ultimate performances during pre-production and we de
 
 <iframe style="border: 0; width: 100%; height: 850px;" src="https://bandcamp.com/EmbeddedPlayer/album= 100982364/size=large/bgcol=ffffff/linkcol=de270f/transparent=true/" seamless><a href="https://jaccowynia.bandcamp.com/album/discomfort">Discomfort by Jacco Wynia</a></iframe>
 
+
+Jacco about working together:
+<blockquote>
+<p>I can tell you:  Gijs van Klooster did an amazing job coaching, recording and mixing.<br />It is very inspiring to work with him, he helped me ánd my music grow. Big Thanks 🙏</p>
+</blockquote>
+
 ---
 
