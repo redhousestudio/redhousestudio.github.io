@@ -484,6 +484,10 @@ blockquote{
     display: none;
   }
 
+  .zenquote {
+  font-size: 12px;
+  }
+
 }
 
 /* ------------------------------- Discography ---------------------*/
@@ -570,6 +574,24 @@ blockquote{
   color: #2F2D2D
 }
 
+/* ------------------------------- Project Box Hover Effect --------------------- */
+.project-box-thumb-large {
+  width: 100%;
+  position: relative;
+  display: inline-block;
+}
+
+.project-box-thumb-large-hover {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+
+.project-box:hover .project-box-thumb-large-hover {
+  display: inline;
+}
 
 /* === */
 
@@ -595,6 +617,19 @@ a.project-button {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+
+.zenquote {
+  font-family: 'Lora', cursive;
+  color: #C12F0C;
+  line-height: 1.4;
+  font-weight: bold;
+  font-size: 22px;
+  text-align: center;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
 
 .paginate{
   width: 70px;
@@ -652,21 +687,4 @@ a.project-button {
 }
 
 
-/* ------------------------------- Project Box Hover Effect --------------------- */
-.project-box-thumb-large {
-  width: 100%;
-  position: relative;
-  display: inline-block;
-}
 
-.project-box-thumb-large-hover {
-  display: none;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 99;
-}
-
-.project-box:hover .project-box-thumb-large-hover {
-  display: inline;
-}
