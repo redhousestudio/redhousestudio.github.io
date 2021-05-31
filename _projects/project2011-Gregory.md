@@ -12,11 +12,11 @@ artist_website: "https://www.holyvolcano.com/artists"
 artist_spotify: "https://open.spotify.com/artist/515QjHdYuJBYXQcVHruoz4?si=Xp5YxyiARJ--OqPLERua_w"
 artist_instagram: "https://www.instagram.com/gregallisonmusic/"
 
-project_thumb_small: projectproject2011-thumb-small.png
-project_thumb_large: projectproject2011-thumb-large.png
-project_thumb_large_hover: projectproject2011-thumb-large.png
+project_thumb_small: project2011-thumb-small.png
+project_thumb_large: project2011-thumb-large.png
+project_thumb_large_hover: project2011-thumb-large.png
 
-project_background_image: projectproject2011-bg.png
+project_background_image: project2011-bg.png
 
 ---
 
