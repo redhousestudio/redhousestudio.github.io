@@ -57,9 +57,7 @@ slides:
   - filename: "IMG_2122.jpeg"
   - filename: "andrea.jpeg"
   - filename: "IMG_8766.jpeg"
-
-
-
+  - filename: "instmpd.jpeg"
 
 
 ---
