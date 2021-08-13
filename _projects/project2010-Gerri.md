@@ -2,6 +2,7 @@
 layout: project
 show_on_frontpage: false
 permalink: "/discography/gerri-jager-my-armflap/"
+other_projects_group: 80
 
 artist_name: "Gerri Jäger"
 project_name: "My Armflap"

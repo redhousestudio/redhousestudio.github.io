@@ -2,6 +2,7 @@
 layout: project
 show_on_frontpage: false
 permalink: "/discography/knalpot-serious-outtakes/"
+other_projects_group: 80
 
 title:  "Knalpot - Serious Outtakes"
 project_name: "Serious Outtakes"
