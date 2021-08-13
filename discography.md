@@ -18,7 +18,7 @@ slides:
   - filename: "am-pic01.gif"
   - filename: "DSCF2774.JPG"
   - filename: "IMG_1959.jpeg"
-  - filename: "IMG_5783.jpeg"
+  - filename: "qIsBlaXjlS6iIeR2.jpeg"
   - filename: "IMG_8274.jpeg"
   - filename: "IMG_8773.jpeg"
   - filename: "s7300754.jpg"
