@@ -32,6 +32,7 @@ about_text: >
 studio_section_text: >
   <p>My RedHouse studio is a 'performance studio'. It’s an intimate place, where musical ideas can be captured without the flow being interrupted. Everybody is together in the same room, working on the same thing.</p>
   <p>And yes: I do have Phase-Linear-Monitoring, and a fancy Millennia pre-amp too. Plus: loads of  instruments and other musical toys available to play around with. I envisioned that a recording artist needs a place that sounds good, where they feel comfortable, and a guy that knows how to work all the buttons and faders.</p>
+  <p><strong><a href="#ContactGijs" class="red-link">Contact me</a></strong> if you want to make tracks together or need help with recordings.</p>
   <p>Based in Amsterdam, the Netherlands.</p>
 
 
