@@ -303,6 +303,59 @@ blockquote{
 .site-social-media a {
   margin: 10px;
 }
+
+
+
+/* --- */
+
+.rating-slider-section .slider-title .title-img {
+  margin-top: -2px;
+  vertical-align: top;
+}
+
+.rating-slider-section .slider {
+  margin: 50px auto;
+  max-width: 950px;
+  width: 100%;
+}
+
+.rating-slider-section .slick-slide {
+  margin: 0px 20px;
+}
+
+.rating-slider-section .slick-prev::before {
+  background-image: url(/images/prev-arrow.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  content: '';
+  display: inline-block;
+  height: 17px;
+  width: 10px;
+}
+
+.rating-slider-section .slick-next::before {
+  background-image: url(/images/next-arrow.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  content: '';
+  display: inline-block;
+  height: 17px;
+  width: 10px;
+}
+
+.rating-slider-section .slider .country-name {
+  color: #b3b8b2;
+  font-size: 14px;
+}
+
+.rating-slider-section .slider h4 {
+  color: #4c4c4c;
+  font-size: 16px;
+}
+
+/* --- */
+
+
 .project-section-main {
   background-size: cover;
   background-position: center;
