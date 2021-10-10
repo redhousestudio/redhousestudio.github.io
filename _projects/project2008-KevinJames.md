@@ -1,6 +1,6 @@
 ---
 layout: project
-show_on_frontpage: true
+show_on_frontpage: false
 permalink: "/discography/kevin-james-wild-free-spirit/"
 
 artist_name: "Kevin James"
