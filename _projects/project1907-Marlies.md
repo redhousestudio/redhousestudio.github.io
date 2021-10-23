@@ -27,7 +27,12 @@ project_thumbnails:
   - img: project1907-image05-thumb.png
 ---
 
-Marlies is a "classical-meets-minimal" composer/piannist and working with her was a wonderful experience. She crowdfunded the making of her first solo album. The composition of Marlies create a new world of her own, mingling space and thoughts of your mind with her musical patterns.
+Marlies is a "classical-meets-minimal" composer and pianist that has worked on various projects. She composed for theater and cabaret and performed her music together with the [Metropole Orchestra](https://www.mo.nl/) and [Andre Heuvelman](https://marliesdumosch.com/enchantement/).
+
+She [crowdfunded](https://www.voordekunst.nl/projecten/8502-marlies-du-mosch-tale-of-a-city-1) the making of her first solo album. Fourteen compositions inspired by the silence that you can sometimes find in the middle of the bustle of a big city.
+The composition of Marlies create a new world, mingling space and thoughts of your mind with her unique musical patterns.
+
+Together we carefully prepared the recordings by practicing the performances in great detail. We created a strong bond that lasts till this day. Recorded on the Steinway grand piano in the beautiful [Wisseloord Studio 1](https://www.wisseloord.org/studios/studio-1/) Marlies proved to be a one take wonder.
 
 
 <iframe src="https://open.spotify.com/embed/album/1TaVqHdSDXsdUQ7BBF99YV" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

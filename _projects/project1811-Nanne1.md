@@ -23,6 +23,9 @@ project_background_image: project1811-bg.png
 
 ---
 
+Nanne Praamstra has a dream. And he is doing everything needed to make it come true. As a professional drummer he decided to make neo classical music and wants to become one of the greatest. It formed the basis of a long lasting collaboration. I admire his determination to get better at everything. We practiced the compositions together and recorded his first album in the [Arnold Muhren studios](https://www.studioarnoldmuhren.nl).
+
+
 <iframe src="https://open.spotify.com/embed/album/2bvrFJLVuXVZQFtOltp9IQ" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
