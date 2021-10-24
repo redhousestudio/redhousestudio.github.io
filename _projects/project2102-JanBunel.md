@@ -13,11 +13,11 @@ artist_spotify: "https://open.spotify.com/artist/43nGYUDNoXAdaOc7sOI7SJ?si=OnMrh
 artist_facebook: "https://www.facebook.com/Jean-Lucas-103459218542854"
 artist_instagram: "https://www.instagram.com/jeanlucasmusic/"
 
-project_thumb_small: project?-thumb-small.png
-project_thumb_large: project?-thumb-large.png
-project_thumb_large_hover: project?-thumb-large.png
+project_thumb_small: project2102-thumb-small.png
+project_thumb_large: project2102-thumb-large.png
+project_thumb_large_hover: project2102-thumb-large.png
 
-project_background_image: project?-bg.png
+project_background_image: project2102-bg.png
 project_thumbnails:
   - img: project?-image01-thumb.png
   - img: project?-image02-thumb.png
@@ -26,7 +26,7 @@ project_thumbnails:
 ---
 
 Jan Bunel is a young rising piano player from the Netherlands. 
-He has been writing neoclassical piano pieces for a number of years and took a deep dive to carefully record all his ideas. Recorded in my studio on a beautiful Perzina piano that we could use from Bol Pianos.
+He has been writing neoclassical piano pieces for a number of years and took a deep dive to carefully record all his ideas. Recorded in my studio on a beautiful Perzina piano that we could use from [Bol Pianos](https://bolpianos.nl).
 
 And succesfully so; his first five singles have been streamed almost a million times over a period of five months. The full album will be released on November 5.
 
