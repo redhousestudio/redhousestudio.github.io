@@ -30,6 +30,6 @@ He has been writing neoclassical piano pieces for a number of years and took a d
 
 And succesfully so; his first five singles have been streamed almost a million times over a period of five months. The full album will be released on November 5.
 
-<iframe src="https://open.spotify.com/embed/album/2WdCqvrFMcBBVGbjgjgYhH" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/3N7hnolrbC0flUIPzjfnXi" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
