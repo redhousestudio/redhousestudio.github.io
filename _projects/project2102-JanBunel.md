@@ -1,6 +1,6 @@
 ---
 layout: project
-show_on_frontpage: false
+show_on_frontpage: true
 permalink: "/discography/jean-lucas-the-beauty-seems-close-but-is-so-far-away/"
 
 artist_name: "Jean Lucas"
@@ -19,7 +19,7 @@ project_thumb_large_hover: project2102-thumb-large.png
 
 project_background_image: project2102-bg.png
 project_thumbnails:
-  - img: project?-image01-thumb.png
+  - img: project2102-image01-thumb.png
   - img: project?-image02-thumb.png
   - img: project?-image03-thumb.png
   - img: project?-image04-thumb.png
