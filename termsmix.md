@@ -23,18 +23,17 @@ First some technical details about the files you will send me.
 - Audio Formats: 24 bits, 44.1 or 48 kHz is perfect, but anything will do.
 - All files must start from the same moment in time at the beginning of the song where there is no sound of any of the sources.
 - All files should have clear and consistent naming: source, instrument, mic position, or what they sound like. Not "Audio 1", "Input 6", "SYNTH-4-87\_R\_25- 24b", etc. please.
-- For mono sources please don't send a stereo file.
 - Provide all sound sources separately, no sub-mixes unless specified and to create an audible example.
-- Bounce all the tracks with all faders (including master) on 0 dB without (volume or other) automation and without audio processing.
+- Bounce all the tracks with all faders (including master) on 0 dB without volume (or other) automation and without audio processing.
 - If there is any volume automation and/or audio processing you think is important, add a version with the automation and/or processing.
-- If you have already created a mixed version you really like (the rough mix) please include this and explain what you like about it. Can be any kind of format: mp3, wav etc. 
+- If you have already created a mixed version you really like (the rough mix) please include this and tell me what you like about it. Can be any kind of format: mp3, wav etc. 
 
 
 ##### <strong>Other files</strong>
 
 - Create a text file with the BPM (if played to a click) and other things I need to know that guided the performances.
-- Add pdf/text/doc files with all lyrics if your recording includes any singing and or spoken word. (optional)
-- If you have any pictures of the recording setup (placement of microphones) please add those. (optional)
+- Add pdf/text/doc files with all lyrics if your recording includes any singing and or spoken word.
+- If you have any pictures of the recording setup (placement of microphones) please add those.
 
 <p>&nbsp;</p>
 
