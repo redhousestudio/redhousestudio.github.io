@@ -1,9 +1,20 @@
 ---
-layout: terms
+layout: mixservice
 permalink: "../mixservice/" 
 
 title:  "Mix Service"
 role: "MAKING SONIC DREAMS COME TRUE"
+
+
+about_text: >
+  <p>&nbsp;</p>
+  <p class="mixservice-tagline-big">Mix Service</p>
+  <p align="center">On this page you will find some details to prepare for our session.</p>
+
+whatismixing: >
+  <p class="mixquote">Mixing is performing the perfect balance between all sounds and instruments to create a magical listening experience.</p>
+  <p class="mixquote">It should be uniquely suited to the music and help tell the story that was created with sounds.</p>
+
 ---
 
 # Mix Service
