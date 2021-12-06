@@ -47,7 +47,7 @@ timeline_mixing: >
 
 
 timeline_mastering: >
-  <p>I can do the mastering or we send the mix to a mastering studio of your choice. I can connect you to mastering engineers which I think are really good.<br />Normally I don’t master the tracks that I mixed. But there are many exceptions to that rule. We can discuss the best solution for you.<br />I like to be involved in the mastering of the mixes to make sure we reach an optimum end result.</p>
+  <p>Normally I don’t master the tracks that I mixed. But there are many exceptions to that rule. We can discuss the best solution for you.<br />I can do the mastering or we send the mix to a mastering studio of your choice. I can connect you to mastering engineers which I think are really good.<br />I like to be involved in the mastering of the mixes to make sure we reach an optimum end result.</p>
 
 
 
