@@ -27,9 +27,9 @@ slides:
 about_text: >
   <p>&nbsp;</p>
   <p class="mixservice-tagline-big">Mix Service</p>
-  <p>Hello, great that we’ll be working together, I love making sonic dreams come
-  true!</p>
+  <p>Hello, great that we’ll be working together, I love making sonic dreams come true!</p>
   <p>On this page you will find some technical details to prepare our session.</p>
+
 
 whatismixing: >
   <p class="mixquote">Mixing is performing the perfect balance between all sounds and instruments to create a magical listening experience.</p>
@@ -47,15 +47,16 @@ timeline_mixing: >
 
 
 timeline_mastering: >
-  <p>I can do the mastering or we send the mix to a mastering studio of your choice. I can connect you to mastering engineers which I think are really good.<br />Normally I don’t master the tracks that I mixed. But there are many exceptions to that rule. We can discuss the best solution here.<br />I like to be involved in the mastering of the mixes if possible, to make sure we reach an optimum end result.</p>
+  <p>I can do the mastering or we send the mix to a mastering studio of your choice. I can connect you to mastering engineers which I think are really good.<br />Normally I don’t master the tracks that I mixed. But there are many exceptions to that rule. We can discuss the best solution for you.<br />I like to be involved in the mastering of the mixes to make sure we reach an optimum end result.</p>
+
 
 
 
 boring_invoicing: >
-  <p>€ 500 (ex BTW/VAT) per day per track is the norm. This does not apply to solo intruments or small groups and may vary based on the complexity of the music and duration. I am willing to talk about other options per project. I will send you an invoice for 50% before I start and the other 50% when everybody is happy.<br /><br /></p>
+  <p>€ 500 (ex BTW/VAT) per day per track is the norm. This does not apply to solo intruments or small groups and may vary based on the budget and complexity of the music. I am willing to talk about other options per project. I will send you an invoice for 50% before I start and the other 50% when everybody is happy.<br /><br /></p>
 
 boring_sessionmedia: >
-  <p>The mixed and/or mastered audio files will be delivered in any format you want. The session files (Logic Pro, Audition etc.) used to create the mix and/or master will not be included unless we agreed otherwise.<br />Mixed stems for other purposes (e.g. remix) can be created no later than 90 days after session completion. There is an additional fee per track. For prices please contact me.<br /><br /></p>
+  <p>The mixed and/or mastered audio files will be delivered in any format you want. The session files (Logic Pro, Pro Tools, Audition etc.) used to create the mix and/or master will not be included unless we agreed otherwise.<br />Mixed stems for other purposes (e.g. remix) can be created no later than 90 days after session completion. For prices please contact me.<br /><br /></p>
 
 boring_accreditation: >
   <p>Taking into account the best practices in the music industry, you must ensure that the appropriate credits will be mentioned in all the label copy, artwork, print and social media related to the studio results reading substantially: “Mixed by Gijs van Klooster”.</p>
@@ -63,6 +64,7 @@ boring_accreditation: >
 
 boring_terms: >
   <p>The general <a href="../terms" class="normal" target="_blank" class="red-link">RedHouse Policies, Terms & Conditions</a> apply for the studio mix session.<br /><br /></p>
+
 
 ---
 
