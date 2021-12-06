@@ -79,7 +79,11 @@ iframe {
 }
 
 
-
+.mixservice-tagline-big {
+  font-family: '39473A_0_0';
+  color: #D42005;
+  font-size: 50px;
+}
 
 
 
@@ -222,10 +226,6 @@ blockquote{
 }
 
 .home-section-services {
-  background-image: url(/img/bg-home-section-services.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   min-height: 450px;
   padding: 80px 0;
   line-height: 1.5;
@@ -546,7 +546,7 @@ blockquote{
 /* ------------------------------- Discography ---------------------*/
 
 .discography-section-hero {
-  background-image: url(/img/bg-discography-section-2.png);
+  background-image: url(/img/bg-discography-section-1.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -571,6 +571,61 @@ blockquote{
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+
+
+/* ------------------------------- Mix Service ---------------------*/
+
+.mixservice-section-hero {
+  background-image: url(/img/bg-mixservice-top.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 0;
+  min-height: 514px;
+}
+
+
+.mixservice-section-quote {
+  padding: 80px 0;
+  background-image: url(/img/bg-mixservice-quote.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 314px;
+  text-align: center;
+}
+
+
+.mixservice-section-main {
+  padding: 80px 0;
+  background-image: url(/img/bg-mixservice-main.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.mixservice-section-timeline {
+  padding: 80px 0;
+  background-image: url(/img/bg-mixservice-main.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+
+.mixservice-header {
+  font-size: 30px;
+  font-family: '39473A_0_0';
+  text-align: left;
+  color: #D42005;
+}
+
+
+
+/* ------------------------------- Project boxes ---------------------*/
 
 .project-box {
   padding: 6px;
@@ -673,7 +728,19 @@ a.project-button {
 
 
 .zenquote {
-  font-family: 'Lora', cursive;
+  font-family: 'Lora'
+  color: #C12F0C;
+  line-height: 1.4;
+  font-weight: bold;
+  font-size: 22px;
+  text-align: center;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+
+.mixquote {
+  font-family: '39473A_0_0';
   color: #C12F0C;
   line-height: 1.4;
   font-weight: bold;

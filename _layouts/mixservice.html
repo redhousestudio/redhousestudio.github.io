@@ -15,23 +15,53 @@ layout: default
 </div>
 
 
+
+
+<div class="mixservice-section-timeline">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <p class="mixservice-header">Session Timeline<br /><br /></p>
+        <img src="/img/mix-timeline.png" width="80%" alt="mix-timeline"/>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 <div class="mixservice-section-main">
   <div class="container">
     <div class="row">
-      <div class="col-sm-4 col-xs-12 home-section-services-process ">
-        <div class="process-box">
-          <p><img src="/img/Icon_Mixer.png" width="130" height="65" alt=""/></p>
-        </div>
+      <div class="col-sm-12">
+        <p class="mixservice-header">Intake<br /><br /></p>
+        {{ page.timeline_intake }}
       </div>
-      <div class="col-sm-4 col-xs-12 home-section-services-process ">
-        <div class="process-box">
-          <p><img src="/img/Icon_Speaker.png" width="130" height="65" alt=""/></p>
-        </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="mixservice-section-main">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <p class="mixservice-header">Mixing<br /><br /></p>
+        {{ page.timeline_mixing }}
       </div>
-      <div class="col-sm-4 col-xs-12 home-section-services-process ">
-        <div class="process-box">
-          <p><img src="/img/Icon_Ear.png" width="130" height="65" alt=""/></p>
-        </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="mixservice-section-main">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <p class="mixservice-header">Mastering<br /><br /></p>
+        {{ page.timeline_mastering }}
       </div>
     </div>
   </div>
@@ -42,7 +72,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <p class="mixservice-tagline-big">Good sound is the<br />absence of bad sound</p>
+        <p class="zenquote">“Phaedrus felt that at the moment of pure Quality perception, or not even perception, at the moment of pure Quality there is no subject and there is no object. There is only a sense of Quality that produces a later awareness of subjects and objects. At the moment of pure Quality, subject and object are identical.”</p>
       </div>
     </div>
   </div>
@@ -53,21 +83,54 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <img src="/img/mix-timeline.png" width="838"alt="mix-timeline"/>
+        <p class="mixservice-header">Boring stuff<br /><br /></p>
+      </div>
+      <div class="col-sm-6">
+        <h3>Invoicing</h3>
+        {{ page.boring_invoicing }}
+        <h3>Session Media</h3>
+        {{ page.boring_sessionmedia }}
+      </div>
+      <div class="col-sm-6">
+        <h3>Accreditation</h3>
+        {{ page.boring_accreditation }}
+        <h3>Policies, Terms & Conditions</h3>
+        {{ page.boring_terms }}
       </div>
     </div>
   </div>
 </div>
 
 
+<div class="home-section-testimonials">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div id="discoSlider" class="carousel slide" data-ride="carousel" data-interval="8000">
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            {% for slide in page.slides %}
+            <div class="item">
+                <img src="/slides/{{ slide.filename }}" alt="{{ slide.filename }}" style="width:100%;">
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <div class="mixservice-section-main">
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
+        <p class="mixservice-header">Tech Specs<br /><br /></p>
         {{ content }}
       </div>
     </div>
   </div>
 </div>
+
 
