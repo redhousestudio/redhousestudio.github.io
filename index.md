@@ -53,7 +53,7 @@ services_section_text_left: >
 
 services_section_text_right: >
   <p>Delivering a musical listening experience that really expresses the artist’s inspiration, is what ultimately drives me. Making everything connect - from concept to final master - to build the musical story; performance, sound, processing, mix .. music.</p>
-  <p>If you want me involved in any or all phases of your music production process, <strong><a href="mailto:gijs@redhouse.nl" target="blank" class="red-link">send me an email</a>.</strong></p>
+  <p>If you want me involved in any or all phases of your music production process, <strong><a href="mailto:gijs@redhouse.nl" target="_blank" class="red-link">send me an email</a>.</strong></p>
 
 
 
