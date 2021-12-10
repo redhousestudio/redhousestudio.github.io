@@ -42,7 +42,7 @@ timeline_intake: >
 
 
 timeline_mixing: >
-  <p>I put the mixes on <a href="https://stacktune.com" class="normal" target="" class="red-link">StackTune</a> so you can hear the results in high resolution. It’s a great tool to compare different versions and you can comment on the time line (or a time region) for clear communication. Take a look at their home page to get an overview of the features. I can send you mix files if you want, but please be aware that old mixes on hard discs might cause harmful mistakes and this online solution tries to prevent that.</p>
+  <p>I put the mixes on <a href="https://stacktune.com" class="normal" target="_blank" class="red-link">StackTune</a> so you can hear the results in high resolution. It’s a great tool to compare different versions and you can comment on the time line (or a time region) for clear communication. Take a look at their home page to get an overview of the features. I can send you mix files if you want, but please be aware that old mixes on hard discs might cause harmful mistakes and this online solution tries to prevent that.</p>
   <p>It’s only done when you say it’s done. I will mix and tweak till everybody is happy. It is my absolute joy to help you get the best results from your recordings and I don’t mind to keep tweaking to make sure all details are taken care of. If feedback rounds take much more time than normal I will notify you in advance and we’ll think of a solution that works for both of us.</p>
 
 

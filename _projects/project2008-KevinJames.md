@@ -29,7 +29,7 @@ We talked and Kevin and I build a really special bond over a long distance since
 
 
 
-<iframe src="https://open.spotify.com/embed/album/758Jg8Mjp8mPU05hhOBkuj" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/758Jg8Mjp8mPU05hhOBkuj" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 This is the first video clip of the album:
