@@ -24,18 +24,22 @@ project_thumbnails:
   - img: project2107-image01-thumb.png
   - img: project2107-image02-thumb.png
   - img: project2107-image03-thumb.png
+  - img: project2107-image04-thumb.png
 
 ---
 
-Lavinia needs no introduction. She is one of the world greatest harp player and has won numerous prizes and her album "Metamorphosis / The Hours" (Philip Glass) was awarded Platinum Record.
+Lavinia needs no introduction. She is one of the world greatest harp player in the world and has won numerous prizes. Her album "Metamorphosis / The Hours" (Philip Glass) was awarded Platinum Record.
 
-I was honoured to create this special album with her. When she plays the harp it transforms the space and we went on a journey that led to this beautiful and personal album. For the first time she wanted to record her own compositions and we worked on the intimate performances together.
+When she plays the harp it transforms the space, it is truly amazing when you see her play. I wanted to capture that magic in the most intimate way. We went on a journey that led to this beautiful and personal album. For the first time she wanted to record her own compositions and we worked on the intimate performances together. I was honoured to create this special album with her.
 
 
-This is the first single, a beautiful song by Ólafur Arnalds.
+This is the first single, a beautiful song by [Ólafur Arnalds](https://olafurarnalds.com).
 
 
 <iframe src="https://open.spotify.com/embed/track/24Uwb9ZsMs7ZL19FHpotEY" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/wHnHDGkPcWo?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
