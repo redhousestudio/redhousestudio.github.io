@@ -1,11 +1,11 @@
 ---
 layout: project
 show_on_frontpage: true
-permalink: "/discography/lavinia-meijer-saman/"
+permalink: "/discography/lavinia-meijer-are-you-still-somewhere/"
 
 artist_name: "Lavinia Meijer"
-project_name: "Saman"
-title:  "Lavinia Meijer - Saman"
+project_name: "Are you still somewhere?"
+title:  "Lavinia Meijer - Are you still somewhere?"
 role: "producer, recording, mixer"
 
 artist_website: "https://www.laviniameijer.com"
@@ -41,5 +41,9 @@ This is the first single, a beautiful song by [Ólafur Arnalds](https://olafurar
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/wHnHDGkPcWo?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+This is the seconds single, a composition by Lavinia:
+
+<iframe src="https://open.spotify.com/embed/track/4FAkhCKU2PrCJzoVFKlTUW" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
