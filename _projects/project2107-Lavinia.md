@@ -25,6 +25,7 @@ project_thumbnails:
   - img: project2107-image02-thumb.png
   - img: project2107-image03-thumb.png
   - img: project2107-image04-thumb.png
+  - img: project2107-image05-thumb.png
 
 ---
 
