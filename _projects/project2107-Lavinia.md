@@ -36,14 +36,17 @@ When she plays the harp it transforms the space, it is truly amazing when you se
 This is the first single, a beautiful song by [Ólafur Arnalds](https://olafurarnalds.com).
 
 
-<iframe src="https://open.spotify.com/embed/track/24Uwb9ZsMs7ZL19FHpotEY" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/wHnHDGkPcWo?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 This is the seconds single, a composition by Lavinia:
 
 <iframe src="https://open.spotify.com/embed/track/4FAkhCKU2PrCJzoVFKlTUW" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+The third single, a composition by [Lambert](http://listentolambert.com):
+
+<iframe src="https://open.spotify.com/embed/track/5KNjJIB4jDHRZ7uMsWQIs9" width="100%" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 ---
