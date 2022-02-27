@@ -59,8 +59,9 @@ boring_sessionmedia: >
   <p>The mixed and/or mastered audio files will be delivered in any format you want. The session files (Logic Pro, Pro Tools, Audition etc.) used to create the mix and/or master will not be included unless we agreed otherwise.<br />Mixed stems for other purposes (e.g. remix) can be created no later than 90 days after session completion. For prices please contact me.<br /><br /></p>
 
 boring_accreditation: >
-  <p>Taking into account the best practices in the music industry, you must ensure that the appropriate credits will be mentioned in all the label copy, artwork, print and social media related to the studio results reading substantially: “Mixed by Gijs van Klooster”.</p>
-      <p>On Facebook use tag <a href="https://www.facebook.com/gijsvankloostermusic" class="normal" target="_blank" class="red-link">@gijsvankloostermusic</a>.<br />On Instagram use tag <a href="https://www.instagram.com/gijsvanklooster" class="normal" target="_blank" class="red-link">@gijsvanklooster</a><br />On Twitter use tag <a href="https://twitter.com/abcgijs" class="normal" target="_blank" class="red-link">@abcgijs</a><br />All others online credits should link to www.gijsvanklooster.com.<br /><br /></p>
+  <p>You must ensure that the appropriate credits will be mentioned in all the label copy, artwork, print and social media related to the studio results reading substantially: “Mixed by Gijs van Klooster”.</p>
+  <p>On Facebook use tag <a href="https://www.facebook.com/gijsvankloostermusic" class="normal" target="_blank" class="red-link">@gijsvankloostermusic</a>.<br />On Instagram use tag <a href="https://www.instagram.com/gijsvanklooster" class="normal" target="_blank" class="red-link">@gijsvanklooster</a><br />On Twitter use tag <a href="https://twitter.com/abcgijs" class="normal" target="_blank" class="red-link">@abcgijs</a><br />All others online credits should link to <a href="https://www.gijsvanklooster.com" class="normal" target="_blank" class="red-link">www.gijsvanklooster.com</a>.<br /><br /></p>
+  <p>All instances of negligence will be charged accordingly.</p>
 
 boring_terms: >
   <p>The general <a href="../terms" class="normal" target="_blank" class="red-link">RedHouse Policies, Terms & Conditions</a> apply for the studio mix session.<br /><br /></p>

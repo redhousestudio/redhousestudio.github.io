@@ -113,9 +113,10 @@ Client also agrees to indemnify RedHouse and its employees for any and all claim
 <a name="accreditation"></a>
 #### <strong>Accreditation</strong>
 
-Taking into account the best practices in the music industry, Client ensures that the appropriate credits will be mentioned in all the label copy, artwork, print and social media related to the studio results reading substantially:<br />"<em>Produced by Gijs van Klooster</em>" and/or<br />
+Client ensures that the appropriate credits will be mentioned in all the label copy, artwork, print and social media related to the studio results reading substantially:<br />"<em>Produced by Gijs van Klooster</em>" and/or<br />
 "<em>Recorded by Gijs van Klooster</em>" and/or<br />
-"<em>Sound design by Gijs van Klooster</em>" and/or<br />"<em>Mixed by Gijs van Klooster</em>".<br />For multiple mentions this can be abbreviated but this should not change the order.
+"<em>Sound design by Gijs van Klooster</em>" and/or<br />
+"<em>Mixed by Gijs van Klooster</em>".<br />For multiple mentions this can be abbreviated but this should not change the order.
 
 In case of production Client agrees to have Gijs van Klooster credited as a "producer" and shall give appropriate production credit on all releases, sync's or remixes and on all label copy, artwork, print and social media that embodies the music and/or studio results.
 
@@ -123,6 +124,8 @@ On Facebook use tag "<em>@gijsvankloostermusic</em>" - [link](https://www.facebo
 On Instagram use tag "<em>@gijsvanklooster</em>" - [link](https://www.instagram.com/gijsvanklooster).<br />
 On Twitter use tag "<em>@abcgijs</em>" - [link](https://twitter.com/abcgijs).<br />
 All others online credits should link to "<em>www.gijsvanklooster.com</em>" - [link](https://gijsvanklooster.com).
+
+All instances of negligence will be charged accordingly.
 
 
 
