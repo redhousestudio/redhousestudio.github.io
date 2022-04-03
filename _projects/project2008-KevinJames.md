@@ -23,9 +23,9 @@ project_background_image: project2008-KevinJames-bg.png
 ---
 
 
-I met Kevin after a concert on a festival that I happen to mix for him. I was touched by the way he captivated the audience with his good vibe mantra music and saw how people that would normally not sing or dance came alive and all started to sing and dance!
+I met Kevin after a concert on a festival. I was so touched by the way he captivated the audience with his good-vibe-mantra-music and saw how people come alive and all started to sing and dance!
 
-We talked and Kevin and I build a really special bond over a long distance since then. We never saw each other again in the same space but it didn't stop us to produce this beautiful album together. With all the available technology I feel there are no borders for what I do. I added programming and recorded some drum and bass parts in my studio.
+We build a really special bond over a long distance since then. We never saw each other again in the same space but it didn't stop us to produce this beautiful album together. With all the available technology I feel there are no borders for what I do. I added programming and recorded some drum and bass parts in my studio.
 
 
 

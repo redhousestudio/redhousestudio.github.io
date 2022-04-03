@@ -29,9 +29,7 @@ project_thumbnails:
 
 ---
 
-Lavinia is one of the world greatest harp player in the world and has won numerous prizes. Her album "Metamorphosis / The Hours" (Philip Glass) was awarded Platinum Record. I was honoured to create this special album with her.
-
-When she plays the harp it transforms the space, it is truly amazing when you see her play. I wanted to capture that magic in the most intimate way. We went on a journey that led to this beautiful and personal album. For the first time she wanted to record her own compositions and we worked on the intimate performances together. 
+Lavinia is one of the most dedicated muscicians I have ever worked with. When she plays the harp it transforms the space, it is truly amazing when you see her play. I wanted to capture that magic in the most intimate way. We went on a journey that led to this beautiful and personal album. For the first time she wanted to record her own compositions and we worked on the intimate performances together. 
 
 Recorded in the [STMPD studio 4](https://www.stmpdstudios.com/studio/studio-4-1/), produced and mixed in my RedHouse. Mastered by the great [Zino Mikorey](https://www.zinomikorey.com).
 
