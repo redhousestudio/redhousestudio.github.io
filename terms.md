@@ -120,7 +120,7 @@ Client ensures that the appropriate credits will be mentioned in all the label c
 
 In case of production Client agrees to have Gijs van Klooster credited as a "producer" and shall give appropriate production credit on all releases, sync's or remixes and on all label copy, artwork, print and social media that embodies the music and/or studio results.
 
-On Facebook use tag "<em>@gijsvankloostermusic</em>" - [link](https://www.facebook.com/gijsvankloostermusic).<br />
+On Facebook use tag "<em>@gijsvanklooster</em>" - [link](https://www.facebook.com/gijsvanklooster).<br />
 On Instagram use tag "<em>@gijsvanklooster</em>" - [link](https://www.instagram.com/gijsvanklooster).<br />
 On Twitter use tag "<em>@abcgijs</em>" - [link](https://twitter.com/abcgijs).<br />
 All others online credits should link to "<em>www.gijsvanklooster.com</em>" - [link](https://gijsvanklooster.com).

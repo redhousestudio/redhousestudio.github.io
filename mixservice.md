@@ -60,7 +60,7 @@ boring_sessionmedia: >
 
 boring_accreditation: >
   <p>You must ensure that the appropriate credits will be mentioned in all the label copy, artwork, print and social media related to the studio results reading substantially: “Mixed by Gijs van Klooster”.</p>
-  <p>On Facebook use tag <a href="https://www.facebook.com/gijsvankloostermusic" class="normal" target="_blank" class="red-link">@gijsvankloostermusic</a>.<br />On Instagram use tag <a href="https://www.instagram.com/gijsvanklooster" class="normal" target="_blank" class="red-link">@gijsvanklooster</a><br />On Twitter use tag <a href="https://twitter.com/abcgijs" class="normal" target="_blank" class="red-link">@abcgijs</a><br />All others online credits should link to <a href="https://www.gijsvanklooster.com" class="normal" target="_blank" class="red-link">www.gijsvanklooster.com</a>.<br /><br /></p>
+  <p>On Facebook use tag <a href="https://www.facebook.com/gijsvanklooster" class="normal" target="_blank" class="red-link">@gijsvanklooster</a>.<br />On Instagram use tag <a href="https://www.instagram.com/gijsvanklooster" class="normal" target="_blank" class="red-link">@gijsvanklooster</a><br />On Twitter use tag <a href="https://twitter.com/abcgijs" class="normal" target="_blank" class="red-link">@abcgijs</a><br />All others online credits should link to <a href="https://www.gijsvanklooster.com" class="normal" target="_blank" class="red-link">www.gijsvanklooster.com</a>.<br /><br /></p>
   <p>All instances of negligence will be charged accordingly.</p>
 
 boring_terms: >
