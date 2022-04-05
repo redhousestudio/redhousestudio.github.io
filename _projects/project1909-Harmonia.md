@@ -24,7 +24,7 @@ project_background_image: project1909-bg.png
 
 ![Benjamin de Murashkin - Harmonia](../../img/project1909-image01.png)
 
-Benjamin is an accomplished composer, having worked with orchestras and ensembles throughout Scandinavia and beyond. Studying at conservatories in both Australia and Denmark he brings with him a varied background and an openness to multiple influences.
+Benjamin is a composer and worked with orchestras and ensembles throughout Scandinavia and beyond. Studying at conservatories in both Australia and Denmark he brings with him a varied background and an openness to multiple influences.
 
 Like a moving soundtrack, to no film in particular, Harmonia is an album with a fresh take on what genre-busting between the realms of true classical and electronic music sounds like. 
 
