@@ -5,7 +5,7 @@ permalink: "/projects/opera-spanga-samson-and-delilah/"
 
 title:  "Samson and Delilah (FILM)"
 project_name: "Samson and Delilah"
-role: "Recorded"
+role: "recording"
 category: recorded
 
 artist_name: "Opera Spanga"

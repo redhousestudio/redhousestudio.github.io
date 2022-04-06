@@ -25,7 +25,7 @@ project_thumbnails:
   - img: project0202-image03-thumb.png
 ---
 
-Ambient track written with DJ Tommy. Flute by Avi Adir.
+When we we're young! Ambient track written with DJ Tommy. Flute by Avi Adir.
 
 Released (vinyl) by "All is one", oktober 2005, released (CD) by "Kokopelli", oktober 2007.
 
